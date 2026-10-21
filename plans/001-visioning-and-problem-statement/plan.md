@@ -41,6 +41,18 @@ adopted: false
 > - 此開源筆記會留下所有有留下經歷和見解的大大的名字，讓前輩們的付諸都能有足夠的時間效益
 > - 此活動沒有任何商業意圖，但是此活動樂於和各單位的計劃做結合，讓發表和回饋更雙向
 
+同一天補充的目的：
+
+> 我的目的還有一個，就是我認為所有事情都一定可以透過 Pattern matching，透過量化跟質化的研究來做迴歸預測或是 Pattern matching。
+>
+> 所以我覺得台灣如果要成功打造產品，不管是初期成功打造產品，或是出圈、出海到矽谷，一定都存在最短路徑，一定都有攻略跟流派。我想把這些攻略跟流派都整理起來，就像《流亡黯道》這款遊戲的攻略一樣，可以有不同的流派：
+> • 不同的 SWOT
+> • 不同的 Founder-Market Fit（先從 Founder 開始）
+> • 不同的 Founding Team 玩法
+> • 不同的產業，看是結合台灣優勢，或是打造純軟都可以
+>
+> 我認為流派很多，但我們需要把量化跟質化的數據全部統整出來。
+
 ## As-Is 盤點現況
 
 - 2026-10-21 在 Threads 發起活動：https://www.threads.com/@johnny850807/post/Devi1LHEw4a
@@ -56,20 +68,25 @@ adopted: false
 
 創業者不知道有哪些 upfront plan 和募資成本計算等等一定要納入思維中；AI 資安問題越來越嚴重，這些成本都必須被計算清楚。定義見 [Vision](../../specs/Vision.md#upfront-plan-和募資成本計算)。
 
+### 攻略跟流派
+
+台灣要成功打造產品的最短路徑、攻略跟流派還沒有被整理起來，量化跟質化的數據也還沒有統整。定義見 [Vision](../../specs/Vision.md#攻略跟流派)。
+
 ## To-Be 目標
 
 1. 台灣有更多人看見這一條出海創業之路該怎麼進行（[Vision](../../specs/Vision.md#我們希望改變什麼)）。
 2. 有哪些 upfront plan 和募資成本計算一定要納入思維中，整理成開源的筆記，分享給所有路途上的創業者（[Vision](../../specs/Vision.md#我們希望留下什麼)）。
+3. 台灣成功打造產品的攻略跟流派整理起來，量化跟質化的數據全部統整出來（[Vision](../../specs/Vision.md#我們希望改變什麼)）。
 
 ## 工程摘要
 
 ### 工程戰略
 
-本 Plan 只新增 `specs/Vision.md`。之後的 Plan 從 Vision 的兩個 Problem 往下寫規格。
+本 Plan 只新增 `specs/Vision.md`。之後的 Plan 從 Vision 的三個 Problem 往下寫規格。
 
 ### 規格差異
 
-1. 新增 [Vision](../../specs/Vision.md)：願景、problem statement，以及開源的筆記要留下什麼。對應 [出海創業之路該怎麼進行](#出海創業之路該怎麼進行)、[upfront plan 和募資成本計算](<#upfront plan 和募資成本計算>)。
+1. 新增 [Vision](../../specs/Vision.md)：願景、problem statement，以及開源的筆記要留下什麼。對應 [出海創業之路該怎麼進行](#出海創業之路該怎麼進行)、[upfront plan 和募資成本計算](<#upfront plan 和募資成本計算>)、[攻略跟流派](#攻略跟流派)。
 
 ## 驗收
 
