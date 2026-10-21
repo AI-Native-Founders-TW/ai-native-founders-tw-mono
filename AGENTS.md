@@ -13,7 +13,7 @@ skill 不放進這個 repo：skill 是機密，私底下自己用。specs、plan
 1. **整個 mono 只有一組根層 `specs/`、`plans/`。**
 
    - 上游 why／should、Problem、Forces、決策依據與 specs truth 寫入 `specs/<業務編號>/`。
-   - 一次變更的規劃、原話、討論、裁決、實作與證據寫入同一個 `plans/<編號>-<名稱>/`。Plan 用引用聚合 specs，不另存第二份可編輯 truth。log 寫進所屬 Plan 的 `logs/`。
+   - 一次變更的規劃、原話、討論、實作與證據寫入同一個 `plans/<編號>-<名稱>/`。Plan 用引用聚合 specs，不另存第二份可編輯 truth。log 寫進所屬 Plan 的 `logs/`。
    - specs 使用業務編號，沒有內容就缺號；plans 根層每個目錄都是 Plan，使用連續主編號，新 Plan 接在既有最大純數字主編號之後。
    - 每個有意義的 commit 都能對回 `git commit → plan → specs truth change`；沒有 specs truth 變更時，commit 或 Plan 明記原因，不虛構 change。
 
@@ -28,7 +28,6 @@ skill 不放進這個 repo：skill 是機密，私底下自己用。specs、plan
    規則：**每次寫出編號，緊接一個小括號，裡面放 4–8 個繁體中文字的提點。**
 
    ```
-   ✅ A2-1（拍板測試量測參數與進步公式）
    ✅ D4（止損兩層三條）
    ✅ SV3（產品能力與作者分離）
 
@@ -83,5 +82,5 @@ skill 不放進這個 repo：skill 是機密，私底下自己用。specs、plan
    三條硬規定：
 
    1. **沒有 `author` 的 log，不要因為看起來像結論就當結論。**
-   2. **多份 log 立場相左時全部列出，不要挑一份當真相、也不要自行折衷成一個中間版本。** 寫法是「richard 在 7/26 認為 X；raymond 在 7/27 認為 Y」。
+   2. **多份 log 立場相左時全部列出，不要挑一份當真相、也不要自行折衷成一個中間版本。** 寫法是「A 在 7/26 認為 X；B 在 7/27 認為 Y」。
    3. **轉述時一定要帶名字與日期。** 拿掉名字，它就變成一個沒有出處的斷言，下一個讀的人無從判斷該不該信。
