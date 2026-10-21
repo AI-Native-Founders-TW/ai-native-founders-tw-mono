@@ -1,6 +1,6 @@
-# ai-native-founders-tw-mono — Taiwan AI-Native Founders Summit 的開源筆記
+# ai-native-founders-tw-mono — AI-Native Founders Summit Taiwan 的開源筆記
 
-這個 repo 是 Taiwan AI-Native Founders Summit 的開源筆記：根層一組 `specs/`、`plans/`。
+這個 repo 是 AI-Native Founders Summit Taiwan 的開源筆記：根層一組 `specs/`、`plans/`。
 
 發起人 Johnny 在 2026-10-21 的貼文原話：
 
