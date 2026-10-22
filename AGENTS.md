@@ -4,7 +4,7 @@ AI-Native Founders Summit Taiwan 的 specs 與 plans。根層只有 `specs/` 與
 
 ## specs
 
-`specs/` 放 specs truth：上游 why／should、Problem、Forces 與規格。`specs/Vision.md` 寫願景與 problem statement；其他規格依業務編號分目錄 `specs/<業務編號>/`，業務編號連續，沒有內容就缺號。
+`specs/` 放 specs truth：上游 why／should、Problem、Forces 與規格。`specs/Vision.md` 寫願景與 problem statement，`specs/創辦人的話.md` 記錄創辦人的話；其他規格依業務編號分目錄 `specs/<業務編號>/`，業務編號連續，沒有內容就缺號。
 
 規格分四層，由上游到下游。每份規格一個檔，檔名以該層的前綴開頭：
 

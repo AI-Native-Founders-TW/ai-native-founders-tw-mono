@@ -53,6 +53,12 @@ adopted: false
 >
 > 我認為流派很多，但我們需要把量化跟質化的數據全部統整出來。
 
+2026-10-22 的需求：
+
+> 幫我記錄我的 創辦人的話.md next to vision doc
+
+貼上的創辦人的話記錄在 [創辦人的話](../../specs/創辦人的話.md)，不改寫。
+
 ## As-Is 盤點現況
 
 - 2026-10-21 在 Threads 發起活動：https://www.threads.com/@johnny850807/post/Devi1LHEw4a
@@ -82,13 +88,16 @@ adopted: false
 
 ### 工程戰略
 
-本 Plan 只新增 `specs/Vision.md`。之後的 Plan 從 Vision 的三個 Problem 往下寫規格。
+本 Plan 新增 `specs/Vision.md` 與 `specs/創辦人的話.md`。之後的 Plan 從 Vision 的三個 Problem 往下寫規格。
 
 ### 規格差異
 
 1. 新增 [Vision](../../specs/Vision.md)：願景、problem statement，以及開源的筆記要留下什麼。對應 [出海創業之路該怎麼進行](#出海創業之路該怎麼進行)、[upfront plan 和募資成本計算](<#upfront plan 和募資成本計算>)、[攻略跟流派](#攻略跟流派)。
+2. 新增 [創辦人的話](../../specs/創辦人的話.md)：記錄創辦人的話，不改寫。對應 [出海創業之路該怎麼進行](#出海創業之路該怎麼進行)。
 
 ## 驗收
 
 - [ ] 1. 定位在 `specs/Vision.md`。動作是逐句對回需求原文。
     - 預期：每一句都找得到需求原文的出處，沒有需求原文裡沒有的詞。
+- [x] 2. 定位在 `specs/創辦人的話.md`。動作是逐字對照貼上的創辦人的話。
+    - 預期：一字不動，沒有加字、刪字或改寫。
