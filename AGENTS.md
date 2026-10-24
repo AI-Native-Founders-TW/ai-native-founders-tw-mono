@@ -1,6 +1,6 @@
 # ai-native-founders-tw-mono
 
-AI-Native Founders Summit Taiwan 的 specs 與 plans。根層只有 `specs/` 與 `plans/`。
+AI-Native Founders Summit Taiwan 的 specs、plans 與 logs。根層只有 `specs/`、`plans/` 與 `logs/`。
 
 ## 憲法
 
@@ -49,3 +49,9 @@ Plan 不是規格：規則一律寫在 specs；Plan 用引用聚合 specs，不�
 | 憲法檢查 | 以 subagent 檢查憲法中每一條規則的結論：違反，或沒有違反。Deliver 之前一定要有，而且每一條都沒有違反 |
 
 每個有意義的 commit 都能對回 `git commit → plan → specs truth change`；沒有 specs truth 變更時，commit 或 Plan 明記原因，不虛構 change。
+
+## logs
+
+`logs/` 放會議記錄：一場會議一個檔，檔名以日期開頭。會議記錄記的是當時講了什麼，不是規格：規則一律寫在 specs；會議的共識要寫進 specs，由 Plan 引用會議記錄。
+
+logs 也受憲法約束，Deliver／Push 之前一樣以 subagent 檢查憲法中的每一條規則；檢查的結論寫進加入那份會議記錄的 Plan 的「憲法檢查」。
