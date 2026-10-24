@@ -10,7 +10,7 @@ document_type: Vision
 
 讓困在台灣的更多創業者們，能夠一起來向各位前輩收集知識/認知；讓台灣有更多人看見這一條出海創業之路該怎麼進行，有哪些 upfront plan 和募資成本計算等等一定要納入思維中。
 
-AI-Native Founders Summit Taiwan 找有經歷 AI-Native 產品新創募資、或是正在這條路上的夥伴們，一起做 Coffee Chat or 線上交換知識。
+為了吸收大家的認知，AI-Native Founders Summit Taiwan 找有經歷 AI-Native 產品新創募資、或是正在這條路上的夥伴們，一起做 Coffee Chat or 線上交換知識。
 
 我們認為，所有事情都一定可以透過 Pattern matching，透過量化跟質化的研究來做迴歸預測或是 Pattern matching。台灣如果要成功打造產品，不管是初期成功打造產品，或是出圈、出海到矽谷，一定都存在最短路徑，一定都有攻略跟流派。
 
