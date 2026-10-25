@@ -9,13 +9,13 @@ references:
     description: 共同編輯協作承接已確認的方針；Note 中未採納的方案不因本條引用而成為規則。
 ---
 
-# AI-Native Founders Summit Taiwan 憲法
+# AI-Native Global Founders Speedrun Taiwan 憲法
 
 ## 第一章　總則
 
 ### 第 1 條（名稱）
 
-本組織名稱為 AI-Native Founders Summit Taiwan（以下簡稱本組織）。
+本組織名稱為 AI-Native Global Founders Speedrun Taiwan（以下簡稱本組織）。
 
 ### 第 2 條（性質）
 

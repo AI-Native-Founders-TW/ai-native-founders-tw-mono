@@ -1,6 +1,6 @@
 # ai-native-founders-tw-mono
 
-AI-Native Founders Summit Taiwan 的 specs、plans 與 logs。根層只有 `specs/`、`plans/` 與 `logs/`。
+AI-Native Global Founders Speedrun Taiwan 的 specs、plans 與 logs。根層只有 `specs/`、`plans/` 與 `logs/`。
 
 ## 憲法
 

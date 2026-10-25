@@ -11,7 +11,7 @@ references:
     description: "實現本檔的知識分享目的，需要處理志工時間、加入、協作資訊與知識取用的困難；具體問題及運作在工作流定義。"
 ---
 
-> AI-Native Founders Summit Taiwan — 用一份筆記槓桿全台創業者的認知。
+> AI-Native Global Founders Speedrun Taiwan — 用一份筆記槓桿全台創業者的認知。
 
 # Problem
 
@@ -81,7 +81,7 @@ references:
 
 ## 先成立媒體，再請求幫助
 
-為了吸收大家的認知，AI-Native Founders Summit Taiwan 找有經歷 AI-Native 產品新創募資、或正在這條路上的夥伴，一起 connect 和建立知識筆記。
+為了吸收大家的認知，AI-Native Global Founders Speedrun Taiwan 找有經歷 AI-Native 產品新創募資、或正在這條路上的夥伴，一起 connect 和建立知識筆記。
 
 以媒體／組織的方式請求前輩幫助，讓一次交流能幫到更多人。前輩若只幫一個團隊，時間效益有限；如果經驗被寫成一定條件能落地的攻略筆記，就可以分享給同樣在路上的創業者，減少每個人重新做相似 coffee chat 的需要。讓前輩的付出留下來，能被更多路途上的創業者參考，是我們成立媒體與整理筆記的理由。
 
