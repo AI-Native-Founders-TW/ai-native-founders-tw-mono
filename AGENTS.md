@@ -4,7 +4,7 @@ AI-Native Founders Summit Taiwan 的 specs、plans 與 logs。根層只有 `spec
 
 ## 憲法
 
-**[`specs/constitution.md`](specs/constitution.md) 是憲法。這個 repo 的所有產出都受憲法約束，不能違反憲法中的任何一條規則。**
+**[`specs/01-憲法/constitution.md`](specs/01-憲法/constitution.md) 是憲法。這個 repo 的所有產出都受憲法約束，不能違反憲法中的任何一條規則。**
 
 AI 在產出完之後，尤其是 Deliver／Push 之前，必須以 subagent 以極度嚴格的角度去檢查是否有違反憲法中的每一條規則：
 
@@ -16,7 +16,15 @@ AI 在產出完之後，尤其是 Deliver／Push 之前，必須以 subagent 以
 
 ## specs
 
-`specs/` 放 specs truth：上游 why／should、Problem、Forces 與規格。`specs/Vision.md` 寫願景與 problem statement，`specs/創辦人的話.md` 記錄創辦人的話，`specs/constitution.md` 是憲法；其他規格依業務編號分目錄 `specs/<業務編號>/`，業務編號連續，沒有內容就缺號。
+`specs/` 放 specs truth：上游 why／should、Problem、Forces 與規格。specs 分 package，一個 package 一個目錄 `specs/<編號>-<名稱>/`：
+
+| package | 放什麼 |
+|---|---|
+| `specs/00-願景和問題/` | `Vision.md` 寫願景與 problem statement，`創辦人的話.md` 記錄創辦人的話 |
+| `specs/01-憲法/` | `constitution.md` 是憲法 |
+| `specs/02-工作流/` | 還沒有內容 |
+
+新的 package 接在既有最大編號之後。
 
 規格分四層，由上游到下游。每份規格一個檔，檔名以該層的前綴開頭：
 

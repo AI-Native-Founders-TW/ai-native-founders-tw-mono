@@ -42,7 +42,7 @@ adopted: false
 
 ## As-Is 盤點現況
 
-- `specs/` 有 [Vision](../../specs/Vision.md) 與 [創辦人的話](../../specs/創辦人的話.md)，還沒有憲法。
+- `specs/` 有 [Vision](../../specs/00-願景和問題/Vision.md) 與 [創辦人的話](../../specs/00-願景和問題/創辦人的話.md)，還沒有憲法。
 - [AGENTS.md](../../AGENTS.md) 只寫 specs 與 plans 的寫法；AI 產出完之後、Deliver／Push 之前，沒有任何檢查。
 
 ## 使用者目前覺得的 Problem
@@ -57,8 +57,8 @@ NPO 本來就要有 value proposition，但 value proposition 還沒有定義清
 
 ## To-Be 目標
 
-1. 憲法寫在 `specs/constitution.md`：每一條都有名稱、規則與出處，可以逐條檢查（[憲法](../../specs/constitution.md)）。
-2. 憲法定義清楚 value proposition，並講清楚其他的商業意圖怎麼區分（[憲法](../../specs/constitution.md#第-2-條value-proposition)）。
+1. 憲法寫在 `specs/constitution.md`：每一條都有名稱、規則與出處，可以逐條檢查（[憲法](../../specs/01-憲法/constitution.md)）。
+2. 憲法定義清楚 value proposition，並講清楚其他的商業意圖怎麼區分（[憲法](../../specs/01-憲法/constitution.md#第-2-條value-proposition)）。
 3. AGENTS.md 強調憲法約束：AI 在產出完之後，尤其是 Deliver／Push 之前，必須以 subagent 以極度嚴格的角度去檢查是否有違反憲法中的每一條規則（[AGENTS.md](../../AGENTS.md#憲法)）。
 4. 每個 Plan 在 Deliver 之前都有「憲法檢查」，寫出每一條的結論。
 
@@ -78,7 +78,7 @@ SpecKit 的版本號與 Ratified／Last Amended 日期不採用：修改紀錄�
 
 ### 規格差異
 
-1. 新增 [憲法](../../specs/constitution.md)：第 1 條到第 8 條與治理。第 2 條（value proposition）與第 3 條（其他的商業意圖怎麼區分）對應 [其他的商業意圖怎麼區分](#其他的商業意圖怎麼區分)；其餘對應 [是否有違反憲法中的每一條規則](#是否有違反憲法中的每一條規則)。
+1. 新增 [憲法](../../specs/01-憲法/constitution.md)：第 1 條到第 8 條與治理。第 2 條（value proposition）與第 3 條（其他的商業意圖怎麼區分）對應 [其他的商業意圖怎麼區分](#其他的商業意圖怎麼區分)；其餘對應 [是否有違反憲法中的每一條規則](#是否有違反憲法中的每一條規則)。
 
 ## 驗收
 
@@ -89,19 +89,19 @@ SpecKit 的版本號與 Ratified／Last Amended 日期不採用：修改紀錄�
 
 創辦人做的決策，以及寫進哪裡。原話見各 Plan 的需求原文。
 
-- 2026-10-21：大家共同編輯協作，不用有拍板。寫進[第 5 條（大家共同編輯協作）](../../specs/constitution.md#第-5-條大家共同編輯協作)。
-- 2026-10-23：憲法 specs/constitution 機制。AGENTS.md 強調憲法約束：AI 在產出完之後，尤其是 Deliver／Push 之前，必須以 subagent 以極度嚴格的角度去檢查是否有違反憲法中的每一條規則。寫進[憲法](../../specs/constitution.md)與 [AGENTS.md 的「憲法」](../../AGENTS.md#憲法)。
+- 2026-10-21：大家共同編輯協作，不用有拍板。寫進[第 5 條（大家共同編輯協作）](../../specs/01-憲法/constitution.md#第-5-條大家共同編輯協作)。
+- 2026-10-23：憲法 specs/constitution 機制。AGENTS.md 強調憲法約束：AI 在產出完之後，尤其是 Deliver／Push 之前，必須以 subagent 以極度嚴格的角度去檢查是否有違反憲法中的每一條規則。寫進[憲法](../../specs/01-憲法/constitution.md)與 [AGENTS.md 的「憲法」](../../AGENTS.md#憲法)。
 - 2026-10-23：「你可以參考 SpecKit」。參考了哪些、哪些不採用，是 AI 的決定，見[工程戰略](#工程戰略)。
-- 2026-10-23：「如果這個組織能夠幫助我自己，還有我很棒的團隊做出能出海的 Business 的話，那一定也能幫助其他的台灣人。」這句不算商業意圖：「NPO 本來就要有 value proposition」，「value proposition 要定義清楚在憲法中，目的本身可以容忍」。寫進[第 2 條（value proposition）](../../specs/constitution.md#第-2-條value-proposition)。
-- 2026-10-23：「只要有正向意圖、是個良好的公民」算不算門檻，他選 AI 擬的選項「不是門檻，申請就能加入」。寫進[第 6 條（不會限制任何門檻）](../../specs/constitution.md#第-6-條唯一的門檻是自介)。
+- 2026-10-23：「如果這個組織能夠幫助我自己，還有我很棒的團隊做出能出海的 Business 的話，那一定也能幫助其他的台灣人。」這句不算商業意圖：「NPO 本來就要有 value proposition」，「value proposition 要定義清楚在憲法中，目的本身可以容忍」。寫進[第 2 條（value proposition）](../../specs/01-憲法/constitution.md#第-2-條value-proposition)。
+- 2026-10-23：「只要有正向意圖、是個良好的公民」算不算門檻，他選 AI 擬的選項「不是門檻，申請就能加入」。寫進[第 6 條（不會限制任何門檻）](../../specs/01-憲法/constitution.md#第-6-條唯一的門檻是自介)。
 - 2026-10-23：對建立憲法的過程，「另外上述迭代過程別紀錄，不想在 kickoff 時有這麼多複雜的脈絡」。
-- 2026-10-24：其他的商業意圖怎麼區分，需求原文裡 AI 擬的四項，他全選。寫進[第 3 條（其他的商業意圖怎麼區分）](../../specs/constitution.md#第-3-條其他的商業意圖怎麼區分)。
+- 2026-10-24：其他的商業意圖怎麼區分，需求原文裡 AI 擬的四項，他全選。寫進[第 3 條（其他的商業意圖怎麼區分）](../../specs/01-憲法/constitution.md#第-3-條其他的商業意圖怎麼區分)。
 
 其餘是 AI 的決定，不是創辦人的決策：從 Vision 與創辦人的話挑哪些句子當條文；治理的寫法，包含創辦人的話和憲法衝突時由創辦人自己改，以及建立憲法的 Plan 只留最後的版本；AGENTS.md 的檢查細節，例如「拿不準的算違反」。
 
 ## GitHub Organization 協作脈絡（2026-10-24，待釐清）
 
-本節保存本次討論與外部能力查證，不是已採納的組織規則。使用者要把這些脈絡寫進「那個 project 中的 plan」（見本節需求原文最後一段），放進本 Plan 是 AI 的判斷；使用者沒有確認整體權限提案，也沒有要求修改憲法或實際設定 GitHub。現行承諾仍以 [憲法](../../specs/constitution.md) 為準；本次沒有 specs truth 變更。
+本節保存本次討論與外部能力查證，不是已採納的組織規則。使用者要把這些脈絡寫進「那個 project 中的 plan」（見本節需求原文最後一段），放進本 Plan 是 AI 的判斷；使用者沒有確認整體權限提案，也沒有要求修改憲法或實際設定 GitHub。現行承諾仍以 [憲法](../../specs/01-憲法/constitution.md) 為準；本次沒有 specs truth 變更。
 
 ### 本次需求原文
 
@@ -156,8 +156,8 @@ Code Owner 的 Team 必須可見且具有該 repo 的 Write 權限。公開 repo
 
 ### 與現行憲法的衝突及未決範圍
 
-- [第 6 條（不會限制任何門檻）](../../specs/constitution.md#第-6-條唯一的門檻是自介)明定「沒有人審核；申請就能加入」。本次「PR 審核通過之後當 member」若成為入會前提，會與此條衝突。本節只保存這個想法，不把它設為生效流程，也不自行把「加入團體」與「GitHub Member」重新解讀成不同資格來放行。
-- [第 5 條（大家共同編輯協作）](../../specs/constitution.md#第-5-條大家共同編輯協作)明定「大家共同編輯協作，不用有拍板」。Council 是否取得內容核准、合併或否決權，須先釐清；不能因 Team 名稱已提出，就把共同編輯改成必須經 Council 拍板。
+- [第 6 條（不會限制任何門檻）](../../specs/01-憲法/constitution.md#第-6-條唯一的門檻是自介)明定「沒有人審核；申請就能加入」。本次「PR 審核通過之後當 member」若成為入會前提，會與此條衝突。本節只保存這個想法，不把它設為生效流程，也不自行把「加入團體」與「GitHub Member」重新解讀成不同資格來放行。
+- [第 5 條（大家共同編輯協作）](../../specs/01-憲法/constitution.md#第-5-條大家共同編輯協作)明定「大家共同編輯協作，不用有拍板」。Council 是否取得內容核准、合併或否決權，須先釐清；不能因 Team 名稱已提出，就把共同編輯改成必須經 Council 拍板。
 - 尚未決定：Council 名稱與定義是否採用、特別權限範圍、成員產生與撤換方式、是否實際需要兩個 Teams、repo 可見性、PR 審核條件、Owner 人選、邀請是否自動化。
 - 若後續要修改憲法，依現行「治理」的修改憲法規則處理。本輪只保存脈絡，不改憲法、既有 To-Be 或已採納的規格差異，不標記整體提案已確認、已就緒或已 Deliver。
 
