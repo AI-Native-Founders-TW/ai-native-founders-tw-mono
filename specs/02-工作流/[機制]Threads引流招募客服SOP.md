@@ -23,7 +23,7 @@ references:
 
 ## 適用範圍與處理結果
 
-本流程由一位本輪執行者接續操作 Threads 與 Discord，並依[憲法第 16 條（每事有人拍板）](../01-制度/constitution.md#第-16-條拍板)確認至少一位拍板的人。使用 AI 時，由同一個 agent 使用 computer use over browser，不同 agent 不同時回覆同一帳號或發送邀請；AI 執行者不取代拍板的人。
+本流程由一位本輪執行者接續操作 Threads 與 Discord，並依[憲法第 16 條（每事有人拍板）](../01-制度/constitution.md#第-16-條分工與決策)確認至少一位拍板的人。使用 AI 時，由同一個 agent 使用 computer use over browser，不同 agent 不同時回覆同一帳號或發送邀請；AI 執行者不取代拍板的人。
 
 目前對外招募與加入詢問的來源包括：
 
