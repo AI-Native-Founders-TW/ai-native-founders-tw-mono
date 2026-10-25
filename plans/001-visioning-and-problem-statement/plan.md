@@ -80,13 +80,15 @@ adopted: false
 
 ### upfront plan 和募資成本計算
 
-創業者不知道有哪些 upfront plan 和募資成本計算等等一定要納入思維中；AI 資安問題越來越嚴重，這些成本都必須被計算清楚。定義見 [Vision](../../specs/00-願景和問題/Vision.md#upfront-plan-和募資成本計算)。
+創業者不知道有哪些 upfront plan 和募資成本計算等等一定要納入思維中；AI 資安問題越來越嚴重，這些成本都必須被計算清楚。定義見 [Vision](../../specs/00-願景和問題/Vision.md#選擇upfront-plan-和成本計算的認知落差)。
 
 ### 攻略跟流派
 
 台灣要成功打造產品的最短路徑、攻略跟流派還沒有被整理起來，量化跟質化的數據也還沒有統整。定義見 [Vision](../../specs/00-願景和問題/Vision.md#攻略跟流派)。
 
 這個 Problem 是 AI 從同一天補充的目的推出來的，創辦人還沒確認。
+
+後續 [Plan 008（願景自洽改寫）](../008-Vision改成self-contained條列/plan.md) 已將「攻略跟流派」保留為創辦人提出的研究與整理方向；本節保留當時推論與未確認的紀錄，不再把「尚未整理」單獨當作已確認的 Problem。
 
 ## To-Be 目標
 

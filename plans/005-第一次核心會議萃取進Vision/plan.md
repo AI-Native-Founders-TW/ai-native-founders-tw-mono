@@ -24,12 +24,14 @@ adopted: false
 
 會議中全部提到的共識決議，背後的 vision 與 problem 還沒有萃取進 Vision。
 
+> 本節保留這次會議萃取時的目標；後續編排已由 [Plan 008（願景自洽改寫）](../008-Vision改成self-contained條列/plan.md) 接續重寫。以下連結定位目前對應內容，不表示原有會議分段仍保留。未決事項分別在[願景的範疇與資訊揭露](../../specs/00-願景和問題/Vision.md#範疇與資訊揭露)及[工作流的 Note](../../specs/02-工作流/[機制]志工協作與開源知識.md#note)維護。
+
 ## To-Be 目標
 
 1. 「我們希望改變什麼」加上這個Organization最重要的一個目的，與會中提出的對臺灣新創社會的終局改變（[Vision](../../specs/00-願景和問題/Vision.md#我們希望改變什麼)）。
-2. Problem statement 原有三個之後，跟著會議 Miro 上的 Frame 加兩段：對臺灣新創社會、你加入這個NPO 你想要的Benefit是什麼（[Vision](../../specs/00-願景和問題/Vision.md#problem-statement)）。
-3. 7 條決議每一條背後的 problem 都寫出來（[每一條決議背後的 problem](../../specs/00-願景和問題/Vision.md#每一條決議背後的-problem)）。
-4. 還沒有收斂、背後有 problem 的列出來，連到會議記錄的未決事項（[open issue](../../specs/00-願景和問題/Vision.md#open-issue)）。
+2. Problem statement 原有三個之後，跟著會議 Miro 上的 Frame 加兩段：對臺灣新創社會、你加入這個NPO 你想要的Benefit是什麼（[Vision](../../specs/00-願景和問題/Vision.md#problem)）。
+3. 7 條決議每一條背後的 problem 都寫出來（[每一條決議背後的 problem](../../specs/02-工作流/[機制]志工協作與開源知識.md#problem)）。
+4. 還沒有收斂、背後有 problem 的列出來，連到會議記錄的未決事項（[open issue](../../specs/02-工作流/[機制]志工協作與開源知識.md#note)）。
 
 ## 工程摘要
 
