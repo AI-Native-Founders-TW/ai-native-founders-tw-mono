@@ -4,7 +4,7 @@ AI-Native Global Founders Speedrun Taiwan 的 specs、plans 與 logs。根層只
 
 ## 憲法
 
-**[`specs/01-憲法/constitution.md`](specs/01-憲法/constitution.md) 是憲法。這個 repo 的所有產出都受憲法約束，不能違反憲法中的任何一條規則。**
+**[`specs/01-制度/constitution.md`](specs/01-制度/constitution.md) 是憲法。這個 repo 的所有產出都受憲法約束，不能違反憲法中的任何一條規則。**
 
 AI 在產出完之後，尤其是 Deliver／Push 之前，必須以 subagent 以極度嚴格的角度去檢查是否有違反憲法中的每一條規則：
 
@@ -14,6 +14,12 @@ AI 在產出完之後，尤其是 Deliver／Push 之前，必須以 subagent 以
 - 有任何一條違反，就不 Deliver、不 Push，照憲法第六章（憲法的效力與修改）與第七章（附則）處理：改產出，不改憲法；違反的是創辦人的話時，由創辦人自己改；建立或修改憲法的 Plan 裡，憲法本身就是產出。改完再以 subagent 檢查每一條。
 - 檢查的結論寫進該 Plan 的「憲法檢查」。
 
+## 制度與憲法的分工
+
+憲法保留組織目的、基本原則與治理規則。申請方式、自介審查及成員參與的具體安排，分別寫在 `specs/01-制度/[機制]申請制度.md` 與 `specs/01-制度/[機制]成員參與制度.md`。
+
+制度文件不得違反憲法；制度調整寫進各自 Plan 並接受憲法檢查，不必因此修憲。工作流引用制度，不另存第二套可編輯規則。只有涉及憲法本身的變更，才使用專門修憲 Plan。
+
 ## specs
 
 `specs/` 放 specs truth：上游 why／should、Problem、Forces 與規格。specs 分 package，一個 package 一個目錄 `specs/<編號>-<名稱>/`：
@@ -21,7 +27,7 @@ AI 在產出完之後，尤其是 Deliver／Push 之前，必須以 subagent 以
 | package | 放什麼 |
 |---|---|
 | `specs/00-願景和問題/` | `vision.md` 分開寫 Problem、Principle、Specs 與 Note，保留願景、困難、知識方向與未決構想；`創辦人的話.md` 記錄創辦人的話 |
-| `specs/01-憲法/` | `constitution.md` 是憲法 |
+| `specs/01-制度/` | `constitution.md` 保留組織核心原則與治理規則；申請制度、成員參與制度各自維護具體安排 |
 | `specs/02-工作流/` | 志工協作與開源知識的 Problem、已確認機制與未決事項 |
 
 新的 package 接在既有最大編號之後。

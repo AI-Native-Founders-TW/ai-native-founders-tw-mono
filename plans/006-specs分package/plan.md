@@ -28,7 +28,7 @@ specs 沒有區分 00-願景和問題、01-憲法、02-工作流三個 package�
 
 ## To-Be 目標
 
-1. specs 分成三個 package：[00-願景和問題](../../specs/00-願景和問題/)、[01-憲法](../../specs/01-憲法/)、`specs/02-工作流/`。
+1. specs 分成三個 package：[00-願景和問題](../../specs/00-願景和問題/)、[01-憲法](../../specs/01-制度/)、`specs/02-工作流/`。
 2. [AGENTS.md](../../AGENTS.md#specs) 列出三個 package 各放什麼。
 3. repo 裡指到這三份檔的連結都指到新位置。
 

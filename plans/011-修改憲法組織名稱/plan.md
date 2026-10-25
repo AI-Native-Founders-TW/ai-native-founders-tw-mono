@@ -10,17 +10,17 @@ adopted: false
 
 ## As-Is 盤點現況
 
-[憲法](../../specs/01-憲法/constitution.md)、[願景](../../specs/00-願景和問題/vision.md)及 [AGENTS.md](../../AGENTS.md) 原使用 AI-Native Founders Summit Taiwan，與本次指定名稱不同。
+[憲法](../../specs/01-制度/constitution.md)、[願景](../../specs/00-願景和問題/vision.md)及 [AGENTS.md](../../AGENTS.md) 原使用 AI-Native Founders Summit Taiwan，與本次指定名稱不同。
 
 ## 使用者目前覺得的 Problem
 
 ### 組織名稱需要改好
 
-目前有效規格的組織名稱應與本次指定名稱一致，以[憲法第 1 條（組織正式名稱）](../../specs/01-憲法/constitution.md#第-1-條名稱)為準。
+目前有效規格的組織名稱應與本次指定名稱一致，以[憲法第 1 條（組織正式名稱）](../../specs/01-制度/constitution.md#第-1-條名稱)為準。
 
 ## To-Be 目標
 
-1. [憲法](../../specs/01-憲法/constitution.md)、[願景](../../specs/00-願景和問題/vision.md)及 [AGENTS.md](../../AGENTS.md) 統一使用 AI-Native Global Founders Speedrun Taiwan。
+1. [憲法](../../specs/01-制度/constitution.md)、[願景](../../specs/00-願景和問題/vision.md)及 [AGENTS.md](../../AGENTS.md) 統一使用 AI-Native Global Founders Speedrun Taiwan。
 
 ## 工程摘要
 
@@ -30,7 +30,7 @@ adopted: false
 
 ### 規格差異
 
-- [憲法第 1 條（組織正式名稱）](../../specs/01-憲法/constitution.md#第-1-條名稱)與標題、[願景](../../specs/00-願景和問題/vision.md)兩處及 [AGENTS.md](../../AGENTS.md)說明改為指定名稱；對應「組織名稱需要改好」。
+- [憲法第 1 條（組織正式名稱）](../../specs/01-制度/constitution.md#第-1-條名稱)與標題、[願景](../../specs/00-願景和問題/vision.md)兩處及 [AGENTS.md](../../AGENTS.md)說明改為指定名稱；對應「組織名稱需要改好」。
 
 ## 驗收
 

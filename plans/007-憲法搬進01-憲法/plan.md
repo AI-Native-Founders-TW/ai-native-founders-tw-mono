@@ -27,7 +27,7 @@ adopted: false
 
 ## To-Be 目標
 
-1. 憲法在 [specs/01-憲法/constitution.md](../../specs/01-憲法/constitution.md)，裡面的連結都指到存在的檔案。
+1. 憲法在 [specs/01-憲法/constitution.md](../../specs/01-制度/constitution.md)，裡面的連結都指到存在的檔案。
 
 ## 工程摘要
 
@@ -43,7 +43,7 @@ adopted: false
 
 ### 規格差異
 
-1. 搬移 `specs/constitution.md` → [specs/01-憲法/constitution.md](../../specs/01-憲法/constitution.md)，修改第 1 條到第 8 條的出處連結路徑與治理第四點的 AGENTS.md 連結路徑。對應 [憲法沒有放進 01-憲法](#憲法沒有放進-01-憲法)。
+1. 搬移 `specs/constitution.md` → [specs/01-憲法/constitution.md](../../specs/01-制度/constitution.md)，修改第 1 條到第 8 條的出處連結路徑與治理第四點的 AGENTS.md 連結路徑。對應 [憲法沒有放進 01-憲法](#憲法沒有放進-01-憲法)。
 
 ## 驗收
 

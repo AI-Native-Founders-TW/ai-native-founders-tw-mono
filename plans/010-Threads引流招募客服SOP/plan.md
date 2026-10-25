@@ -14,7 +14,7 @@ adopted: false
 
 ## As-Is 盤點現況
 
-Threads 的加入詢問散在三篇貼文及私訊，先前操作流程以 LINE 邀請為目的地；[目前志工協作規格](../../specs/02-工作流/[機制]志工協作與開源知識.md)已寫明改用 Discord，成員資格則依[憲法](../../specs/01-憲法/constitution.md)。本次以目前 working tree 為依據，不改寫既有正在進行的憲法與願景修訂。
+Threads 的加入詢問散在三篇貼文及私訊，先前操作流程以 LINE 邀請為目的地；[目前志工協作規格](../../specs/02-工作流/[機制]志工協作與開源知識.md)已寫明改用 Discord，成員資格則依[憲法](../../specs/01-制度/constitution.md)。本次以目前 working tree 為依據，不改寫既有正在進行的憲法與願景修訂。
 
 ## 使用者目前覺得的 Problem
 
