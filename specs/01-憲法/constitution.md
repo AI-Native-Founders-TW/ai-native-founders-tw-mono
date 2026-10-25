@@ -45,7 +45,7 @@ references:
 
 一、產出：本 repo 的 specs、plans、logs 與 AGENTS.md。
 
-二、筆記：本組織把創業的知識與認知整理成的開源筆記。
+二、筆記：本組織把創業的知識與認知整理成的開源筆記，包含 Agent Skills 和其他知識記載文件。
 
 三、自介：以 PR 提交到本 repo 的自我介紹。
 
