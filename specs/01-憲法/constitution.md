@@ -2,10 +2,10 @@
 document_type: Spec
 references:
   - from: "#第 3 條（組織的價值主張）"
-    to: "../00-願景和問題/Vision.md#Problem"
+    to: "../00-願景和問題/vision.md#Problem"
     description: 價值主張承接願景中希望改變的情境與困難；問題描述不自行增加具體義務。
   - from: "#第 15 條（大家共同編輯協作）"
-    to: "../00-願景和問題/Vision.md#Principle"
+    to: "../00-願景和問題/vision.md#Principle"
     description: 共同編輯協作承接已確認的方針；Note 中未採納的方案不因本條引用而成為規則。
 ---
 
@@ -127,7 +127,7 @@ references:
 
 產出與筆記，由大家共同編輯協作。
 
-分工採「誰最 care 什麼，誰就來 own 什麼」；大家在不違反 [Vision（願景與問題）](../00-願景和問題/Vision.md) 中已確認的願景與方針的前提下，自己發揮。
+分工採「誰最 care 什麼，誰就來 own 什麼」；大家在不違反 [Vision（願景與問題）](../00-願景和問題/vision.md) 中已確認的願景與方針的前提下，自己發揮。
 
 前項不包含 Note 中尚未採納的個別構想、候選方案與未決事項；這些內容不因本條引用而成為規則。
 

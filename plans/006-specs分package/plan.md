@@ -47,7 +47,7 @@ specs 沒有區分 00-願景和問題、01-憲法、02-工作流三個 package�
 
 ### 規格差異
 
-1. 搬移 `specs/Vision.md` → [specs/00-願景和問題/Vision.md](../../specs/00-願景和問題/Vision.md)，只改三行四個連到會議記錄與憲法的連結路徑。對應 [specs 沒有分 package](#specs-沒有分-package)。
+1. 搬移 `specs/Vision.md` → [specs/00-願景和問題/vision.md](../../specs/00-願景和問題/vision.md)，只改三行四個連到會議記錄與憲法的連結路徑。對應 [specs 沒有分 package](#specs-沒有分-package)。
 2. 搬移 `specs/創辦人的話.md` → [specs/00-願景和問題/創辦人的話.md](../../specs/00-願景和問題/創辦人的話.md)，內容不變。對應 [specs 沒有分 package](#specs-沒有分-package)。
 3. 新增 `specs/02-工作流/`，還沒有內容。對應 [specs 沒有分 package](#specs-沒有分-package)。
 4. 修改 [AGENTS.md](../../AGENTS.md#specs) 的 specs 一節，以及憲法一節連到憲法的路徑。對應 [specs 沒有分 package](#specs-沒有分-package)。

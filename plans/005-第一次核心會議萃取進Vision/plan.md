@@ -15,7 +15,7 @@ adopted: false
 
 ## As-Is 盤點現況
 
-- [Vision](../../specs/00-願景和問題/Vision.md) 有「我們希望改變什麼」、三個 Problem statement（出海創業之路該怎麼進行、upfront plan 和募資成本計算、攻略跟流派）與「我們希望留下什麼」，都來自 2026-10-21 的發起貼文與訊息。
+- [Vision](../../specs/00-願景和問題/vision.md) 有「我們希望改變什麼」、三個 Problem statement（出海創業之路該怎麼進行、upfront plan 和募資成本計算、攻略跟流派）與「我們希望留下什麼」，都來自 2026-10-21 的發起貼文與訊息。
 - [第一次核心會議](../../logs/20261024-第一次核心會議-會議記錄.md)（2026-10-24）有 7 條決議、四個議題的分享與未決事項，還沒有進 specs。
 
 ## 使用者目前覺得的 Problem
@@ -24,12 +24,12 @@ adopted: false
 
 會議中全部提到的共識決議，背後的 vision 與 problem 還沒有萃取進 Vision。
 
-> 本節保留這次會議萃取時的目標；後續編排已由 [Plan 008（願景自洽改寫）](../008-Vision改成self-contained條列/plan.md) 接續重寫。以下連結定位目前對應內容，不表示原有會議分段仍保留。未決事項分別在[願景的範疇與資訊揭露](../../specs/00-願景和問題/Vision.md#範疇與資訊揭露)及[工作流的 Note](../../specs/02-工作流/[機制]志工協作與開源知識.md#note)維護。
+> 本節保留這次會議萃取時的目標；後續編排已由 [Plan 008（願景自洽改寫）](../008-Vision改成self-contained條列/plan.md) 接續重寫。以下連結定位目前對應內容，不表示原有會議分段仍保留。未決事項分別在[願景的範疇與資訊揭露](../../specs/00-願景和問題/vision.md#範疇與資訊揭露)及[工作流的 Note](../../specs/02-工作流/[機制]志工協作與開源知識.md#note)維護。
 
 ## To-Be 目標
 
-1. 「我們希望改變什麼」加上這個Organization最重要的一個目的，與會中提出的對臺灣新創社會的終局改變（[Vision](../../specs/00-願景和問題/Vision.md#我們希望改變什麼)）。
-2. Problem statement 原有三個之後，跟著會議 Miro 上的 Frame 加兩段：對臺灣新創社會、你加入這個NPO 你想要的Benefit是什麼（[Vision](../../specs/00-願景和問題/Vision.md#problem)）。
+1. 「我們希望改變什麼」加上這個Organization最重要的一個目的，與會中提出的對臺灣新創社會的終局改變（[Vision](../../specs/00-願景和問題/vision.md#我們希望改變什麼)）。
+2. Problem statement 原有三個之後，跟著會議 Miro 上的 Frame 加兩段：對臺灣新創社會、你加入這個NPO 你想要的Benefit是什麼（[Vision](../../specs/00-願景和問題/vision.md#problem)）。
 3. 7 條決議每一條背後的 problem 都寫出來（[每一條決議背後的 problem](../../specs/02-工作流/[機制]志工協作與開源知識.md#problem)）。
 4. 還沒有收斂、背後有 problem 的列出來，連到會議記錄的未決事項（[open issue](../../specs/02-工作流/[機制]志工協作與開源知識.md#note)）。
 
@@ -47,7 +47,7 @@ adopted: false
 
 ### 規格差異
 
-1. 修改 [Vision](../../specs/00-願景和問題/Vision.md)：「我們希望改變什麼」加兩段，Problem statement 加四段（對臺灣新創社會、你加入這個NPO 你想要的Benefit是什麼、每一條決議背後的 problem、open issue）。對應 [會議的 vision 與 problem 沒有進 Vision](#會議的-vision-與-problem-沒有進-vision)。
+1. 修改 [Vision](../../specs/00-願景和問題/vision.md)：「我們希望改變什麼」加兩段，Problem statement 加四段（對臺灣新創社會、你加入這個NPO 你想要的Benefit是什麼、每一條決議背後的 problem、open issue）。對應 [會議的 vision 與 problem 沒有進 Vision](#會議的-vision-與-problem-沒有進-vision)。
 
 ## 驗收
 
@@ -58,7 +58,7 @@ adopted: false
 
 ## 關鍵決策
 
-- 2026-10-24：「把這文充分萃取寫進去 ai-native-founders-tw-mono/specs/Vision.md 適當分層級做 formulation」「會議中全部提到的共識決議如果有背後的 vision & problem 都要好好萃取，不能漏掉」。寫進 [Vision](../../specs/00-願景和問題/Vision.md)。
+- 2026-10-24：「把這文充分萃取寫進去 ai-native-founders-tw-mono/specs/Vision.md 適當分層級做 formulation」「會議中全部提到的共識決議如果有背後的 vision & problem 都要好好萃取，不能漏掉」。寫進 [Vision](../../specs/00-願景和問題/vision.md)。
 
 其餘是 AI 的決定，不是創辦人的決策：分層的方式；從原話或 Miro 卡片挑哪幾個字當標題；決議本身不寫進 Vision。
 

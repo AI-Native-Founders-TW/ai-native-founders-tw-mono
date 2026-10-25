@@ -42,7 +42,7 @@ adopted: false
 
 ## As-Is 盤點現況
 
-- `specs/` 有 [Vision](../../specs/00-願景和問題/Vision.md) 與 [創辦人的話](../../specs/00-願景和問題/創辦人的話.md)，還沒有憲法。
+- `specs/` 有 [Vision](../../specs/00-願景和問題/vision.md) 與 [創辦人的話](../../specs/00-願景和問題/創辦人的話.md)，還沒有憲法。
 - [AGENTS.md](../../AGENTS.md) 只寫 specs 與 plans 的寫法；AI 產出完之後、Deliver／Push 之前，沒有任何檢查。
 
 ## 使用者目前覺得的 Problem

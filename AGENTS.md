@@ -20,7 +20,7 @@ AI 在產出完之後，尤其是 Deliver／Push 之前，必須以 subagent 以
 
 | package | 放什麼 |
 |---|---|
-| `specs/00-願景和問題/` | `Vision.md` 分開寫 Problem、Principle、Specs 與 Note，保留願景、困難、知識方向與未決構想；`創辦人的話.md` 記錄創辦人的話 |
+| `specs/00-願景和問題/` | `vision.md` 分開寫 Problem、Principle、Specs 與 Note，保留願景、困難、知識方向與未決構想；`創辦人的話.md` 記錄創辦人的話 |
 | `specs/01-憲法/` | `constitution.md` 是憲法 |
 | `specs/02-工作流/` | 志工協作與開源知識的 Problem、已確認機制與未決事項 |
 
