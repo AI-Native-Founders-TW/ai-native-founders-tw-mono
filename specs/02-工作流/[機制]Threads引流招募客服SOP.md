@@ -1,13 +1,3 @@
----
-references:
-  - from: "#Problem"
-    to: "[機制]志工協作與開源知識.md#我們能不能減少我們的營運成本"
-    description: "接續處理留言與私訊，避免漏回或重複邀請。"
-  - from: "#SOP"
-    to: "../01-制度/[機制]申請制度.md#Specs"
-    description: "加入方式與資格依申請制度。"
----
-
 # Threads 引流招募客服 SOP
 
 # Problem

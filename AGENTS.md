@@ -56,7 +56,7 @@ AI 在產出完之後，尤其是 Deliver／Push 之前，必須以 subagent 以
 
 Plan 不是規格：規則一律寫在 specs；Plan 用引用聚合 specs，不另存第二份可編輯 truth。
 
-`plan.md` 的 frontmatter 只有 `adopted`：新建為 `false`，這個 Plan 已經 deliver 時改成 `true`。
+文件開頭的 metadata 只保留 `type` 或 `document_type` 類型欄位；移除 `references`、`adopted` 等其他欄位。沒有類型欄位時，不保留 frontmatter。Plan 的交付狀態記於正文的驗收內容。
 
 章節依內容取捨，沒有內容的章節不寫：
 

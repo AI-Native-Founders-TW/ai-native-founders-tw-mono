@@ -1,16 +1,3 @@
----
-references:
-  - from: "#筆記的公益與共同編輯"
-    to: "../01-制度/constitution.md#第二章　非營利、商業意圖與筆記"
-    description: "筆記的公益、商業界線及資訊貢獻者留名，依憲法的具體規定，不在本檔另訂一套。"
-  - from: "#筆記的公益與共同編輯"
-    to: "../01-制度/constitution.md#第四章　協作與分工"
-    description: "共同編輯、認領與拍板依憲法；本檔說明知識要留下什麼。"
-  - from: "#志工組織如何支持這個目的"
-    to: "../02-工作流/[機制]志工協作與開源知識.md#Problem"
-    description: "實現本檔的知識分享目的，需要處理志工時間、加入、協作資訊與知識取用的困難；具體問題及運作在工作流定義。"
----
-
 > AI-Native Global Founders Speedrun Taiwan — 用一份筆記槓桿全台創業者的認知。
 
 # Problem

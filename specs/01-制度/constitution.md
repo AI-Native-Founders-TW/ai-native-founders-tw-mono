@@ -1,12 +1,5 @@
 ---
 document_type: Spec
-references:
-  - from: "#第 3 條（組織的價值主張）"
-    to: "../00-願景和問題/vision.md#Problem"
-    description: "組織的價值主張依據願景所載的情境與問題。"
-  - from: "#第 15 條（共同編輯與協作）"
-    to: "../00-願景和問題/vision.md#Principle"
-    description: "協作以願景中已確認的方針為依據；Note 中未採納的構想不具有規範效力。"
 ---
 
 # AI-Native Global Founders Speedrun Taiwan 憲法
