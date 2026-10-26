@@ -22,14 +22,14 @@ AI 在產出完之後，尤其是 Deliver／Push 之前，必須以 subagent 以
 
 ## specs
 
-`specs/` 放 specs truth：上游 why／should、Problem、Forces、規格與行政工作的現行資料。specs 分 package，一個 package 一個目錄 `specs/<編號>-<名稱>/`：
+`specs/` 放 specs truth：上游 why／should、Problem、Forces 與規格。specs 分 package，一個 package 一個目錄 `specs/<編號>-<名稱>/`：
 
 | package | 放什麼 |
 |---|---|
 | `specs/00-願景和問題/` | `vision.md` 分開寫 Problem、Principle、Specs 與 Note，保留願景、困難、知識方向與未決構想；`創辦人的話.md` 記錄創辦人的話 |
 | `specs/01-制度/` | `constitution.md` 保留組織核心原則與治理規則；申請制度、成員參與制度各自維護具體安排 |
 | `specs/02-工作流/` | 志工協作與開源知識的 Problem、已確認機制與未決事項 |
-| `specs/03-行政/` | 組織行政工作的現行資料與處理狀態，例如已送出邀請帳號 truth；私人證據另外保存 |
+| `specs/03-行政/` | 組織行政工作的固定規定與資料格式；實際邀請經過記於 `logs/邀請日誌.md` |
 
 新的 package 接在既有最大編號之後。每個 package 都要有 `README.md`，說明主要放什麼 subset 的資料及現有文件入口；README 提供導覽，不另存一份可編輯的規則。
 
@@ -75,6 +75,6 @@ Plan 不是規格：規則一律寫在 specs；Plan 用引用聚合 specs，不�
 
 ## logs
 
-`logs/` 放會議記錄：一場會議一個檔，檔名以日期開頭。會議記錄記的是當時講了什麼，不是規格：規則一律寫在 specs；會議的共識要寫進 specs，由 Plan 引用會議記錄。
+`logs/` 放會議記錄與執行日誌。會議記錄一場一個檔，檔名以日期開頭；持續追加的邀請日誌固定使用 `logs/邀請日誌.md`，沒有日期前綴，表格內記錄每次時間、暱稱、遮蔽帳號、渠道及處理結果。會議記錄記的是當時講了什麼，不是規格：規則一律寫在 specs；會議的共識要寫進 specs，由 Plan 引用會議記錄。
 
 logs 也受憲法約束，Deliver／Push 之前一樣以 subagent 檢查憲法中的每一條規則；檢查的結論寫進加入那份會議記錄的 Plan 的「憲法檢查」。
