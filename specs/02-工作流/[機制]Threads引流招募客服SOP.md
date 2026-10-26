@@ -34,7 +34,7 @@
 
    **Payload（公版訊息）**
 
-   傳送前補齊下列閱讀文件、自介範例及活動的連結，並確認邀請可用；不要把待補文字一起傳出。將下方公版訊息全文一次複製貼上到該對象的私訊訊息區，確認收件人及內容無誤後送出。
+   傳送前確認下列正式連結及 Discord 邀請仍可開啟。將下方公版訊息全文一次複製貼上到該對象的私訊訊息區，確認收件人及內容無誤後送出。
 
    > 歡迎加入 **AI-Native Global Founders Speedrun Taiwan**！👋
    >
@@ -56,7 +56,9 @@
    >
    > 3. **先認識組織與加入方式**
    >    請先閱讀 Repo 裡的「創辦人的話」、「憲法」與「申請制度」，了解我們想做什麼、共同遵守的原則，以及如何申請加入。
-   >    `<三份文件的直達連結>`
+   >    創辦人的話：https://github.com/AI-Native-Founders-TW/ai-native-founders-tw-mono/blob/main/specs/00-%E9%A1%98%E6%99%AF%E5%92%8C%E5%95%8F%E9%A1%8C/%E5%89%B5%E8%BE%A6%E4%BA%BA%E7%9A%84%E8%A9%B1.md
+   >    憲法：https://github.com/AI-Native-Founders-TW/ai-native-founders-tw-mono/blob/main/specs/01-%E5%88%B6%E5%BA%A6/constitution.md
+   >    申請制度：https://github.com/AI-Native-Founders-TW/ai-native-founders-tw-mono/blob/main/specs/01-%E5%88%B6%E5%BA%A6/%5B%E6%A9%9F%E5%88%B6%5D%E7%94%B3%E8%AB%8B%E5%88%B6%E5%BA%A6.md
    >
    > 4. **用 PR 提交自我介紹**（非常必要，是加入的基礎門檻）
    >    依申請制度，在 Repo 的 `Members/` 資料夾新增自介，寫下：
@@ -70,11 +72,11 @@
    >    **R&R 必須在提交前寫清楚，不能留待之後補充。** 請具體說明可以幫什麼忙、想要幫什麼忙，寫得越清楚越好：未來大家有志要辦任何活動，都可以善用 AI，透過 R&R 直接尋找相關可以幫忙的志工。
    >
    >    可以用 AI 協助整理，但**提交 PR 前，請務必由本人親自 review 全文**，確認內容真實、符合自己的想法，沒有 AI 代為編造的經歷或參與承諾，再提交。提交 PR 是提出申請，審查通過後才成為成員。
-   >    `<自介範例與 PR 提交說明連結>`
+   >    https://github.com/AI-Native-Founders-TW/ai-native-founders-tw-mono/blob/main/Members/README.md
    >
    > 5. **到活動串留下你想問的問題**
    >    Discord 的 `events` 裡有「活動：想問矽谷大佬關於創業出海的問題，搜集起來後拿去問」。歡迎留言分享你想問的問題，以及你願意協助的部分，例如一起做開源筆記、Networking 或活動。
-   >    `<活動直達連結>`
+   >    https://discord.com/channels/1563453138810306612/1564216037623463936
    >
    > 可以在 Discord 中發問或回覆！為了省 Token 因此 AI 便不在私訊中回覆訊息了，謝謝。
 
