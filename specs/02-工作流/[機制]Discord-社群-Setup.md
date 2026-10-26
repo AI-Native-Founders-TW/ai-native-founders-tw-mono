@@ -2,7 +2,7 @@
 
 ## Discord 加入、交流與活動
 
-Discord 需要支援新人開始、創業交流、志工號召工作，以及線上與實體活動的發起及參與。參與者各有工作與生活，投入時間有限；組織需要讓這些行為容易發生，也需要讓重要資訊可以被找到。以下定義本次設計要滿足的需要，不表示目前 Discord 已完成設定或發生過特定問題。
+Discord 需要支援新人開始、創業交流、志工號召工作，以及線上與實體活動的發起及參與。參與者各有工作與生活，投入時間有限；組織需要讓這些行為容易發生，也需要讓重要資訊可以被找到。
 
 ### 新人理解組織並知道如何加入
 
@@ -38,95 +38,58 @@ Discord 需要支援新人開始、創業交流、志工號召工作，以及線
 
 ## Discord 社群的適用範圍
 
-本文件集中維護上述新人加入、創業交流、志工號召工作及活動參與所需的 Discord 設定。頻道名稱全部使用英文。
+目標 server 為 [AI-Native Global Founders Speedrun Taiwan](https://discord.com/channels/1563453138810306612/1563453141641597000)。頻道與 category 名稱均使用英文，描述及新人說明使用繁體中文；既有訊息與論壇討論串保留。
 
-Discord 身分與組織成員資格分開：申請及審查依[申請制度](../01-制度/[機制]申請制度.md)，具體參與安排依[成員參與制度](../01-制度/[機制]成員參與制度.md)。平台設定不另行增加組織加入條件，也不以進入 server 取代既有申請與審查。
-
-## 設定狀態
-
-十一個頻道的配置、所有加入者可建立自己的活動，以及本次不新增管理者或公告發布者，均已確認。頻道設定尚未執行，實際結果仍須驗證；以下 Note 保留唯讀盤點、未確認的平台設定與活動細節，不表示已完成 Discord setup。
+Discord 身分與組織成員資格分開。申請與審查依[申請制度](../01-制度/[機制]申請制度.md)，自介放在公開 repo 的 [members](../../members/README.md) 資料夾，以 PR 提交；具體參與安排依[成員參與制度](../01-制度/[機制]成員參與制度.md)。進入 server、新人導覽與活動權限不另設組織加入條件。
 
 ## 頻道整體配置
 
-頻道與 category 名稱均為英文。以下為設定配置；新增或改名時保留既有訊息與論壇討論串。
+分類與頻道依下表排列。Text 是文字頻道、Forum 是論壇、Voice 是語音；括號說明可見及發文限制。
 
 | Category | Channel | Type | 描述 |
 |---|---|---|---|
-| start-here | welcome | Text（唯讀） | 組織介紹與新人下一步；沿用既有頻道。 |
-| start-here | onboard | Text（唯讀） | 閱讀規格、repo、自介 PR 與提問入口；沿用，不另設第二次入會審查。 |
-| start-here | rules | Text（唯讀） | 簡短平台交流規則與現行憲法、制度連結；新增，不另改組織規則。 |
-| start-here | announcements | Text（僅既有管理者發文） | 重要公告與已確認活動；新增，既有管理者可發布，不新增公告發布者。 |
-| community | chit-chat | Text | 打招呼、閒聊、即時問答與新人求助；沿用。 |
-| community | funding | Text | 募資交流；沿用並保留既有內容，仍須遵守不得推銷與收費置入的規定。 |
-| community | discussions | Forum | 一個問題或經驗一篇；新增，長期有用的知識再依既有規格整理到 repo。 |
-| get-involved | collaborations | Forum | 一件號召工作或活動籌備一篇；沿用並保留既有討論串。 |
-| get-involved | events | Forum | 一場活動一篇，保存詳情與討論；沿用並保留既有討論串，確定排程後連到原生 Events。 |
-| voice | lounge | Voice | 即時交流與小型線上活動共用；由既有 General 改名。 |
-| management | mod-log | Text（私有） | Community 更新與 AutoMod 警示；新增，只有伺服器擁有者及既有管理者可見。 |
+| start-here | [welcome](https://discord.com/channels/1563453138810306612/1563453141641597000) | Text（唯讀） | 歡迎加入 AI-Native Global Founders Speedrun Taiwan！我們共享創業知識、交流經驗並一起做事。新人請先看 #onboard 與 #rules，有問題到 #chit-chat 詢問。 |
+| start-here | [onboard](https://discord.com/channels/1563453138810306612/1563456791050977341) | Text（唯讀） | 從這裡開始：閱讀組織願景、憲法與申請制度，再於公開 repo 的 members 資料夾以 PR 提交自介。自介審查通過後成為組織成員；進入 Discord 不等於已入會。Repo：https://github.com/AI-Native-Founders-TW/ai-native-founders-tw-mono |
+| start-here | [rules](https://discord.com/channels/1563453138810306612/1564249902475907172) | Text（唯讀） | 交流請遵守組織憲法與現行制度：開放學習、尊重彼此、自願貢獻；不得以本組織名義、筆記或活動為特定公司推銷產品、服務或提供收費置入。規範以 repo 為準：https://github.com/AI-Native-Founders-TW/ai-native-founders-tw-mono |
+| start-here | [announcements](https://discord.com/channels/1563453138810306612/1564249954266914846) | Text（唯讀） | 重要公告、組織更新與已確認活動，由既有管理者發布。日常討論請到 #chit-chat；活動詳情與接續討論請到 #events。 |
+| community | [chit-chat](https://discord.com/channels/1563453138810306612/1563454007605723186) | Text | 打招呼、閒聊、即時問答與新人求助。想深入討論創業問題或分享經驗，請到 #discussions 開一篇，讓大家能在自己的時間接續。 |
+| community | [funding](https://discord.com/channels/1563453138810306612/1564236090770984970) | Text | 交流募資問題、經驗與資源。請交代創業階段、具體問題與需要的幫忙；仍須遵守不得以組織名義推銷產品、服務或提供收費置入的規定。 |
+| community | [discussions](https://discord.com/channels/1563453138810306612/1564250031706607657) | Forum | 一個創業問題或一份經驗分享開一篇。請說明背景、具體問題、已嘗試的方法與希望得到的幫忙；相關討論留在同篇，長期有用的知識再整理到 repo。 |
+| get-involved | [collaborations](https://discord.com/channels/1563453138810306612/1563454194541658122) | Forum | 號召志工與協作，一件工作或活動籌備開一篇。請說明要做什麼、需要哪些幫忙、如何參與，以及由誰負責決策；參與自願，認領不代表必須獨自完成。 |
+| get-involved | [events](https://discord.com/channels/1563453138810306612/1563454084168814612) | Forum | 一場線上或實體活動開一篇，說明目的、時間、地點或會議連結及參與方式；活動討論留在同篇。所有加入者都可建立自己的 Events 排程；Interested 表示興趣，不取代另有要求的報名程序。 |
+| voice | [lounge](https://discord.com/channels/1563453138810306612/1563453141641597001) | Voice | 即時交流、Coffee Chat、工作討論與小型線上活動共用語音空間。活動目的、時間與參與方式請放 #events，工作號召請放 #collaborations。 |
+| management | [mod-log](https://discord.com/channels/1563453138810306612/1564250087775932556) | Text（私有） | 私有管理紀錄：接收 Community 更新與 AutoMod 警示，僅供伺服器擁有者及既有管理者查看；不在此新增組織決策權或管理授權。 |
 
-Type 中 Text 是文字頻道、Forum 是論壇、Voice 是語音；括號補充可見及發文限制，不是不同頻道類型。announcements 使用一般 Text；原生 Events 是排程功能，不是另一個同名 channel。
+文字頻道的描述填入 Channel Topic，論壇填入 Post Guidelines。lounge 的設定頁沒有描述欄位，使用語音頻道的[文字聊天用途說明](https://discord.com/channels/1563453138810306612/1563453141641597001/1564251491944898581)。announcements 使用一般 Text；原生 Events 是活動排程功能，不是額外頻道。
 
-## 活動建立與管理權限
+<a id="管理與公告發布"></a>
 
-所有 server 加入者均可建立自己的原生 Events 活動排程；不以通過組織成員審查或取得管理者身分作為建立活動的條件。管理全部活動仍限既有管理者。此權限不改變組織加入資格，也不增加出席或辦活動義務。
+## 公開、唯讀與管理權限
 
-## 管理與公告發布
+公開交流頻道允許一般加入者查看、發文、回覆及讀取歷史，lounge 允許進入與發言。start-here 的四個入口頻道不允許一般加入者發訊息、在討論串發文或建立公開、私人討論串；公告由既有管理者發布。
 
-本次設定維持既有管理權，不新增管理者、管理授權或公告發布者。announcements 先由既有管理者發布；mod-log 僅供伺服器擁有者及既有管理者查看。實際設定前核對現有權限，不因本規格自行新增人選或擴張既有管理權。
+management 與 mod-log 對 @everyone 拒絕 View Channel。維持既有管理權，不新增角色、管理者或公告發布者；不將管理伺服器、管理角色、管理頻道、管理全部活動或 Administrator 開給一般加入者。一般加入者不能使用 @everyone、@here 或大量角色提及。
 
+<a id="活動建立與管理權限"></a>
 
-# Note
+## 活動建立與參與
 
-## 初始內容（尚未採納）
+所有 server 加入者均可建立自己的原生 Events 活動排程；不以組織成員資格或管理者身分作為條件。管理全部活動仍限既有管理者，不增加出席或辦活動義務。
 
-歡迎、規則、說明與發文引導先以繁體中文呈現，方便目前參與者理解；內容安排尚未確認，也尚未發布。
+活動詳情與討論放 events，籌備工作號召放 collaborations。每場活動說明目的、時間、地點或會議連結及參與方式；若另有名額、審核或報名要求，須在該活動說清楚，Interested 不等於完成另行要求的報名。尚未發起的活動不填入虛構日期、地點或出席承諾。活動遵守[憲法](../01-制度/constitution.md)。
 
-## 目標 server 現況（2026-10-26）
+## Community 與安全設定
 
-目標為 AI-Native Global Founders Speedrun Taiwan。以下是原生 Discord computer use 唯讀盤點的當時畫面，實際設定前須重新核對。
+Community 使用 rules 作為規則頻道，Community 更新與安全通知送 mod-log。發訊息須符合平台的已驗證信箱要求；敏感媒體檢查涵蓋所有成員，預設通知為 Mentions Only。平台防護不取代組織申請與審查。
 
-- 既有文字頻道：welcome、onboard、chit-chat、funding。
-- 既有論壇：events、collaborations，已有討論串，應保留。
-- 既有語音：General。
-- onboard 畫面顯示頻道起始頁，沒有加入步驟；welcome 的首次訊息列表尚未顯示內容，未據此斷言永久空白。
-- 設定頁顯示 Enable Community，Community 尚未啟用。既有兩個論壇仍可在側欄定位；不再用官方文件的 Community 必要條件推斷現有論壇不存在。
-- Roles 頁只有預設權限入口，沒有顯示任何自訂角色。
-- @everyone 的 Create Events 與 Mention @everyone, @here, and All Roles 為 on；Manage Events、Manage Channels、Manage Roles、Manage Server、Administrator 為 off。
-- Safety Setup 顯示 Verification Level 為 None、Sensitive content filters 為 Do not filter，安全通知頻道未選定。未改動這些值。
+AutoMod 啟用 Block Mention Spam 與 Block Suspected Spam Content：阻擋訊息，並送警示至 mod-log，不自動禁言。大量提及沿用平台預設上限二十個不同對象；可疑垃圾內容規則的介面標示僅支援英文，不把啟用當成已驗證所有中文垃圾訊息都會被阻擋。
 
-## 參考 server 與平台條件
+## 新人引導與初始內容
 
-參考 server 已啟用 Community、Onboarding 與 Server Guide，使用公開公告、用途明確的論壇、新人任務及規則入口。這些可作為設計參考，不複製公司的私人權限結構到本組織。
+Onboarding 與 Server Guide 啟用，公開頻道均提供預設入口，不開放私有管理頻道；不新增加入前、加入後角色問卷，也不以問卷自動核准組織資格。
 
-參考 server 的實際 Default Channels 設定畫面列出十個預設頻道，並顯示 Must include 1 channel where @everyone can read and send messages。此畫面與前輪查到的官方 FAQ 七個預設、五個可發言的敘述不同。目標 server 的 Onboarding 尚不可從現況讀取；實作時須以目標介面的實際條件確認，不預建無用途的頻道湊數，也不宣稱已完成啟用。
+Server Guide 的歡迎訊息介紹組織、說明入會仍依 repo 自介 PR 及審查，並提供三項瀏覽導覽：閱讀 onboard 的加入方式、看看 collaborations 的協作工作、看看 events 的活動與參與方式。導覽以進入頻道完成，不要求發文、報名或認領工作，也不構成額外入會門檻。平台另提供 Read the rules 入口；不把頻道轉成會自列表隱藏的 Resource Pages。
 
-## 完整 setup 的交付範圍（尚未採納）
+welcome 提供組織與頻道導覽；onboard 提供 repo、自介 PR、審查前後的區別與提問入口；rules 提供現行規範與憲法、制度入口。初始內容承接 repo，不另建第二套成員資格或審查規則。
 
-1. 依上表整理 categories 及 channels，保留既有訊息與論壇串；設定 topic、用途說明、論壇發文引導及必要標籤。
-2. 完成 welcome、onboard、rules、announcements 的初始內容與 repo 入口。Discord 的簡短介紹不取代 repo 自介 PR，不自動把進 server 的人認定為組織成員。
-3. 啟用 Community，確認規則頻道與私有管理更新位置；依目標介面實際條件設定 Onboarding 與 Server Guide，提供歡迎文字、新人任務及資源入口。平台要求、條款或須使用者操作的步驟在實際遇到時處理，不預先聲稱可代為完成。
-4. 整理 @everyone、公開 category 及唯讀頻道的權限；一般交流、論壇發文及建立自己的活動維持開放，管理全部活動與伺服器仍限管理者。建議關閉一般人的大量提及權限，這項安排尚未確認。管理與公告發布依已確認的不新增授權安排，不新增管理角色或人選。
-5. 啟用基本 AutoMod 及安全通知；按 Community 的實際要求設定驗證與敏感媒體檢查，不改組織申請資格。尚未實測的規則不宣稱已有效。
-6. 檢查邀請連結的進入位置、有效性與到期設定；確認新人可讀說明、發問、開論壇串及進語音，管理頻道確實隔離。若沒有第二個可用測試帳號，只回報已完成的角色預覽與實際檢查，不假冒完整新人測試。
-7. 回報各項設定的實際結果與剩餘阻礙，取得實際可用的頻道／資源連結後更新相關規格與邀請流程；不把設定清單存在當成已完成。
-
-## 活動排程與參與（尚未採納）
-
-原生 Events 用於活動排程與表達參與興趣；events 論壇保存詳情與討論，collaborations 論壇承接籌備工作的號召。線下活動使用 Somewhere Else 的實際地點，線上活動連到語音或實際會議位置。
-
-若活動有名額、付費、審核或其他報名需求，需另行確認報名方式；Discord 的 Interested 不直接等於完成報名。活動尚未建立時，不預填真實日期、地點或出席承諾。活動仍須遵守[憲法](../01-制度/constitution.md)，容易發起活動不改變非營利及不得推銷、收費置入的規定。
-
-## 配置取捨與待確認事項
-
-全部放單一聊天室雖然建立快，但問題、號召工作及活動資訊較難持續找到；一開始按產業與地區建立很多頻道，又增加新人選擇與維護負擔。已確認的配置以文字頻道承接即時交流，以論壇承接需要持續接續的問題、工作與活動，並共用一個語音空間；暫無同時舉辦多場活動的依據，不增設多間語音。
-
-不新增自介機器人、自動核准流程或產業／地區頻道。Community、Onboarding 與 Server Guide 的安排仍待整體確認及目標介面驗證，不為湊平台數量要求建立無用途頻道。頻道配置、活動建立權限及不新增授權已確認；待確認範圍限於其餘平台設定、初始內容及活動細節，不重新提出管理人選或活動建立權限。
-
-## 官方能力依據（2026-10-26 查核）
-
-- [論壇需要 Community](https://support.discord.com/hc/en-us/articles/6208479917079-Forum-Channels-FAQ)。
-- [Community 的必要設定](https://support.discord.com/hc/en-us/articles/360047132851-Enabling-Your-Community-Server)。
-- [Scheduled Events 與建立／管理權限](https://support.discord.com/hc/en-us/articles/4409494125719-Scheduled-Events)。
-- [角色與管理權限](https://support.discord.com/hc/en-us/articles/214836687-Discord-Roles-and-Permissions)。
-- [AutoMod](https://support.discord.com/hc/en-us/articles/4421269296535-AutoMod-FAQ)。
-- [Onboarding FAQ 所載七個預設頻道、其中五個可發言的條件；與實際參考畫面不同，目標條件仍待確認](https://support.discord.com/hc/en-us/articles/11074987197975-Community-Onboarding-FAQ)。
+自動歡迎、貼圖提示、Boost 與伺服器設定提示等系統訊息送至 chit-chat；welcome 保留組織與頻道導覽。

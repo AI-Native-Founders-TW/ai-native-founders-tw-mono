@@ -91,3 +91,29 @@
 - 完整語意：使用者依序回答「1. 1」「2. 1」「3. 1」，本題選擇第一項。本次不新增管理者或公告發布者，維持既有管理權，公告先由既有管理者發布；不自行新增人選或擴張授權。
 - 推翻：無
 - 落點：[Discord 社群 Setup](../../specs/02-工作流/[機制]Discord-社群-Setup.md#管理與公告發布)；plan.md 的規格差異、待辦與驗收。
+
+## 決策 009（直接執行設定）
+
+- 使用者：Johnny Pan <johnny850807@gmail.com>（git author）
+- 時間：2026-10-26T20:41:28+08:00
+- 互動：寫入授權
+- 問題：
+  > 不要有一堆 note 啦，很煩欸
+  >
+  > 幫忙 setup 成這樣
+  > 每個 channel 的描述都幫忙填
+- 完整語意：直接依已確認的 Discord 配置完成 server setup，填寫每個 channel 的描述，清除規格中的過時候選 Note。既有原話與提案演變保留為歷史，不新增管理者或公告發布者。
+- 推翻：無
+- 落點：[Discord 社群 Setup](../../specs/02-工作流/[機制]Discord-社群-Setup.md)；plan.md 設定驗證與驗收；目標 Discord server。
+
+## 決策 010（同意社群啟用）
+
+- 使用者：Johnny Pan <johnny850807@gmail.com>（git author）
+- 時間：2026-10-26T20:41:29+08:00
+- 互動：問答
+- 問題：
+  > Community 的最後一步要求勾選「I agree and understand」，同意 Discord 的 Community Server Guidelines。你是否同意由我勾選並完成啟用？平台也會先關閉所有人的 Create Events，我會在啟用後恢復你已拍板的「所有加入者可建立自己的活動」。
+  > 選項：同意，完成 Community 啟用／先完成頻道與描述，不啟用 Community
+- 完整語意：使用者回答「同意，完成 Community 啟用」，明確同意在最後一步接受 Community Server Guidelines 並完成啟用；啟用後恢復所有加入者建立自己活動的權限。
+- 推翻：無
+- 落點：[Discord 社群 Setup](../../specs/02-工作流/[機制]Discord-社群-Setup.md)；plan.md 設定驗證與驗收；目標 Discord server。

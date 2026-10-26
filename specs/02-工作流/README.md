@@ -8,7 +8,7 @@
 
 | 文件 | 主要資料 |
 |---|---|
-| [Discord 社群 Setup]([機制]Discord-社群-Setup.md) | 集中新人開始、交流、號召工作與活動的 Problem、已確認設定、現況、候選配置及未決事項；混合文件依 Problem、Specs、Note 分層。 |
+| [Discord 社群 Setup]([機制]Discord-社群-Setup.md) | 新人開始、交流、號召工作與活動的 Problem，以及實際採用的頻道、描述、權限、安全設定與新人引導；依 Problem、Specs 分層。 |
 | [志工協作與開源知識]([機制]志工協作與開源知識.md) | 志工時間、申請成本、找人協作與知識取用的 Problem，以及已確認運作和未決構想。 |
 | [Threads 引流招募客服 SOP]([機制]Threads引流招募客服SOP.md) | 留言與私訊客服、邀請公版、發送前核對、送出後驗證與邀請日誌記錄。 |
 
