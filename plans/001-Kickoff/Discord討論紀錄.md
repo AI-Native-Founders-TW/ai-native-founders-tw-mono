@@ -70,3 +70,63 @@ Problem 已確認並同步；進入整體設計思考。使用者要求先討論
 ### 檢驗限制
 
 Auto-sync 啟動器已先以 dry-run 預覽，沒有啟動正式輪次。此專案沿用 Kickoff，啟動器尚未建立檢驗基準，預覽會一併納入其他既有根項目；其 truth 範圍仍設定為 SF mindmap，未把本 repo 的 specs 納入 truth_sync。此結果不當成本輪已檢驗或需求就緒；本輪仍需專案要求的獨立憲法檢查，並等待使用者確認整體設計。
+
+## 英文命名與現況盤點（2026-10-26）
+
+### 使用者原文
+
+> 頻道都是 english name
+>
+> 然後你參考一下 discord 的 computer use 看一下目前我的 allwill server長怎樣
+>我目標是要把 discord 整個 setup 好
+
+本輪以 computer use 唯讀操作原生 Discord，目標仍為 AI-Native Global Founders Speedrun Taiwan；AllWill 所用、目前顯示名稱為 specformula.ai 的 server 僅供參考，未修改。參考來源的私人訊息與公司內部內容不移入本 repo。
+
+### 已觀察的目標 server
+
+- 既有文字頻道：welcome、onboard、chit-chat、funding。
+- 既有論壇：events、collaborations，已有討論串，應保留。
+- 既有語音：General。
+- onboard 畫面顯示頻道起始頁，沒有加入步驟；welcome 的首次訊息列表尚未顯示內容，未據此斷言永久空白。
+- 設定頁顯示 Enable Community，Community 尚未啟用。既有兩個論壇仍可在側欄定位；不再用官方文件的 Community 必要條件推斷現有論壇不存在。
+- Roles 頁只有預設權限入口，沒有顯示任何自訂角色。
+- @everyone 的 Create Events 與 Mention @everyone, @here, and All Roles 為 on；Manage Events、Manage Channels、Manage Roles、Manage Server、Administrator 為 off。
+- Safety Setup 顯示 Verification Level 為 None、Sensitive content filters 為 Do not filter，安全通知頻道未選定。未改動這些值。
+
+### 參考方式與前輪更正
+
+參考 server 已啟用 Community、Onboarding 與 Server Guide，使用公開公告、用途明確的論壇、新人任務及規則入口。這些可作為設計參考，不複製公司的私人權限結構到本組織。
+
+參考 server 的實際 Default Channels 設定畫面列出十個預設頻道，並顯示 Must include 1 channel where @everyone can read and send messages。此畫面與前輪查到的官方 FAQ 七個預設、五個可發言的敘述不同。目標 server 的 Onboarding 尚不可從現況讀取；實作時須以目標介面的實際條件確認，不預建無用途的頻道湊數，也不宣稱已完成啟用。
+
+### 取代前輪中文頻道草稿的整體配置（尚未採納）
+
+頻道與 category 名稱均為英文。歡迎、規則、說明與發文引導先以繁體中文呈現，方便目前參與者理解；這是候選內容安排，尚未發布。
+
+| Category | 頻道 | 處理與用途 |
+|---|---|---|
+| start-here | welcome | 沿用，補組織介紹與下一步，唯讀 |
+| start-here | onboard | 沿用，補閱讀規格、repo、自介 PR 及提問入口，唯讀；不另設第二次入會審查 |
+| start-here | rules | 新增，提供簡短平台交流規則及現行憲法／制度連結，唯讀；不另改組織規則 |
+| start-here | announcements | 新增，發布重要公告與已確認活動，只有伺服器擁有者或指定發布者可發布 |
+| community | chit-chat | 沿用，打招呼、閒聊、即時問答與新人求助 |
+| community | funding | 沿用，保留原有募資交流用途與內容 |
+| community | discussions | 新增論壇，一個問題或經驗一篇；長期有用的知識再依既有規格整理到 repo |
+| get-involved | collaborations | 沿用論壇，一件號召工作或活動籌備一篇，保留既有串 |
+| get-involved | events | 沿用論壇，一場活動一篇，保存詳情與討論；確定排程後連到原生 Events |
+| voice | lounge | 將既有 General 改為英文小寫 lounge，共用即時交流與小型活動空間 |
+| management | mod-log | 新增私有文字頻道，接 Community 更新與 AutoMod 警示；只有伺服器擁有者及指定管理者可見 |
+
+此版本沿用既有頻道，加入公告、規則、深入討論及管理入口。前輪把正式 Events 限於已確認組織成員的做法只是候選；現況已允許一般加入者自行建立活動，為回應容易辦活動的目的，本輪改建議保留這項權限，而非另設逐場核准或先審成員的門檻。沒有把這個候選變更寫成制度 truth。
+
+### 完整 setup 的交付範圍（尚未採納）
+
+1. 依上表整理 categories 及 channels，保留既有訊息與論壇串；設定 topic、用途說明、論壇發文引導及必要標籤。
+2. 完成 welcome、onboard、rules、announcements 的初始內容與 repo 入口。Discord 的簡短介紹不取代 repo 自介 PR，不自動把進 server 的人認定為組織成員。
+3. 啟用 Community，確認規則頻道與私有管理更新位置；依目標介面實際條件設定 Onboarding 與 Server Guide，提供歡迎文字、新人任務及資源入口。平台要求、條款或須使用者操作的步驟在實際遇到時處理，不預先聲稱可代為完成。
+4. 整理 @everyone、公開 category 及唯讀頻道的權限；一般交流、論壇發文及建立自己的活動維持開放，管理全部活動與伺服器仍限管理者。建議關閉一般人的大量提及權限。需要新增管理角色時，只配置必要權限；具體授權人選須明確確認，不自行把其他人升為管理者。
+5. 啟用基本 AutoMod 及安全通知；按 Community 的實際要求設定驗證與敏感媒體檢查，不改組織申請資格。尚未實測的規則不宣稱已有效。
+6. 檢查邀請連結的進入位置、有效性與到期設定；確認新人可讀說明、發問、開論壇串及進語音，管理頻道確實隔離。若沒有第二個可用測試帳號，只回報已完成的角色預覽與實際檢查，不假冒完整新人測試。
+7. 回報各項設定的實際結果與剩餘阻礙，取得實際可用的頻道／資源連結後更新相關規格與邀請流程；不把設定清單存在當成已完成。
+
+目前仍在 Brainstorming，等待這份整體配置確認；本輪未新增、改名、移動、刪除頻道，未發布訊息或變更權限。

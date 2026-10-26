@@ -13,3 +13,12 @@
 - 完整語意：確認本次 Discord 設計涵蓋新人開始、創業交流、志工號召工作，以及線上與實體活動的發起與參與；接著討論開放邀請連結前需要的 channels 與 infrastructure。
 - 推翻：無
 - 落點：specs/02-工作流/[Problem]Discord加入交流與活動.md；plan.md 的 Discord 根項目、To-Be 及規格差異。
+
+## 決策 002（頻道英文命名）
+
+- 使用者：Johnny Pan <johnny850807@gmail.com>（git author）
+- 時間：2026-10-26T19:28:53+08:00
+- 互動：主動拍板
+- 完整語意：Discord 頻道名稱全部使用英文；使用 computer use 查看 AllWill 參考 server 與目標 server 的現況，目標是完成整個 Discord setup。尚未指定或確認本輪新增的完整頻道、權限與角色配置。
+- 推翻：無
+- 落點：Discord Problem 的英文命名要求、plan.md Discord 範圍與 Discord討論紀錄.md 的現況及整體配置草稿。
