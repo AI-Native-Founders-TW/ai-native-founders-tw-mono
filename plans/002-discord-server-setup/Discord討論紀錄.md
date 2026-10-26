@@ -132,3 +132,92 @@ Auto-sync 啟動器已先以 dry-run 預覽，沒有啟動正式輪次。此專�
 7. 回報各項設定的實際結果與剩餘阻礙，取得實際可用的頻道／資源連結後更新相關規格與邀請流程；不把設定清單存在當成已完成。
 
 目前仍在 Brainstorming，等待這份整體配置確認；本輪未新增、改名、移動、刪除頻道，未發布訊息或變更權限。
+
+## 設定前的 Note 原文存檔
+
+以下保存設定前的候選、盤點與討論原文，僅供追溯，不具有 specs truth 效力；目前設定以規格為準。原文相對連結以原 spec 目錄解析；現行憲法見[憲法](../../specs/01-制度/constitution.md)。
+
+
+## 初始內容（尚未採納）
+
+歡迎、規則、說明與發文引導先以繁體中文呈現，方便目前參與者理解；內容安排尚未確認，也尚未發布。
+
+## 目標 server 現況（2026-10-26）
+
+目標為 AI-Native Global Founders Speedrun Taiwan。以下是原生 Discord computer use 唯讀盤點的當時畫面，實際設定前須重新核對。
+
+- 既有文字頻道：welcome、onboard、chit-chat、funding。
+- 既有論壇：events、collaborations，已有討論串，應保留。
+- 既有語音：General。
+- onboard 畫面顯示頻道起始頁，沒有加入步驟；welcome 的首次訊息列表尚未顯示內容，未據此斷言永久空白。
+- 設定頁顯示 Enable Community，Community 尚未啟用。既有兩個論壇仍可在側欄定位；不再用官方文件的 Community 必要條件推斷現有論壇不存在。
+- Roles 頁只有預設權限入口，沒有顯示任何自訂角色。
+- @everyone 的 Create Events 與 Mention @everyone, @here, and All Roles 為 on；Manage Events、Manage Channels、Manage Roles、Manage Server、Administrator 為 off。
+- Safety Setup 顯示 Verification Level 為 None、Sensitive content filters 為 Do not filter，安全通知頻道未選定。未改動這些值。
+
+## 參考 server 與平台條件
+
+參考 server 已啟用 Community、Onboarding 與 Server Guide，使用公開公告、用途明確的論壇、新人任務及規則入口。這些可作為設計參考，不複製公司的私人權限結構到本組織。
+
+參考 server 的實際 Default Channels 設定畫面列出十個預設頻道，並顯示 Must include 1 channel where @everyone can read and send messages。此畫面與前輪查到的官方 FAQ 七個預設、五個可發言的敘述不同。目標 server 的 Onboarding 尚不可從現況讀取；實作時須以目標介面的實際條件確認，不預建無用途的頻道湊數，也不宣稱已完成啟用。
+
+## 完整 setup 的交付範圍（尚未採納）
+
+1. 依上表整理 categories 及 channels，保留既有訊息與論壇串；設定 topic、用途說明、論壇發文引導及必要標籤。
+2. 完成 welcome、onboard、rules、announcements 的初始內容與 repo 入口。Discord 的簡短介紹不取代 repo 自介 PR，不自動把進 server 的人認定為組織成員。
+3. 啟用 Community，確認規則頻道與私有管理更新位置；依目標介面實際條件設定 Onboarding 與 Server Guide，提供歡迎文字、新人任務及資源入口。平台要求、條款或須使用者操作的步驟在實際遇到時處理，不預先聲稱可代為完成。
+4. 整理 @everyone、公開 category 及唯讀頻道的權限；一般交流、論壇發文及建立自己的活動維持開放，管理全部活動與伺服器仍限管理者。建議關閉一般人的大量提及權限，這項安排尚未確認。管理與公告發布依已確認的不新增授權安排，不新增管理角色或人選。
+5. 啟用基本 AutoMod 及安全通知；按 Community 的實際要求設定驗證與敏感媒體檢查，不改組織申請資格。尚未實測的規則不宣稱已有效。
+6. 檢查邀請連結的進入位置、有效性與到期設定；確認新人可讀說明、發問、開論壇串及進語音，管理頻道確實隔離。若沒有第二個可用測試帳號，只回報已完成的角色預覽與實際檢查，不假冒完整新人測試。
+7. 回報各項設定的實際結果與剩餘阻礙，取得實際可用的頻道／資源連結後更新相關規格與邀請流程；不把設定清單存在當成已完成。
+
+## 活動排程與參與（尚未採納）
+
+原生 Events 用於活動排程與表達參與興趣；events 論壇保存詳情與討論，collaborations 論壇承接籌備工作的號召。線下活動使用 Somewhere Else 的實際地點，線上活動連到語音或實際會議位置。
+
+若活動有名額、付費、審核或其他報名需求，需另行確認報名方式；Discord 的 Interested 不直接等於完成報名。活動尚未建立時，不預填真實日期、地點或出席承諾。活動仍須遵守[憲法](../01-制度/constitution.md)，容易發起活動不改變非營利及不得推銷、收費置入的規定。
+
+## 配置取捨與待確認事項
+
+全部放單一聊天室雖然建立快，但問題、號召工作及活動資訊較難持續找到；一開始按產業與地區建立很多頻道，又增加新人選擇與維護負擔。已確認的配置以文字頻道承接即時交流，以論壇承接需要持續接續的問題、工作與活動，並共用一個語音空間；暫無同時舉辦多場活動的依據，不增設多間語音。
+
+不新增自介機器人、自動核准流程或產業／地區頻道。Community、Onboarding 與 Server Guide 的安排仍待整體確認及目標介面驗證，不為湊平台數量要求建立無用途頻道。頻道配置、活動建立權限及不新增授權已確認；待確認範圍限於其餘平台設定、初始內容及活動細節，不重新提出管理人選或活動建立權限。
+
+## 官方能力依據（2026-10-26 查核）
+
+- [論壇需要 Community](https://support.discord.com/hc/en-us/articles/6208479917079-Forum-Channels-FAQ)。
+- [Community 的必要設定](https://support.discord.com/hc/en-us/articles/360047132851-Enabling-Your-Community-Server)。
+- [Scheduled Events 與建立／管理權限](https://support.discord.com/hc/en-us/articles/4409494125719-Scheduled-Events)。
+- [角色與管理權限](https://support.discord.com/hc/en-us/articles/214836687-Discord-Roles-and-Permissions)。
+- [AutoMod](https://support.discord.com/hc/en-us/articles/4421269296535-AutoMod-FAQ)。
+- [Onboarding FAQ 所載七個預設頻道、其中五個可發言的條件；與實際參考畫面不同，目標條件仍待確認](https://support.discord.com/hc/en-us/articles/11074987197975-Community-Onboarding-FAQ)。
+
+## onboard SOP 發布內容（2026-10-26）
+
+以下為發布內容存檔；申請規則仍以申請制度與 members 說明為準。
+
+**Onboard SOP｜從這裡開始**
+
+**1. 先了解組織**
+閱讀 repo 的願景、憲法、申請制度與成員參與制度：
+https://github.com/AI-Native-Founders-TW/ai-native-founders-tw-mono
+
+**2. 寫一份自介**
+參考 repo 的 members/README.md，格式可以自由調整。請寫清楚：
+• 你是誰、目前在做什麼。
+• 為什麼想加入、想要獲得什麼。
+• 想分享什麼。
+• 你的 R&R（Role and Responsibility）：可以幫什麼忙、想要幫什麼忙。
+R&R 請在提交前寫清楚，讓大家發起活動或工作時能找到相關志工；這不代表你已承諾接受任何指定工作。
+
+**3. 本人 review 全文**
+可以用 AI 協助整理，但請親自確認經歷、連結、動機、期待與 R&R 都是真實的，沒有 AI 編造的內容或參與承諾，也沒有不願公開的個資。自介看真誠，不看文章品質；沒有專案或仍在探索，也可以如實寫。
+
+**4. 提交自介 PR**
+登入 GitHub → Fork 上方 repo → 在自己的 Fork 建立分支 → 在 members/ 新增 Markdown 自介（檔名可用你的 GitHub 帳號加 .md）→ Commit → 開啟 Pull Request，目標選原 repo 的 main。
+送出前確認變更只有自己的自介。完整範例與操作說明在 repo 的 members/README.md。
+
+**5. 等待審查，依意見補充**
+提交 PR 表示提出申請；自介審查通過後才成為組織成員。進入 Discord 不等於已入會。有需要補充的地方，依 PR 上的審查意見修正。
+
+不熟悉 GitHub 或有其他問題，到 <#1563454007605723186> 發問。創業問題與經驗分享到 <#1564250031706607657>；號召工作到 <#1563454194541658122>；線上與實體活動到 <#1563454084168814612>。
