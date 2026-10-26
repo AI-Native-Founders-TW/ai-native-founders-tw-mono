@@ -40,3 +40,12 @@
 - 完整語意：Discord 相關 Problem、已確認安排、現況與候選設計集中在同一份混合文件，將原 Problem 檔更名為 [機制]Discord-社群-Setup.md。依 Problem、Specs、Note 分層；此裁決是內容組織與命名，不代表尚未確認的配置已採納或 Discord 已設定完成。
 - 推翻：無
 - 落點：[Discord 社群 Setup](../../specs/02-工作流/[機制]Discord-社群-Setup.md)、工作流 README、plan.md；歷史討論及舊決策保留。
+
+## 決策 005（明列頻道類型）
+
+- 使用者：Johnny Pan <johnny850807@gmail.com>（git author）
+- 時間：2026-10-26T19:49:28+08:00
+- 互動：主動拍板
+- 完整語意：Discord 規格用表格明列 channel、type、描述，並以 clarify 釐清尚未決定的內容。此要求不等於採納目前候選頻道與權限配置。
+- 推翻：無
+- 落點：[Discord 社群 Setup](../../specs/02-工作流/[機制]Discord-社群-Setup.md)的頻道整體配置表；本輪對話提出待確認事項。

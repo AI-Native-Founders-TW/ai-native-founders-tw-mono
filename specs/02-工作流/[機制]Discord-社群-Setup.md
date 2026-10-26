@@ -71,19 +71,21 @@ Discord 身分與組織成員資格分開：申請及審查依[申請制度](../
 
 頻道與 category 名稱均為英文。歡迎、規則、說明與發文引導先以繁體中文呈現，方便目前參與者理解；這是候選內容安排，尚未發布。
 
-| Category | 頻道 | 處理與用途 |
-|---|---|---|
-| start-here | welcome | 沿用，補組織介紹與下一步，唯讀 |
-| start-here | onboard | 沿用，補閱讀規格、repo、自介 PR 及提問入口，唯讀；不另設第二次入會審查 |
-| start-here | rules | 新增，提供簡短平台交流規則及現行憲法／制度連結，唯讀；不另改組織規則 |
-| start-here | announcements | 新增，發布重要公告與已確認活動，只有伺服器擁有者或指定發布者可發布 |
-| community | chit-chat | 沿用，打招呼、閒聊、即時問答與新人求助 |
-| community | funding | 沿用，保留原有募資交流用途與內容 |
-| community | discussions | 新增論壇，一個問題或經驗一篇；長期有用的知識再依既有規格整理到 repo |
-| get-involved | collaborations | 沿用論壇，一件號召工作或活動籌備一篇，保留既有串 |
-| get-involved | events | 沿用論壇，一場活動一篇，保存詳情與討論；確定排程後連到原生 Events |
-| voice | lounge | 將既有 General 改為英文小寫 lounge，共用即時交流與小型活動空間 |
-| management | mod-log | 新增私有文字頻道，接 Community 更新與 AutoMod 警示；只有伺服器擁有者及指定管理者可見 |
+| Category | Channel | Type | 描述 |
+|---|---|---|---|
+| start-here | welcome | Text（唯讀） | 組織介紹與新人下一步；沿用既有頻道。 |
+| start-here | onboard | Text（唯讀） | 閱讀規格、repo、自介 PR 與提問入口；沿用，不另設第二次入會審查。 |
+| start-here | rules | Text（唯讀） | 簡短平台交流規則與現行憲法、制度連結；新增，不另改組織規則。 |
+| start-here | announcements | Text（僅指定發布者發文） | 重要公告與已確認活動；新增，伺服器擁有者或指定發布者可發布。 |
+| community | chit-chat | Text | 打招呼、閒聊、即時問答與新人求助；沿用。 |
+| community | funding | Text | 募資交流；沿用並保留既有內容，仍須遵守不得推銷與收費置入的規定。 |
+| community | discussions | Forum | 一個問題或經驗一篇；新增，長期有用的知識再依既有規格整理到 repo。 |
+| get-involved | collaborations | Forum | 一件號召工作或活動籌備一篇；沿用並保留既有討論串。 |
+| get-involved | events | Forum | 一場活動一篇，保存詳情與討論；沿用並保留既有討論串，確定排程後連到原生 Events。 |
+| voice | lounge | Voice | 即時交流與小型線上活動共用；由既有 General 改名。 |
+| management | mod-log | Text（私有） | Community 更新與 AutoMod 警示；新增，只有伺服器擁有者及指定管理者可見。 |
+
+Type 中 Text 是文字頻道、Forum 是論壇、Voice 是語音；括號補充可見及發文限制，不是不同頻道類型。announcements 的候選類型為一般 Text；原生 Events 是排程功能，不是另一個同名 channel。
 
 候選安排保留一般加入者建立自己活動的權限；不另設逐場核准或先審成員的門檻。活動權限尚未採納，不改變組織成員資格。
 
