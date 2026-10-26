@@ -22,3 +22,12 @@
 - 完整語意：Discord 頻道名稱全部使用英文；使用 computer use 查看 AllWill 參考 server 與目標 server 的現況，目標是完成整個 Discord setup。尚未指定或確認本輪新增的完整頻道、權限與角色配置。
 - 推翻：無
 - 落點：Discord Problem 的英文命名要求、plan.md Discord 範圍與 Discord討論紀錄.md 的現況及整體配置草稿。
+
+## 決策 003（獨立設定計畫）
+
+- 使用者：Johnny Pan <johnny850807@gmail.com>（git author）
+- 時間：2026-10-26T19:33:40+08:00
+- 互動：新建或沿用 Plan
+- 完整語意：將 Discord server setup 自 Kickoff 拆為獨立的 discord-server-setup Plan，承接既有 Problem、英文命名、決策、盤點與候選整體配置，讓 Kickoff 可以先行 push。本次只拆分歸屬，未確認整體設計，也未要求 AI 執行 push。
+- 推翻：無
+- 落點：plans/002-discord-server-setup/plan.md、decisions.md、Discord討論紀錄.md；Kickoff 移除 Discord 專屬工作並保留導向；AGENTS 更新入口。
