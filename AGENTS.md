@@ -49,7 +49,9 @@ AI 在產出完之後，尤其是 Deliver／Push 之前，必須以 subagent 以
 
 ## plans
 
-一次變更是一個 Plan：`plans/<編號>-<名稱>/plan.md`。plans 根層每個目錄都是 Plan，使用連續主編號，新 Plan 接在既有最大純數字主編號之後。
+目前的組織啟動工作統一由 [Kickoff](plans/001-Kickoff/plan.md) 管理；願景、憲法、制度、會議記錄與工作流的既有整理，不再按每一次修改拆成不同 Plan。合併前的需求原文、決策及審查結果保存在同 package 的[歷史紀錄](plans/001-Kickoff/歷史紀錄.md)。
+
+這次合併整理既有工作的歸屬，不改變憲法中的修憲程序或制度與憲法的分工。未來有獨立範圍需要另建 Plan 時，先依使用者指示確認，不因一次改字、改名或格式調整自行新增。
 
 Plan 不是規格：規則一律寫在 specs；Plan 用引用聚合 specs，不另存第二份可編輯 truth。
 
