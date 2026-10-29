@@ -1,6 +1,6 @@
 # ai-native-founders-tw-mono
 
-AI-Native Global Founders Speedrun Taiwan 的 specs、plans 與 logs。`specs/`、`plans/` 與 `logs/` 分別維護規格、計畫與紀錄；`Members/` 放自介及其提交說明。
+AI-Native Global Founders Speedrun Taiwan 的 specs、plans 與 logs。`specs/`、`plans/` 與 `logs/` 分別維護規格、計畫與紀錄；`members/` 放自介及其提交說明。
 
 ## 憲法
 
@@ -20,6 +20,10 @@ AI 在產出完之後，尤其是 Deliver／Push 之前，必須以 subagent 以
 
 制度文件不得違反憲法；制度調整寫進各自 Plan 並接受憲法檢查，不必因此修憲。工作流引用制度，不另存第二套可編輯規則。只有涉及憲法本身的變更，才使用專門修憲 Plan。
 
+## Repo 目錄命名
+
+Repo 中以英文命名的目錄，名稱以小寫英文字母開頭，例如 `members/`。既有文件名稱如 `README.md`、`AGENTS.md` 與 `CLAUDE.md` 維持原有慣例。
+
 ## specs
 
 `specs/` 放 specs truth：上游 why／should、Problem、Forces 與規格。specs 分 package，一個 package 一個目錄 `specs/<編號>-<名稱>/`：
@@ -28,8 +32,9 @@ AI 在產出完之後，尤其是 Deliver／Push 之前，必須以 subagent 以
 |---|---|
 | `specs/00-願景和問題/` | `vision.md` 分開寫 Problem、Principle、Specs 與 Note，保留願景、困難、知識方向與未決構想；`創辦人的話.md` 記錄創辦人的話 |
 | `specs/01-制度/` | `constitution.md` 保留組織核心原則與治理規則；申請制度、成員參與制度各自維護具體安排 |
-| `specs/02-工作流/` | 志工協作與開源知識的 Problem、已確認機制與未決事項 |
+| `specs/02-SOP/` | 志工協作與開源知識的 Problem、已確認機制與未決事項 |
 | `specs/03-行政/` | 組織行政工作的固定規定與資料格式；實際邀請經過記於 `logs/邀請日誌.md` |
+| `specs/04-landing-page/` | 依頁面由上到下萃取的 landing page 文案，檔名前綴為 `[文案]` |
 
 新的 package 接在既有最大編號之後。每個 package 都要有 `README.md`，說明主要放什麼 subset 的資料及現有文件入口；README 提供導覽，不另存一份可編輯的規則。
 
@@ -52,7 +57,7 @@ AI 在產出完之後，尤其是 Deliver／Push 之前，必須以 subagent 以
 
 目前的組織啟動工作統一由 [Kickoff](plans/001-Kickoff/plan.md) 管理；願景、憲法、制度、會議記錄與工作流的既有整理，不再按每一次修改拆成不同 Plan。合併前的需求原文、決策及審查結果保存在同 package 的[歷史紀錄](plans/001-Kickoff/歷史紀錄.md)。
 
-Discord server 的完整設定另由 [discord-server-setup（Discord完整設定）](plans/002-discord-server-setup/plan.md) 接續，包含頻道、權限、新人引導、活動與開放邀請前的驗證；Kickoff 不等待此 Plan 完成。
+Council、憲法與 Discord 的 launch 準備均已併回 [Kickoff](plans/001-Kickoff/plan.md)，共同追蹤現況、未決、相依順序與驗收，不再維護獨立 Plan package。合併前全文、決策與原比較基準保存於同 package，入口見 [合併來源對照](plans/001-Kickoff/合併來源對照.md)。既有專門修憲提案保留歷史身分；合併不修改憲法、不免除未來修憲的專門程序。
 
 這次合併整理既有工作的歸屬，不改變憲法中的修憲程序或制度與憲法的分工。未來有獨立範圍需要另建 Plan 時，先依使用者指示確認，不因一次改字、改名或格式調整自行新增。
 
@@ -80,3 +85,7 @@ Plan 不是規格：規則一律寫在 specs；Plan 用引用聚合 specs，不�
 `logs/` 放會議記錄與執行日誌。會議記錄一場一個檔，檔名以日期開頭；持續追加的邀請日誌固定使用 `logs/邀請日誌.md`，沒有日期前綴，表格內記錄已送出邀請的時間、暱稱、遮蔽帳號、渠道、操作者及備註，不追蹤後續加入結果。會議記錄記的是當時講了什麼，不是規格：規則一律寫在 specs；會議的共識要寫進 specs，由 Plan 引用會議記錄。
 
 logs 也受憲法約束，Deliver／Push 之前一樣以 subagent 檢查憲法中的每一條規則；檢查的結論寫進加入那份會議記錄的 Plan 的「憲法檢查」。
+
+## Role 文件
+
+各 R&R 的獨立職責文件置於 `specs/01-制度/role-and-responsibility/`，使用 `[Role]` 前綴；檔名表達職責，例如 `[Role]Domain-Name維護.md`。文件內仍以 Problem／Specs 分層，現任人員由 members 的 assignment 表維護。

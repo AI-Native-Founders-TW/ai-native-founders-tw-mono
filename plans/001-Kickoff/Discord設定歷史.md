@@ -17,17 +17,17 @@
 
 > /sf-ai 把 discord-server-setup 獨立到另外一個 plan 中，因為00 plan 我要先 push 了
 
-前輪原話與問題確認對象見[Discord 討論歷史紀錄](./Discord討論紀錄.md)；目前 Problem 與已採用設定統一維護於 [Discord 社群 Setup](../../specs/02-工作流/[機制]Discord-社群-Setup.md)。既有兩筆決策原樣搬入本 package 的[決策紀錄](./decisions.md)，不重新要求確認已成立的問題範圍或英文命名。
+前輪原話與問題確認對象見[Discord 討論歷史紀錄](./Discord討論紀錄.md)；目前 Problem 與已採用設定統一維護於 [Discord 社群 Setup](../../specs/02-SOP/[機制]Discord-社群-Setup.md)。既有兩筆決策原樣搬入本 package 的[決策紀錄](./decisions.md)，不重新要求確認已成立的問題範圍或英文命名。
 
 ## As-Is 盤點現況
 
-2026-10-26 使用已登入 Discord 的 Chrome computer use 實際設定並回讀。十一個頻道、分類與類型依 [Specs](../../specs/02-工作流/[機制]Discord-社群-Setup.md#頻道整體配置)完成；十個文字／論壇描述回讀非空，lounge 以語音文字聊天保存用途說明。四個入口唯讀、mod-log 私有，Community、Onboarding 與 Server Guide 均已啟用。設定前的唯讀盤點與提案演變保留在[討論歷史紀錄](./Discord討論紀錄.md)。
+2026-10-26 使用已登入 Discord 的 Chrome computer use 實際設定並回讀。十一個頻道、分類與類型依 [Specs](../../specs/02-SOP/[機制]Discord-社群-Setup.md#頻道整體配置)完成；十個文字／論壇描述回讀非空，lounge 以語音文字聊天保存用途說明。四個入口唯讀、mod-log 私有，Community、Onboarding 與 Server Guide 均已啟用。設定前的唯讀盤點與提案演變保留在[討論歷史紀錄](./Discord討論紀錄.md)。
 
 既有加入、審查、基本參與及治理原則由[憲法](../../specs/01-制度/constitution.md)、[申請制度](../../specs/01-制度/[機制]申請制度.md)與[成員參與制度](../../specs/01-制度/[機制]成員參與制度.md)維護。本 Plan 設定交流工具，不自行補定組織資格、審查人或治理權限。
 
 ### 比較依據與歸屬
 
-- Discord Problem 建立前的固定起點為 Git commit `aa926ee09ee2ad62f8f9f50345e6006ca4ffe39a`（問題建立之前）；目前已確認的累積規格變更是新增 [Discord 社群 Setup 的 Problem](../../specs/02-工作流/[機制]Discord-社群-Setup.md)，以及工作流 README 的導覽。
+- Discord Problem 建立前的固定起點為 Git commit `aa926ee09ee2ad62f8f9f50345e6006ca4ffe39a`（問題建立之前）；目前已確認的累積規格變更是新增 [Discord 社群 Setup 的 Problem](../../specs/02-SOP/[機制]Discord-社群-Setup.md)，以及工作流 README 的導覽。
 - 本輪拆分前 HEAD 為 `3d7cf3e8f1851676fe3b66aa8aa765ee3f339efb`（計畫拆分之前）。
 - 拆分只改 Plan 歸屬、搬移討論與決策、更新導覽，不修改 specs truth。拆分前既有的願景、憲法與其他未提交修改不屬本 Plan，保持原狀。
 - [Kickoff](../001-Kickoff/plan.md)的先行交付或 push，不代表本 Plan 的整體配置已確認、已執行或已交付；拆分不改變各 Plan 的交付狀態。
@@ -36,16 +36,16 @@
 
 ### Discord 加入、討論、號召工作與辦活動要容易
 
-新人需要知道怎麼開始；創業者需要容易交流；志工需要容易號召工作；線上與實體活動也需要容易發起與參與。已確認的完整定義見 [Discord 社群 Setup 的 Problem](../../specs/02-工作流/[機制]Discord-社群-Setup.md)。參與者時間有限，重要內容需要能找到，不能以要求每天發言製造熱絡。
+新人需要知道怎麼開始；創業者需要容易交流；志工需要容易號召工作；線上與實體活動也需要容易發起與參與。已確認的完整定義見 [Discord 社群 Setup 的 Problem](../../specs/02-SOP/[機制]Discord-社群-Setup.md)。參與者時間有限，重要內容需要能找到，不能以要求每天發言製造熱絡。
 
-頻道、活動權限及不新增管理授權已確認並實際設定。最新直接指示是完成 setup 及每個 channel 的描述，並移除過時候選 Note；[規格](../../specs/02-工作流/[機制]Discord-社群-Setup.md)已反映實際結果。
+頻道、活動權限及不新增管理授權已確認並實際設定。最新直接指示是完成 setup 及每個 channel 的描述，並移除過時候選 Note；[規格](../../specs/02-SOP/[機制]Discord-社群-Setup.md)已反映實際結果。
 
 ## To-Be 目標
 
 1. 新人從邀請連結進入後，能理解組織目的、找到既有加入方式及提問入口。
 2. 參與者容易即時交流，也能持續接續深入問題、經驗與工作號召。
 3. 線上與實體活動容易發起及參與，詳情、討論與排程能對應。
-4. 在實際目標 server 完成已確認的英文頻道配置、新人引導、必要權限與平台設定，並取得可核對的結果。上述目標均對應 [Discord 社群 Setup 的 Problem](../../specs/02-工作流/[機制]Discord-社群-Setup.md)；實際驗證範圍見下方。
+4. 在實際目標 server 完成已確認的英文頻道配置、新人引導、必要權限與平台設定，並取得可核對的結果。上述目標均對應 [Discord 社群 Setup 的 Problem](../../specs/02-SOP/[機制]Discord-社群-Setup.md)；實際驗證範圍見下方。
 
 ## 工程摘要
 
@@ -55,14 +55,14 @@
 
 ### 規格差異
 
-1. 承接原 Kickoff 已新增的 [Discord 社群 Setup](../../specs/02-工作流/[機制]Discord-社群-Setup.md)，包含四種使用情境及英文命名要求；對應 [Discord 加入、討論、號召工作與辦活動要容易](#discord-加入討論號召工作與辦活動要容易)。
-2. 承接[工作流 README](../../specs/02-工作流/README.md)對該 Problem 的導覽；對應 [Discord 加入、討論、號召工作與辦活動要容易](#discord-加入討論號召工作與辦活動要容易)。
+1. 承接原 Kickoff 已新增的 [Discord 社群 Setup](../../specs/02-SOP/[機制]Discord-社群-Setup.md)，包含四種使用情境及英文命名要求；對應 [Discord 加入、討論、號召工作與辦活動要容易](#discord-加入討論號召工作與辦活動要容易)。
+2. 承接[工作流 README](../../specs/02-SOP/README.md)對該 Problem 的導覽；對應 [Discord 加入、討論、號召工作與辦活動要容易](#discord-加入討論號召工作與辦活動要容易)。
 
-3. 採納[十一個頻道配置](../../specs/02-工作流/[機制]Discord-社群-Setup.md#頻道整體配置)、[所有加入者建立自己活動](../../specs/02-工作流/[機制]Discord-社群-Setup.md#活動建立與管理權限)及[本次不新增管理者與公告發布者](../../specs/02-工作流/[機制]Discord-社群-Setup.md#管理與公告發布)，自 Note 移入 Specs；對應 [Discord 加入、討論、號召工作與辦活動要容易](#discord-加入討論號召工作與辦活動要容易)。
+3. 採納[十一個頻道配置](../../specs/02-SOP/[機制]Discord-社群-Setup.md#頻道整體配置)、[所有加入者建立自己活動](../../specs/02-SOP/[機制]Discord-社群-Setup.md#活動建立與管理權限)及[本次不新增管理者與公告發布者](../../specs/02-SOP/[機制]Discord-社群-Setup.md#管理與公告發布)，自 Note 移入 Specs；對應 [Discord 加入、討論、號召工作與辦活動要容易](#discord-加入討論號召工作與辦活動要容易)。
 
-4. 將本輪實際採用的 [Community、安全設定與新人引導](../../specs/02-工作流/[機制]Discord-社群-Setup.md#community-與安全設定)及每個頻道的正式描述寫入 Specs，移除已失效的候選 Note；對應 [Discord 加入、討論、號召工作與辦活動要容易](#discord-加入討論號召工作與辦活動要容易)。歷史原話、被取代的候選版本及既有決策保留，不以刪除 Note 刪除歷史。
+4. 將本輪實際採用的 [Community、安全設定與新人引導](../../specs/02-SOP/[機制]Discord-社群-Setup.md#community-與安全設定)及每個頻道的正式描述寫入 Specs，移除已失效的候選 Note；對應 [Discord 加入、討論、號召工作與辦活動要容易](#discord-加入討論號召工作與辦活動要容易)。歷史原話、被取代的候選版本及既有決策保留，不以刪除 Note 刪除歷史。
 
-5. 本輪將既有配置展開成可重建的設定表，含權限來源、Community 與通知、AutoMod、新人預設頻道、歡迎文字、任務完成條件、Next 接續、釘選 SOP 及邀請設定。對應 [Discord 加入、討論、號召工作與辦活動要容易](#discord-加入討論號召工作與辦活動要容易)，詳見[現行規格](../../specs/02-工作流/[機制]Discord-社群-Setup.md#新人引導與-next-接續)。本輪補規格，未變更 server 設定。
+5. 本輪將既有配置展開成可重建的設定表，含權限來源、Community 與通知、AutoMod、新人預設頻道、歡迎文字、任務完成條件、Next 接續、釘選 SOP 及邀請設定。對應 [Discord 加入、討論、號召工作與辦活動要容易](#discord-加入討論號召工作與辦活動要容易)，詳見[現行規格](../../specs/02-SOP/[機制]Discord-社群-Setup.md#新人引導與-next-接續)。本輪補規格，未變更 server 設定。
 
 ## 設定驗證與限制
 
@@ -327,3 +327,15 @@
 | 第 20 條（修憲建議程序） | 沒有違反；只補現行設定規格，未修憲或改入會制度。 |
 | 第 21 條（憲法遵循檢查） | 沒有違反；已核對全文、差異及最後兩處修正。 |
 | 第 22 條（憲法建立期間） | 沒有違反；未援用建立期間例外。 |
+
+## Contributions 與 R&R assignment 接續
+
+[Kickoff 的本次調整](../001-Kickoff/plan.md#contributionsrr-assignment-與-members-總表)將自介欄位改為 Contributions，新增獨立 R&R assignment 與 members 索引；[Discord spec](../../specs/02-SOP/[機制]Discord-社群-Setup.md#onboard-sop-與頻道說明的接合)同步要求 onboard 引用這套流程。
+
+- [x] 規格改用 Contributions，並引用獨立 assignment 與 members 維護方式。
+- [ ] repo 更新發布後，更新既有 onboard 釘選 SOP，補齊照片、Contributions、R&R 自選與兩表維護；保留「記得自行 Review 全文」。
+- [ ] 回讀訊息並核對實際連結可用。
+
+目前 repo 仍依使用者指示不 commit、不 push；釘選訊息尚未更新為這次版本，不把 spec 更新當成 Discord 已完成發布。
+
+本次規格與待發布紀錄已納入 [Kickoff 的逐條憲法複查](../001-Kickoff/plan.md#contributions-與-assignment-憲法檢查)，現行二十條均沒有違反。
