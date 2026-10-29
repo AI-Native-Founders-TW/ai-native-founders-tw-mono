@@ -1,0 +1,3 @@
+[submodule "web"]
+	path = web
+	url = https://github.com/AI-Native-Founders-TW/ai-native-founders-tw-web.git
