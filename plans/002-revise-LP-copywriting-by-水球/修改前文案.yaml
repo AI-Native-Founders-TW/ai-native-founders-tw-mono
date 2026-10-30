@@ -1,0 +1,262 @@
+# 首頁文案（zh-TW）。不會寫程式也可以直接改這個檔案，開 PR 後會有預覽網址。
+# 出處標記（例：水球 0:29）對應 2026-10-24 第一次核心會議逐字稿，修改時可回頭對照原意。
+# 規則：不得把 mono「Note」中尚未採納的構想寫成已提供的服務；不得寫背景／實力門檻（憲法第 11 條）。
+
+meta:
+  title: AI-Native Global Founders Speedrun Taiwan
+  description: 用一份筆記槓桿全台創業者的認知。一個非營利、開源的創業者社群：一起收集前輩經驗，整理成開源筆記。
+  skip: 跳過 run，直接加入
+  # Header
+  shortName: AI-Native Founders TW
+  home: 回到首頁
+  join: 加入
+  langLabel: 切換語言
+  newTab: （另開新分頁）
+
+hud:
+  label: RUN
+  aria: Speedrun 計時器
+  category: Any% · TPE → World
+  ready: READY
+  skip: 跳過 run
+  resume: 恢復動態
+  splits:
+    "00": 開跑
+    "01": 起點
+    "02": 一次就夠
+    "03": 出海
+    "04": 流派
+    "05": 你的起點
+    "06": AI-Native
+    "07": 我們不做
+    "08": 終點線
+    "09": Credits
+
+boot:
+  line: Loading your run…
+  press: 往下捲動開始
+
+hero:
+  eyebrow: AI-Native Global Founders Speedrun Taiwan
+  title: 用一份筆記，槓桿全台創業者的認知。
+  # 標題的斷行點（合起來必須等於 title）；桌機會把後兩段放在同一行
+  titleLines:
+    - 用一份筆記，
+    - 槓桿全台
+    - 創業者的認知。
+  subtitle: 一起收集前輩的經驗，整理成大家都能用的開源筆記。不必再自己造輪子、自己建人脈、自己摸索。
+  ctaPrimary: 提交自介，加入 run
+  ctaSecondary: 先看我們想解決什麼
+  scrollHint: Scroll to start
+  coords: 25.03°N 121.56°E · TPE
+  open: 非營利 · 開源 · 歡迎新手
+
+coffeeChat:
+  # 水球 0:09:04「coffee chat 應該就是 大家不用重複了就是一次就夠了 所有人一起去一起參與就行」；0:08:44「我是先成立媒體 再請求幫助」
+  kicker: Split 02 · 一次就夠
+  title: 同一個問題，不該被問一百次。
+  body: 每位創業者都重新 network、重做一輪 coffee chat；前輩也一次次回答相似的問題。我們把一次交流整理成開源筆記，讓一次分享，幫到一百個人。
+  bubbles:
+    - 去美國開公司要做什麼？
+    - 台灣公司資本額怎麼寫？
+    - 天使投資人去哪找？
+    - Funding plan 要算哪些成本？
+    - 怎麼跟矽谷的人 small talk？
+    - To-B 和 To-C 差在哪？
+    - 產品做出來之後，怎麼找渠道？
+    - 我是不是漏想了什麼？
+  note: 一份開源筆記
+  stat: 1 次交流 → N 位創業者
+
+voyage:
+  # vision「出海創業之路該怎麼進行」；Ray 0:12 國外人脈；水球 0:10 一起練習進攻矽谷
+  kicker: Split 03 · 出海
+  title: 從台北，到舊金山。
+  body: 前往矽谷需要資源，缺資源時又難以培養國際認知。這條路上的每一關，我們想一起把攻略整理出來。
+  origin: TPE · 台北
+  destination: SFO · 舊金山
+  checkpoints:
+    - name: 開公司
+      detail: 在台灣、在美國，各自要做什麼？資本額怎麼寫？
+    - name: Funding Plan
+      detail: 把成本算清楚，避免中期注意力被分散。
+    - name: 人脈
+      detail: 握手不等於認識。引薦需要人與人之間真正的認識。
+    - name: Culture Fit
+      detail: small talk、文化距離，需要一起練習的同伴。
+  footnote: 我們不承諾引薦或媒合；我們做的是把每一次交流整理成開源筆記。
+  railLabel: 航線上的關卡
+
+skillTree:
+  # 水球 0:31:59「我希望它是一個遊戲化的過程 它就是一個speed run 它是可以分流派的」；vision「攻略跟流派」
+  kicker: Split 04 · 流派
+  title: 創業沒有唯一解，但有流派。
+  body: 就像遊戲攻略，不同的 Founder-Market Fit、團隊組合與產業，會走出不同的最短路徑。我們想把量化與質化的經驗整理成一棵技能樹。
+  status: 整理中 · 範例節點，邀請你一起整理
+  branches:
+    - id: fmf
+      name: Founder-Market Fit
+      hint: 你的積累，適合發展哪種超能力？
+    - id: team
+      name: 團隊組合
+      hint: 不同的 Founding Team 能力組合玩法。
+    - id: industry
+      name: 產業
+      hint: 結合台灣優勢，或打造純軟。
+  builds:
+    # 只列 vision「攻略跟流派」的三個方向；成本與辛苦程度等大家整理後再補，並列出資訊貢獻者
+    - id: fmf-build
+      branch: fmf
+      name: 超能力流派
+      for: 想知道自己的積累適合發展哪種超能力的人
+      cost: 整理中
+      grind: 辛苦程度：整理中
+    - id: team-build
+      branch: team
+      name: 團隊組合流派
+      for: 想找到合適 Founding Team 能力組合的人
+      cost: 整理中
+      grind: 辛苦程度：整理中
+    - id: tw-advantage
+      branch: industry
+      name: 台灣優勢流派
+      for: 想結合台灣優勢，或打造純軟的人
+      cost: 整理中
+      grind: 辛苦程度：整理中
+  cta: 一起整理流派
+  you: 你
+  hint: 滑過、聚焦或點擊流派節點，展開流派卡
+  sample: 範例
+  cardLabels:
+    for: 適合誰
+    cost: 前期成本
+    grind: 辛苦程度
+
+character:
+  # 水球 0:29 減少菁英主義；0:53 中文系大三也可以加入；憲法第 11 條
+  kicker: Split 05 · 選擇你的起點
+  title: 你不需要準備好。
+  body: 我們看的是真誠，不是背景、實力或經歷。
+  prompt: 選一個最像你的角色
+  classes:
+    - id: student
+      name: 學生
+      line: 還在學校、還不確定要不要創業？很好，先進來認識大家，看看自己能不能 build something great。
+    - id: pm
+      name: 剛當上 PM
+      line: 你每天都在做產品決策，只是還沒想過自己也適合創業。先來看看其他人怎麼想。
+    - id: employee
+      name: 還在上班
+      line: 不用辭職才能開始。用你自己的節奏參與，想分享就分享，想學就學。
+    - id: founder
+      name: 正在創業
+      line: 帶著你正在打的仗進來。你的經驗，正是別人最需要的 Knowhow。
+    - id: senior
+      name: 矽谷前輩
+      line: 你的一次分享會被整理成開源筆記，讓下一百位台灣創業者都能參考。這是我們成立媒體的理由。
+  # 介面提示（角色選擇畫面上的小字）
+  ui:
+    keys: ← → 切換　Enter 選擇
+    swipe: 左右滑動，看看其他起點
+    selected: 你的起點
+
+aiNative:
+  # vision Principle「AI-Native 產品及方法論」；水球 0:09、0:42
+  kicker: Split 06 · AI-Native
+  title: 產品用 AI，做產品的方式也 AI-Native。
+  body: 每個人在自介寫下自己「可以幫什麼忙、想要幫什麼忙」。想發起一件事時，問 AI 就能找到可能願意一起做的人。
+  prompt: 誰能幫我做 landing page？
+  disclaimer: 示範：在你的瀏覽器裡比對公開資料，不會呼叫外部 AI。找到人不代表對方已答應，仍由本人決定是否參與。
+  points:
+    - 規格、計畫、自介都放在同一個開源 Repo
+    - 每個貢獻都留下 credit
+    - 內容提供 llms.txt，讓你的 AI 也讀得懂
+  # 終端機示範的介面文字；{n} 會換成人數
+  terminal:
+    title: anf-agent
+    path: ~/mono/Members
+    badge: 本機示範
+    reading: 讀取公開自介與分工紀錄
+    count: "{n} 位"
+    keywords: 關鍵字
+    thinking: 比對中
+    found: 找到 {n} 位可能的人
+    none: 公開資料裡還沒有人寫到這件事。你可以在自介裡寫下想發起的事，讓別人找到你。
+    fields:
+      roles: 組織分工
+      canHelp: 可以幫忙
+      wantHelp: 想要幫忙
+    inputLabel: 換一個問題
+    placeholder: 例如：誰會設計 Logo？
+    submit: 比對
+    suggestions:
+      - 誰能幫我做 landing page？
+      - 誰會設計 Logo？
+      - 誰能一起寫文案？
+
+notDo:
+  # 憲法第 7、9 條；申請制度（自介 PR 是唯一的加入方式）
+  kicker: Split 07 · 我們不做什麼
+  title: 有些事，我們刻意不做。
+  items:
+    - 不收入會費。加入唯一的門檻是提交自介 PR。
+    - 不推銷。不用組織的名義、筆記或活動推銷任何公司的產品。
+    - 不收錢置入。筆記與活動裡沒有付費廣告或推薦。
+
+finish:
+  # Threads 招募客服 SOP 公版；申請制度
+  kicker: Split 08 · 終點線
+  title: 你的 run，從這裡開始。
+  body: 加入的唯一門檻，是一份真誠的自我介紹。不需要亮眼經歷或完整專案；還在探索，也可以如實說明。
+  steps:
+    - name: 加入 Discord
+      detail: 大家交流、參與活動與找人協作的地方。Discord 是邀請，不是門檻。
+      link: discord
+    - name: 到 GitHub 按一顆 Star
+      detail: 用 Star 支持開源筆記，也方便之後找回來。
+      link: mono
+    - name: 讀三份文件
+      detail: 創辦人的話、憲法、申請制度：我們想做什麼、共同遵守的原則、怎麼加入。
+      link: founderWords
+    - name: 用 PR 提交自我介紹
+      detail: 寫下你是誰、為什麼加入、想要獲得什麼、想分享什麼，以及你的 R&R。審查通過後，就是成員。
+      link: membersGuide
+  timerStop: RUN STARTED
+  start: START
+  goal: GOAL
+  checkpoint: CP
+  stepCta: 前往
+  resultLabel: 你的時間
+  resultNote: 計時到此為止，接下來不用趕。
+  ctaPrimary: 提交自介
+  ctaSecondary: 加入 Discord
+  event:
+    label: 正在進行
+    title: 想問矽谷大佬關於創業出海的問題？
+    body: 到 Discord 活動串留下你的問題，我們收集起來拿去問。
+    cta: 留下問題
+    via: Discord 活動串
+
+credits:
+  kicker: Split 09 · Credits
+  title: Credits
+  subtitle: 每個人做的事，都應該被看見。
+  sections:
+    website: 網站製作
+    org: 組織文件資訊貢獻者
+    community: 社群貢獻者
+  thanks: Thanks for playing.
+  replay: 再跑一次
+  next: 下一個名字，可能是你。
+  pause: 暫停名單
+  play: 繼續播放
+
+footer:
+  tagline: 用一份筆記槓桿全台創業者的認知。
+  nonprofit: 非營利組織 · 開源筆記
+  logoCredit: Logo by Sun
+  aiCredit: 部分視覺素材與程式由 AI 協作產生
+  backToStart: 回到起點
+  explore: 探索
+  community: 社群
+  openSource: 這個網站也是開源的
