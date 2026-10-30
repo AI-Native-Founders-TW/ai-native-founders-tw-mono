@@ -89,3 +89,7 @@ logs 也受憲法約束，Deliver／Push 之前一樣以 subagent 檢查憲法�
 ## Role 文件
 
 各 R&R 的獨立職責文件置於 `specs/01-制度/role-and-responsibility/`，使用 `[Role]` 前綴；檔名表達職責，例如 `[Role]Domain-Name維護.md`。文件內仍以 Problem／Specs 分層，現任人員由 members 的 assignment 表維護。
+
+## 驗證證據不能版控
+
+驗證證據不能加入 Git 版控，也不能 commit 或 push。包含驗證用截圖、走查錄影與其他驗證產出；這些檔案只放在被 `.gitignore` 排除的本機目錄。網站實際使用的圖片、影片等產品素材不屬於驗證證據。提交前檢查 staged files，確認沒有驗證證據。

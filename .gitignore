@@ -1,0 +1,5 @@
+# 驗證證據只能留在本機，不得版控
+**/*驗證證據*/
+**/verification-evidence/
+**/test-results/
+**/playwright-report/
