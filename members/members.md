@@ -15,6 +15,7 @@
 
 | Member ID | GitHub 帳號 | 申請者 | 自介檔案 | R&Rs（連至 assignment，標明 Contributors） | 自介 PR |
 |---|---|---|---|---|---|
+| 待配置 | wupeter0001 | Chris | [pending-wupeter0001.md](pending-wupeter0001.md) | [Onboard／篩選](r-and-r-assignment.md#onboard)（Contributors） | 待建立 |
 
 ## 維護
 

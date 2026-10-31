@@ -12,7 +12,7 @@
 |---|---|---|
 | <a id="web"></a>[Hacker](<../specs/02-R&R/[Role]Hacker.md>) | 待確認 | 尚無登錄 |
 | <a id="networking"></a>[Networking／宣傳、自媒體（Threads／IG）](<../specs/02-R&R/[Role]Networking-宣傳與自媒體經營.md>) | 待確認 | 尚無登錄 |
-| <a id="onboard"></a>[Onboard／篩選](<../specs/02-R&R/[Role]Onboard-篩選與加入接續.md>) | 待確認 | 尚無登錄 |
+| <a id="onboard"></a>[Onboard／篩選](<../specs/02-R&R/[Role]Onboard-篩選與加入接續.md>) | 待確認 | [Chris](pending-wupeter0001.md)（待配置，wupeter0001，申請中） |
 | <a id="events"></a>[活動籌辦與協助](<../specs/02-R&R/[Role]活動籌辦與協助.md>) | 待確認 | 尚無登錄 |
 | <a id="repository"></a>[基建-Repository 維護](<../specs/02-R&R/[Role]基建-Repository維護.md>) | 待確認 | 尚無登錄 |
 | <a id="vc"></a>[VC／其他組織媒合](<../specs/02-R&R/[Role]VC-其他組織媒合.md>) | 待確認 | 尚無登錄 |
