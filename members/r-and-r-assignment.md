@@ -21,6 +21,7 @@
 ### Contributors
 
 - [水球](000000-johnny850807-水球潘.md)（Member ID：000000）
+- [Sun（謝上智）](pending-sunzhi-will.md)
 
 <a id="networking"></a>
 
@@ -63,6 +64,7 @@
 ### Contributors
 
 - [水球](000000-johnny850807-水球潘.md)（Member ID：000000）
+- [Sun（謝上智）](pending-sunzhi-will.md)
 
 <a id="repository"></a>
 
