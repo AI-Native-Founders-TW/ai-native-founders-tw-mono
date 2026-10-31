@@ -10,7 +10,7 @@
 
 | R&R／責任定義 | Leader（一位） | Contributors（自行加入） |
 |---|---|---|
-| <a id="web"></a>[Hacker](<../specs/02-R&R/[Role]Hacker.md>) | 待確認 | 尚無登錄 |
+| <a id="web"></a>[Hacker](<../specs/02-R&R/[Role]Hacker.md>) | 待確認 | [Ray 貓（吳睿誠）](pending-sr0725.md)（待配置，SR0725，申請中） |
 | <a id="networking"></a>[Networking／宣傳、自媒體（Threads／IG）](<../specs/02-R&R/[Role]Networking-宣傳與自媒體經營.md>) | 待確認 | 尚無登錄 |
 | <a id="onboard"></a>[Onboard／篩選](<../specs/02-R&R/[Role]Onboard-篩選與加入接續.md>) | 待確認 | 尚無登錄 |
 | <a id="events"></a>[活動籌辦與協助](<../specs/02-R&R/[Role]活動籌辦與協助.md>) | 待確認 | 尚無登錄 |
