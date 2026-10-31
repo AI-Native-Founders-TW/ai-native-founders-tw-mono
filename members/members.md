@@ -15,7 +15,7 @@
 
 | Member ID | GitHub 帳號 | 申請者 | 自介檔案 | R&Rs（連至 assignment，標明 Contributors） | 自介 PR |
 |---|---|---|---|---|---|
-| 待配置 | Jasmineow | [Jasmine Ow](pending-jasmineow.md) | [pending-jasmineow.md](pending-jasmineow.md) | [活動籌辦與協助](r-and-r-assignment.md#events)（Contributors）、[Networking／宣傳、自媒體（Threads／IG）](r-and-r-assignment.md#networking)（Contributors） | 待建立 |
+| 待配置 | Jasmineow | [Jasmine Ow](pending-jasmineow.md) | [pending-jasmineow.md](pending-jasmineow.md) | [活動籌辦與協助](r-and-r-assignment.md#events)（Contributors）、[Networking／宣傳、自媒體（Threads／IG）](r-and-r-assignment.md#networking)（Contributors） | [#6](https://github.com/AI-Native-Global-Founders-Speedrun-TW/ai-native-founders-tw-mono/pull/6) |
 
 ## 維護
 
