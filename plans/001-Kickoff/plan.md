@@ -1580,3 +1580,5 @@ Background subagent 對照改前、改後全文與實際差異：FORMULATION rev
 本輪獨立 review：修正成員索引仍指向自介內工作註記的舊敘述，改連本節；覆核確認 FORMULATION 無阻斷，憲法逐條十二條均沒有違反。新檔、照片、分工 anchor 與十一項 Contributors、兩項待生效 Leader 連結均已核對；git diff --check 通過。
 
 自介 R&R 依本人追加要求逐項列出名稱與職責連結，不以固定總數概括未來分工，不另導向完整分工索引。獨立 reviewer 核對全文、diff 與十三個職責連結，FORMULATION 無阻斷，憲法十二條逐條沒有違反；原分工 anchor 及待生效狀態保留。
+
+自介「可以幫什麼忙」依本人新增四點原話更新，僅官網轉 Markdown 連結，保留所有數字與限定詞。獨立 reviewer 核對全文與 diff，FORMULATION 無阻斷、憲法十二條逐條沒有違反；學院連結為背景介紹，媒合意願未變成保證引薦，研究經驗未變成治理授權。經歷是本人陳述，不宣稱外部驗證；git diff --check 通過。
