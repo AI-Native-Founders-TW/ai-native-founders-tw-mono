@@ -51,7 +51,7 @@ Discord 身分與組織成員資格分開。申請與審查依[申請制度](<..
 | Category | Channel | Type | 描述 |
 |---|---|---|---|
 | start-here | [welcome](https://discord.com/channels/1563453138810306612/1563453141641597000) | Text（唯讀） | 歡迎加入 AI-Native Global Founders Speedrun Taiwan！我們共享創業知識、交流經驗並一起做事。新人請先看 #onboard 與 #rules，有問題到 #chit-chat 詢問。 |
-| start-here | [onboard](https://discord.com/channels/1563453138810306612/1563456791050977341) | Text（唯讀） | 從這裡開始：閱讀組織願景、憲法與申請制度，再於公開 repo 的 members 資料夾以 PR 提交自介。自介審查通過後成為組織成員；進入 Discord 不等於已入會。Repo：https://github.com/AI-Native-Founders-TW/ai-native-founders-tw-mono |
+| start-here | [onboard](https://discord.com/channels/1563453138810306612/1563456791050977341) | Text（唯讀） | 從這裡開始：閱讀組織願景、憲法與申請制度，再於公開 repo 的 members 資料夾以 PR 提交自介。自介審查通過並合併 PR 後成為組織成員；進入 Discord 不等於已入會。Repo：https://github.com/AI-Native-Founders-TW/ai-native-founders-tw-mono |
 | start-here | [rules](https://discord.com/channels/1563453138810306612/1564249902475907172) | Text（唯讀） | 交流請遵守組織憲法與現行制度：開放學習、尊重彼此、自願貢獻；不得以本組織名義、筆記或活動為特定公司推銷產品、服務或提供收費置入。規範以 repo 為準：https://github.com/AI-Native-Founders-TW/ai-native-founders-tw-mono |
 | start-here | [announcements](https://discord.com/channels/1563453138810306612/1564249954266914846) | Text（唯讀） | 重要公告、組織更新與已確認活動，由具有效公告職責與平台能力的人發布。日常討論請到 #chit-chat；活動詳情與接續討論請到 #events。 |
 | community | [chit-chat](https://discord.com/channels/1563453138810306612/1563454007605723186) | Text | 打招呼、閒聊、即時問答與新人求助。想深入討論創業問題或分享經驗，請到 #discussions 開一篇，讓大家能在自己的時間接續。 |
@@ -146,7 +146,7 @@ Onboarding 與 Server Guide 均啟用，使用預設模式，不設定加入前�
 
 Server Guide 的 Welcome Sign 由 waterball.pan 顯示，使用下列文字；[@username] 是平台代入新人名稱的位置：
 
-> 歡迎 [@username]！這裡是 AI-Native Global Founders Speedrun Taiwan。我們共享創業知識、交流經驗、號召志工一起做事，也一起發起線上與實體活動。先閱讀 welcome、onboard 與 rules；有問題到 chit-chat 詢問。想加入組織，請依 repo 的申請制度以 PR 提交自介，審查通過後成為成員。下方是入門導覽，不是額外入會門檻。
+> 歡迎 [@username]！這裡是 AI-Native Global Founders Speedrun Taiwan。我們共享創業知識、交流經驗、號召志工一起做事，也一起發起線上與實體活動。先閱讀 welcome、onboard 與 rules；有問題到 chit-chat 詢問。想加入組織，請依 repo 的申請制度以 PR 提交自介，審查通過並合併 PR 後成為成員。下方是入門導覽，不是額外入會門檻。
 
 ### New Member To Do 與完成條件
 
@@ -166,7 +166,7 @@ Read the rules 是平台另提供的規則入口，對應 Community 的 rules �
 
 ### onboard SOP 與頻道說明的接合
 
-onboard 以[釘選 SOP](https://discord.com/channels/1563453138810306612/1563456791050977341/1564254596208271400)承接第一項導覽。訊息依序帶新人閱讀組織說明、寫自介與 Contributions、在獨立 assignment 表自行選擇至少一個 R&R 當 Contributors 並同步 members 總表、記得自行 Review 全文、提交自介 PR、等待審查並依意見補充。自介欄位與 GitHub 提交操作依 [members 的自介與 PR 說明](<../../members/README.md>)，資格判定依[申請制度](<../01-制度/[機制] 憲政制度.md>)，不在 Discord 建立第二套規則。
+onboard 以[釘選 SOP](https://discord.com/channels/1563453138810306612/1563456791050977341/1564254596208271400)承接第一項導覽。訊息依序帶新人閱讀組織說明、寫自介與 Contributions、在獨立 assignment 表自行選擇至少一個 R&R 當 Contributors ，資格依申請 PR 與後續有效紀錄核對、記得自行 Review 全文、提交自介 PR、等待審查並依意見補充。自介欄位與 GitHub 提交操作依 [members 的自介與 PR 說明](<../../members/README.md>)，資格判定依[申請制度](<../01-制度/[機制] 憲政制度.md>)，不在 Discord 建立第二套規則。
 
 | 頻道 | 固定說明與接續 |
 |---|---|
