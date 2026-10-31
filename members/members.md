@@ -15,7 +15,7 @@
 - Member ID：待配置
 - GitHub：Johnny850807
 - 自介：[自介草稿](00-johnny850807.md)
-- 自介 PR：待建立
+- 自介 PR：[Draft PR（自介與格式草稿）](https://github.com/AI-Native-Global-Founders-Speedrun-TW/ai-native-founders-tw-mono/pull/7)；含共同文件變更，正式申請前需拆分。
 
 #### R&Rs
 
