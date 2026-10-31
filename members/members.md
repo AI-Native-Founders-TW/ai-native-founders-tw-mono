@@ -14,7 +14,7 @@
 
 - Member ID：待配置
 - GitHub：Johnny850807
-- 自介：[自介草稿](00-johnny850807.md)
+- 自介：[自我介紹](00-johnny850807-水球潘.md)
 - 自介 PR：[Draft PR（自介與格式草稿）](https://github.com/AI-Native-Global-Founders-Speedrun-TW/ai-native-founders-tw-mono/pull/7)；含共同文件變更，正式申請前需拆分。
 
 #### R&Rs
@@ -31,7 +31,7 @@
 - [公關-文案及使命傳達](r-and-r-assignment.md#copywriting)（Contributors）
 - [司法與覆核](r-and-r-assignment.md#review)（Contributors；Leader 本人已指定並接受，待首屆共同生效）
 
-本人指定編號與現行規格的差異保留於自介草稿，尚未完成正式配置；本節不代表資格或首屆任命已生效。
+本人指定編號與現行規格的差異記於 [自介檔名與內容分工](../plans/001-Kickoff/plan.md#自介檔名與內容分工2026-10-31)，尚未完成正式配置；本節不代表資格或首屆任命已生效。
 
 ## 維護
 

@@ -6,7 +6,7 @@
 
 本文件是 assignment 的唯一維護來源；成員以 Member ID 核對，顯示本人稱呼並連到個人自介，並同步到 [members 總表](members.md)。申請者標示「申請中」，不能因此視為已成為成員。待確認與尚無登錄都表示資料未完成，不是人名，也不表示該分工已有人負責。
 
-初始 R&R 範圍取自[第一次核心會議記錄](../logs/20261024-第一次核心會議-會議記錄.md)。歷史認領與新 assignment 的差異及待確認人選保存在 [Kickoff 的初始認領核對](../plans/001-Kickoff/plan.md#初始認領核對)。水球已於 2026-10-31 [本人確認全部 Contributors 與兩項 Leader 指定](00-johnny850807.md#本次分工原話)。Contributors 以申請中登錄；兩項 Leader 已由本人指定並接受，但首屆完整名單與共同生效條件仍未完成，現任職位尚未生效。不將其他歷史認領直接轉成任命。
+初始 R&R 範圍取自[第一次核心會議記錄](../logs/20261024-第一次核心會議-會議記錄.md)。歷史認領與新 assignment 的差異及待確認人選保存在 [Kickoff 的初始認領核對](../plans/001-Kickoff/plan.md#初始認領核對)。水球已於 2026-10-31 [本人確認全部 Contributors 與兩項 Leader 指定](00-johnny850807-水球潘.md#我選擇的-rr)。Contributors 以申請中登錄；兩項 Leader 已由本人指定並接受，但首屆完整名單與共同生效條件仍未完成，現任職位尚未生效。不將其他歷史認領直接轉成任命。
 
 <a id="web"></a>
 
@@ -20,7 +20,7 @@
 
 ### Contributors
 
-- [水球](00-johnny850807.md)（申請中；Member ID 待配置；GitHub：Johnny850807）
+- [水球](00-johnny850807-水球潘.md)（申請中；Member ID 待配置；GitHub：Johnny850807）
 
 <a id="networking"></a>
 
@@ -34,7 +34,7 @@
 
 ### Contributors
 
-- [水球](00-johnny850807.md)（申請中；Member ID 待配置；GitHub：Johnny850807）
+- [水球](00-johnny850807-水球潘.md)（申請中；Member ID 待配置；GitHub：Johnny850807）
 
 <a id="onboard"></a>
 
@@ -48,7 +48,7 @@
 
 ### Contributors
 
-- [水球](00-johnny850807.md)（申請中；Member ID 待配置；GitHub：Johnny850807）
+- [水球](00-johnny850807-水球潘.md)（申請中；Member ID 待配置；GitHub：Johnny850807）
 
 <a id="events"></a>
 
@@ -62,7 +62,7 @@
 
 ### Contributors
 
-- [水球](00-johnny850807.md)（申請中；Member ID 待配置；GitHub：Johnny850807）
+- [水球](00-johnny850807-水球潘.md)（申請中；Member ID 待配置；GitHub：Johnny850807）
 
 <a id="repository"></a>
 
@@ -76,7 +76,7 @@
 
 ### Contributors
 
-- [水球](00-johnny850807.md)（申請中；Member ID 待配置；GitHub：Johnny850807）
+- [水球](00-johnny850807-水球潘.md)（申請中；Member ID 待配置；GitHub：Johnny850807）
 
 <a id="vc"></a>
 
@@ -90,7 +90,7 @@
 
 ### Contributors
 
-- [水球](00-johnny850807.md)（申請中；Member ID 待配置；GitHub：Johnny850807）
+- [水球](00-johnny850807-水球潘.md)（申請中；Member ID 待配置；GitHub：Johnny850807）
 
 <a id="domain-name"></a>
 
@@ -100,11 +100,11 @@
 
 ### Leader
 
-[水球](00-johnny850807.md#本次分工原話)（本人已指定並接受，待首屆共同生效）
+[水球](00-johnny850807-水球潘.md#我選擇的-rr)（本人已指定並接受，待首屆共同生效）
 
 ### Contributors
 
-- [水球](00-johnny850807.md)（申請中；Member ID 待配置；GitHub：Johnny850807）
+- [水球](00-johnny850807-水球潘.md)（申請中；Member ID 待配置；GitHub：Johnny850807）
 
 <a id="experience-sharing"></a>
 
@@ -118,7 +118,7 @@
 
 ### Contributors
 
-- [水球](00-johnny850807.md)（申請中；Member ID 待配置；GitHub：Johnny850807）
+- [水球](00-johnny850807-水球潘.md)（申請中；Member ID 待配置；GitHub：Johnny850807）
 
 <a id="knowledge"></a>
 
@@ -132,7 +132,7 @@
 
 ### Contributors
 
-- [水球](00-johnny850807.md)（申請中；Member ID 待配置；GitHub：Johnny850807）
+- [水球](00-johnny850807-水球潘.md)（申請中；Member ID 待配置；GitHub：Johnny850807）
 
 <a id="copywriting"></a>
 
@@ -146,7 +146,7 @@
 
 ### Contributors
 
-- [水球](00-johnny850807.md)（申請中；Member ID 待配置；GitHub：Johnny850807）
+- [水球](00-johnny850807-水球潘.md)（申請中；Member ID 待配置；GitHub：Johnny850807）
 
 <a id="review"></a>
 
@@ -156,11 +156,11 @@
 
 ### Leader
 
-[水球](00-johnny850807.md#本次分工原話)（本人已指定並接受，待首屆共同生效）
+[水球](00-johnny850807-水球潘.md#我選擇的-rr)（本人已指定並接受，待首屆共同生效）
 
 ### Contributors
 
-- [水球](00-johnny850807.md)（申請中；Member ID 待配置；GitHub：Johnny850807）
+- [水球](00-johnny850807-水球潘.md)（申請中；Member ID 待配置；GitHub：Johnny850807）
 
 各 R&R 文件中的尚未訂定事項不因有人加入 assignment 而成為已採納規則；實際安排依 specs。Leader 待確認的項目尚未完成決策分工。
 
