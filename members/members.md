@@ -15,7 +15,7 @@
 
 | Member ID | GitHub 帳號 | 申請者 | 自介檔案 | R&Rs（連至 assignment，標明 Contributors） | 自介 PR |
 |---|---|---|---|---|---|
-| 待配置 | SR0725 | Ray 貓（吳睿誠） | [pending-sr0725.md](pending-sr0725.md) | [Hacker](r-and-r-assignment.md#web)（Contributors） | 待建立 |
+| 待配置 | SR0725 | Ray 貓（吳睿誠） | [pending-sr0725.md](pending-sr0725.md) | [Hacker](r-and-r-assignment.md#web)（Contributors） | [#3](https://github.com/AI-Native-Global-Founders-Speedrun-TW/ai-native-founders-tw-mono/pull/3) |
 
 ## 維護
 
