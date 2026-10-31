@@ -4,7 +4,7 @@
 
 ## 自介參考範例
 
-每個人都要在自介附上一張照片。照片放在 `members/assets/`，自介以相對連結引用。
+每個人都要在自介附上一張本人的真人照片。照片放在 `members/assets/`，自介以相對連結引用。
 
 下方格式可自由調整。請寫清楚你是誰、為什麼加入、想要獲得什麼、想分享什麼，以及自己的 Contributions：可以幫什麼忙、想要幫什麼忙。
 
@@ -13,7 +13,7 @@
 ```markdown
 # <你的名字或慣用稱呼>
 
-![<你的名字或慣用稱呼>的照片](assets/<你的 GitHub 帳號>.<副檔名>)
+![<你的名字或慣用稱呼>的真人照片](assets/<你的 GitHub 帳號>.<副檔名>)
 
 ## 我是誰
 
@@ -51,8 +51,8 @@ Contributions 必須在提交前寫清楚，不能留待之後補充。寫得越
 ## 提交 PR
 
 1. 登入 GitHub，Fork [本 Repo](https://github.com/AI-Native-Founders-TW/ai-native-founders-tw-mono)。
-2. 在自己的 Fork 建立分支，在 `members/` 新增一份 Markdown 自介。初次申請使用 `pending-<小寫GitHub帳號>.md`，Member ID 保留「待配置」，不自行選編號；已有編號者直接更新原自介。正式檔名與識別規則依[成員識別與資料](<../specs/01-制度/[規格]成員識別與資料.md>)，由合併人員在合併前配置。同時將自己的照片上傳至 `members/assets/`，例如 `<你的 GitHub 帳號>.jpg`，並在自介引用相同檔名。不要修改別人的自介或照片。
-3. 將範例中的 `<...>` 替換成自己的內容。可以用 AI 協助整理，但提交前務必由本人親自 review 全文：確認照片可公開、圖片正常顯示，以及經歷、連結、動機、期待與 Contributions 真實，沒有 AI 編造的內容或參與承諾，也沒有不願公開的個資。
+2. 在自己的 Fork 建立分支，在 `members/` 新增一份 Markdown 自介。初次申請使用 `pending-<小寫GitHub帳號>.md`，Member ID 保留「待配置」，不自行選編號；已有編號者直接更新原自介。正式檔名與識別規則依[成員識別與資料](<../specs/01-制度/[規格]成員識別與資料.md>)，由合併人員在合併前配置。同時將本人的真人照片上傳至 `members/assets/`，例如 `<你的 GitHub 帳號>.jpg`，並在自介引用相同檔名。不要修改別人的自介或照片。
+3. 將範例中的 `<...>` 替換成自己的內容。可以用 AI 協助整理，但提交前務必由本人親自 review 全文：確認照片是本人的真人照片且可公開、圖片正常顯示，以及經歷、連結、動機、期待與 Contributions 真實，沒有 AI 編造的內容或參與承諾，也沒有不願公開的個資。
 4. 依[成員參與制度](<../specs/01-制度/[機制] 憲政制度.md#rr-assignment>)，從 [R&R assignment 表](r-and-r-assignment.md)選至少一個 R&R，將自己列入 Contributors，可選多個。同步更新 [members 總表](members.md)中的自介連結及 R&Rs；申請尚未通過時，列於「申請中」區的本人小節，自介 PR 欄位先標示待建立。兩表都連到自己的自介，填寫目前 GitHub 帳號；尚未配置編號時填「待配置」，不修改其他人的 assignment。
 5. Commit 變更後，從自己的分支開啟 Pull Request，目標為本 Repo 的 `main`。確認變更只有自己的自介、照片，以及兩表中與自己有關的資料，再按 **Create pull request**。建立後，將 PR 連結補入「申請中」本人小節的自介 PR 欄位，Commit 到同一分支以更新同一個 PR。可參考 [GitHub 官方 PR 說明](https://docs.github.com/en/pull-requests/how-tos/create-pull-requests/creating-a-pull-request-from-a-fork)。
 6. PR 是申請，審查通過後才成為成員。若需要補充，依 PR 上的審查意見修正。有不熟悉的操作或問題，可以在 Discord 中發問或回覆。
