@@ -1,6 +1,12 @@
 # Sun（謝上智）
 
-![Sun（謝上智）的照片](assets/sunzhi-will.jpg)
+![Sun（謝上智）的真人照片](assets/pending-sunzhi-will-Sun-半身照.jpg)
+
+## 成員資料
+
+Member ID：待配置
+
+GitHub：SunZhi-Will
 
 ## 我是誰
 
@@ -15,9 +21,6 @@
 - **技術分享與教學：** 曾參與學校、企業的技術課程與工作坊，分享 AI 與軟體開發相關經驗。
 
 我比較喜歡從實作出發，先把東西做出來，再透過使用者回饋不斷修正。
-
-Member ID：待配置  
-GitHub：SunZhi-Will
 
 ## 為什麼想加入
 

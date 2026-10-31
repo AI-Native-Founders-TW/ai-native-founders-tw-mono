@@ -27,7 +27,7 @@
 | 具體工作接受、routine 起算、時間及例外 | [憲政制度：Routine 與 non-routine responsibilities](<../01-制度/[機制] 憲政制度.md#routine-與-non-routine-responsibilities>) |
 | 利益迴避及操作權限 | [憲政制度](<../01-制度/[機制] 憲政制度.md>)；各 Role 僅補該職責的具體適用情況 |
 | 特有擔任者條件、範圍、決策權及責任 | 各 Role 文件 |
-| 現任人員與任職依據 | [assignment](<../../members/r-and-r-assignment.md>)；按人查閱見 [members](<../../members/members.md>) |
+| 現任人員與任職依據 | [assignment](<../../members/r-and-r-assignment.md>)；個人成員檔案入口見 [members README](<../../members/README.md>) |
 | 執行步驟 | 各責任表連結的 [SOP](<../03-SOP/README.md>) |
 | 執行結果與未完成工作 | 原有 PR、Issue、Plan 或工作紀錄 |
 | 尚未訂定事項的接續 | [Kickoff](<../../plans/001-Kickoff/plan.md#rr-subpackage-與-responsibilities>) |
