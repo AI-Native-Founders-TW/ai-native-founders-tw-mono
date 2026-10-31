@@ -15,6 +15,7 @@
 
 | Member ID | GitHub 帳號 | 申請者 | 自介檔案 | R&Rs（連至 assignment，標明 Contributors） | 自介 PR |
 |---|---|---|---|---|---|
+| 待配置 | yayapipi | Yapi（吳子楊） | [pending-yayapipi.md](pending-yayapipi.md) | [開源創業知識及流派整理](r-and-r-assignment.md#knowledge) Contributors（申請中）、[Networking／宣傳、自媒體（Threads／IG）](r-and-r-assignment.md#networking) Contributors（申請中） | 待建立 |
 
 ## 維護
 
