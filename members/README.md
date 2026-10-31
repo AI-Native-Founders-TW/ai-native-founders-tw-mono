@@ -19,9 +19,6 @@
 
 Member ID：待配置
 GitHub：<你的 GitHub 帳號>
-資格狀態：申請中
-狀態生效時間：未生效
-狀態依據：待建立 PR
 
 ## 我是誰
 
@@ -59,29 +56,29 @@ Contributions 必須在提交前寫清楚，不能留待之後補充。寫得越
 2. 在自己的 Fork 建立分支，在 `members/` 新增一份 Markdown 自介。初次申請使用 `pending-<小寫GitHub帳號>.md`，Member ID 保留「待配置」，不自行選編號；已有編號者直接更新原自介。正式檔名與識別規則依[成員識別與資料](<../specs/01-制度/[規格]成員識別與資料.md>)，由合併人員在合併前配置。同時將本人的真人照片上傳至 `members/assets/`，例如 `<你的 GitHub 帳號>.jpg`，並在自介引用相同檔名。不要修改別人的自介或照片。
 3. 將範例中的 `<...>` 替換成自己的內容。可以用 AI 協助整理，但提交前務必由本人親自 review 全文：確認照片是本人的真人照片且可公開、圖片正常顯示，以及經歷、連結、動機、期待與 Contributions 真實，沒有 AI 編造的內容或參與承諾，也沒有不願公開的個資。
 4. 依[成員參與制度](<../specs/01-制度/[機制] 憲政制度.md#rr-assignment>)，從 [R&R assignment](r-and-r-assignment.md)選至少一個 R&R，將自己列入 Contributors，可選多個。人員行連到自己的個人成員檔案；已配置者附 Member ID，尚未配置者以檔案連結識別，不重抄 GitHub 或資格狀態。不修改其他人的 assignment，也不在自介另抄有效分工名單。
-5. Commit 後從自己的分支開啟 Pull Request，目標為本 Repo 的 `main`。確認變更只有自己的成員檔案、照片及 assignment 中與自己有關的資料，再按 **Create pull request**。建立後，將連結補入個人檔案的「狀態依據」，Commit 到同一分支。審查意見及結果留在該 PR。可參考 [GitHub 官方 PR 說明](https://docs.github.com/en/pull-requests/how-tos/create-pull-requests/creating-a-pull-request-from-a-fork)。
-6. PR 是申請，審查通過後才成為成員。若需要補充，依 PR 上的審查意見修正。有不熟悉的操作或問題，可以在 Discord 中發問或回覆。
+5. Commit 後從自己的分支開啟 Pull Request，目標為本 Repo 的 `main`。確認變更只有自己的成員檔案、照片及 assignment 中與自己有關的資料，再按 **Create pull request**。不必把 PR 狀態或時間抄進自介。審查意見及結果留在該 PR。可參考 [GitHub 官方 PR 說明](https://docs.github.com/en/pull-requests/how-tos/create-pull-requests/creating-a-pull-request-from-a-fork)。
+6. PR 是申請，依制度審查通過並合併 PR 後才成為成員，入會時間直接看 PR 合併時間。若需要補充，依 PR 上的審查意見修正。有不熟悉的操作或問題，可以在 Discord 中發問或回覆。
 
 審查依現行[申請制度](<../specs/01-制度/[機制] 憲政制度.md#申請與成員資格>)辦理，執行安排見[自介審查](<../specs/01-制度/[機制] 憲政制度.md#自介審查>)。Onboard Leader 依制度審查，異議交非涉案覆核人；通過後只邀請成為 GitHub org Member，不加入 Members team，後續繼續使用 Fork／PR。具體處理見[自介 PR 審查 SOP](<../specs/03-SOP/[SOP]自介PR審查SOP.md>)，收件、排隊、承接後處理目標依憲政制度；處理目標不保證任何時候都有可承接人力。
 
 ## 找成員與分工
 
-到[本目錄](./)閱讀每人的成員檔案；檔名不等於正式資格，須核對「成員資料」中的狀態與有效依據。按分工找人讀 [R&R assignment](r-and-r-assignment.md)，按人查分工則在 assignment 搜尋該人的檔案連結或 Member ID。不另維護手動總表或自介內的有效分工清單，也不從檔案存在推定成員資格。
+到[本目錄](./)閱讀每人的成員檔案；檔名不等於正式資格，須核對自介申請 PR 的有效審查、合併紀錄及後續退出／恢復等有效紀錄。按分工找人讀 [R&R assignment](r-and-r-assignment.md)，按人查分工則在 assignment 搜尋該人的檔案連結或 Member ID。不另維護手動總表或自介內的有效分工清單，也不從檔案存在推定成員資格。
 
 ## 資料維護
 
 | 資料 | 唯一維護位置與更新方式 |
 |---|---|
 | 編號、目前帳號、本人稱呼、照片、自介與 Contributions | 個人成員檔案；照片放 assets。依[成員識別與資料](<../specs/01-制度/[規格]成員識別與資料.md>)維護。 |
-| 目前資格狀態、生效時間與依據連結 | 個人成員檔案的成員資料區；依有效審查、聲明或決定更新，不能自行取得資格。 |
+| 入會是否成功與入會時間 | 自介申請 PR 的有效審查及 GitHub 合併紀錄；不另外手填狀態或時間。 |
 | 入會、退出、恢復及更正的原始依據 | 該次 PR 的說明、review 或引用的有效紀錄；前後狀態由 Git 與 PR 歷史保存，不另抄流水帳。 |
 | Leader 與 Contributors | [R&R assignment](r-and-r-assignment.md)；任命依據、本人接受與生效條件由該處連回有效決定。 |
 | 各 R&R 的責任及 SOP | [R&R package](<../specs/02-R&R/README.md>)；不在成員資料重抄。 |
 
-修改背景或 Contributions，只改自己的檔案；調整 Contributors，只改 assignment；資格變動更新自己的成員資料，並按實際情況處理 assignment 與交接。入會、退出、恢復仍依憲政制度成立，commit 或 merge 不能代替審查或實際生效時間。已有資格但尚未登錄者，仍依有效證據核對；投票名冊不只讀 main。
+修改背景或 Contributions，只改自己的檔案；調整 Contributors，只改 assignment。資格變動的聲明與決定留在相關 PR／Issue，按實際情況接續 assignment 與交接，不回填自介狀態。一般入會須審查通過並合併，直接讀取 PR 合併時間；退出、恢復、首屆任命及既有資格依憲政制度各自規則核對。
 
 ## 多人編輯與識別
 
-assignment 每項 R&R 獨立一節，Leader 與 Contributors 分開，每人一行。新增自己時保留其他人的行與順序。個人成員檔案一人一份，資格欄位逐行維護，避免多人修改同一行。
+assignment 每項 R&R 獨立一節，Leader 與 Contributors 分開，每人一行。新增自己時保留其他人的行與順序。個人成員檔案一人一份，個人資料逐行維護，避免多人修改同一行。
 
 準備合併時由有權限者依[識別規格](<../specs/01-制度/[規格]成員識別與資料.md>)配置編號並更新自介、檔名及受影響的 assignment 連結；申請者不競爭下一個號碼。改帳號請在 PR 說明前後帳號與本人對應依據，保留編號；退出恢復沿用原檔。對應尚未核對時不自行當成另一個人，也不要求預設公開私人證件。

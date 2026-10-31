@@ -4,7 +4,7 @@
 
 各 R&R 的責任、routine、non-routine 與 SOP 引用由 [R&R package](<../specs/02-R&R/README.md>) 維護；本文件只維護人員 assignment，不另存責任範圍。
 
-本文件是 assignment 的唯一維護來源；顯示本人稱呼並連到個人成員檔案，已有編號者附 Member ID，尚未配置者以檔案連結識別。不逐項重抄 GitHub 或資格狀態；每次使用分工資料時須核對個人檔案的目前資格與有效依據。申請中的選擇不算有效任職，已退出者不列有效 Contributors；退出前的分工由 Git／PR 歷史保留。Leader 另須有本人接受、有效決定及生效時間，不以個人成員檔案存在或持有平台權限推定任職。
+本文件是 assignment 的唯一維護來源；顯示本人稱呼並連到個人成員檔案，已有編號者附 Member ID，尚未配置者以檔案連結識別。不逐項重抄 GitHub 或資格狀態；每次使用分工資料時須核對該人的申請 PR 與後續有效資格紀錄。申請中的選擇不算有效任職，已退出者不列有效 Contributors；退出前的分工由 Git／PR 歷史保留。Leader 另須有本人接受、有效決定及生效時間，不以個人成員檔案存在或持有平台權限推定任職。
 
 初始 R&R 範圍取自[第一次核心會議記錄](../logs/20261024-第一次核心會議-會議記錄.md)。歷史認領與新 assignment 的差異保存在 [Kickoff 的初始認領核對](../plans/001-Kickoff/plan.md#初始認領核對)。水球於 2026-10-31 在[自介 PR](https://github.com/AI-Native-Global-Founders-Speedrun-TW/ai-native-founders-tw-mono/pull/7)登錄 Contributors 選擇與兩項本人已指定並接受的 Leader；首屆完整名單與共同生效條件尚未完成，不將其他歷史認領直接轉成任命。
 
