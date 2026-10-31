@@ -11,14 +11,14 @@
 | R&R／責任定義 | Leader（一位） | Contributors（自行加入） |
 |---|---|---|
 | <a id="web"></a>[Hacker](<../specs/02-R&R/[Role]Hacker.md>) | 待確認 | 尚無登錄 |
-| <a id="networking"></a>[Networking／宣傳、自媒體（Threads／IG）](<../specs/02-R&R/[Role]Networking-宣傳與自媒體經營.md>) | 待確認 | [Yapi（吳子楊）](pending-yayapipi.md)（待配置，yayapipi，申請中） |
+| <a id="networking"></a>[Networking／宣傳、自媒體（Threads／IG）](<../specs/02-R&R/[Role]Networking-宣傳與自媒體經營.md>) | 待確認 | [Yapi（吳子楊）](pending-yayapipi.md)（6，yayapipi，申請中） |
 | <a id="onboard"></a>[Onboard／篩選](<../specs/02-R&R/[Role]Onboard-篩選與加入接續.md>) | 待確認 | 尚無登錄 |
 | <a id="events"></a>[活動籌辦與協助](<../specs/02-R&R/[Role]活動籌辦與協助.md>) | 待確認 | 尚無登錄 |
 | <a id="repository"></a>[基建-Repository 維護](<../specs/02-R&R/[Role]基建-Repository維護.md>) | 待確認 | 尚無登錄 |
 | <a id="vc"></a>[VC／其他組織媒合](<../specs/02-R&R/[Role]VC-其他組織媒合.md>) | 待確認 | 尚無登錄 |
 | <a id="domain-name"></a>[基建-Domain-Name 維護](<../specs/02-R&R/[Role]基建-Domain-Name維護.md>) | 待確認 | 尚無登錄 |
 | <a id="experience-sharing"></a>[受訪者邀請與經驗分享](../specs/02-R&R/[Role]受訪者邀請與經驗分享.md) | 待確認 | 尚無登錄 |
-| <a id="knowledge"></a>[開源創業知識及流派整理](<../specs/02-R&R/[Role]開源創業知識及流派整理.md>) | 待確認 | [Yapi（吳子楊）](pending-yayapipi.md)（待配置，yayapipi，申請中） |
+| <a id="knowledge"></a>[開源創業知識及流派整理](<../specs/02-R&R/[Role]開源創業知識及流派整理.md>) | 待確認 | [Yapi（吳子楊）](pending-yayapipi.md)（6，yayapipi，申請中） |
 | <a id="copywriting"></a>[公關-文案及使命傳達](<../specs/02-R&R/[Role]公關-文案及使命傳達.md>) | 待確認 | 尚無登錄 |
 | <a id="review"></a>[司法與覆核](<../specs/02-R&R/[Role]司法與覆核.md>) | 空缺，待有效任命及本人接受 | 尚無登錄 |
 

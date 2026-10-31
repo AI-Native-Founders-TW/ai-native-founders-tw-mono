@@ -10,7 +10,7 @@
 
 日常以 AI-Native 方式經營公司：用一組 AI agent 分擔 PM、CMO、CFO、CTO、客服等角色，開發主要靠 Claude Code 與 Codex。11/12 會參加 YC Startup School Taipei。
 
-Member ID：待配置
+Member ID：6
 GitHub：yayapipi
 連結：https://larch.ink
 
