@@ -15,6 +15,9 @@
 
 | Member ID | GitHub 帳號 | 申請者 | 自介檔案 | R&Rs（連至 assignment，標明 Contributors） | 自介 PR |
 |---|---|---|---|---|---|
+| 待配置 | Johnny850807 | 水球 | [自介草稿](00-johnny850807.md) | [Hacker](r-and-r-assignment.md#web)（Contributors）；[Networking／宣傳、自媒體（Threads／IG）](r-and-r-assignment.md#networking)（Contributors）；[Onboard／篩選](r-and-r-assignment.md#onboard)（Contributors）；[活動籌辦與協助](r-and-r-assignment.md#events)（Contributors）；[基建-Repository 維護](r-and-r-assignment.md#repository)（Contributors）；[VC／其他組織媒合](r-and-r-assignment.md#vc)（Contributors）；[基建-Domain-Name 維護](r-and-r-assignment.md#domain-name)（Contributors；Leader 本人已指定並接受，待首屆共同生效）；[受訪者邀請與經驗分享](r-and-r-assignment.md#experience-sharing)（Contributors）；[開源創業知識及流派整理](r-and-r-assignment.md#knowledge)（Contributors）；[公關-文案及使命傳達](r-and-r-assignment.md#copywriting)（Contributors）；[司法與覆核](r-and-r-assignment.md#review)（Contributors；Leader 本人已指定並接受，待首屆共同生效） | 待建立 |
+
+本人指定編號與現行規格的差異保留於自介草稿，尚未完成正式配置；本列不代表資格或首屆任命已生效。
 
 ## 維護
 
