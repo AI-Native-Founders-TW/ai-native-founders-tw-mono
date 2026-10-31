@@ -72,7 +72,7 @@
    >
    >    **Contributions 必須在提交前寫清楚，不能留待之後補充。** 請具體說明可以幫什麼忙、想要幫什麼忙，寫得越清楚越好：未來大家有志要辦任何活動，都可以善用 AI，透過 Contributions 直接尋找相關可以幫忙的志工。
    >
-   >    另依 members 的說明，在 R&R assignment 表自行選至少一個 R&R 當 Contributors，可選多個，並同步更新 members 總表的自介連結與 R&Rs；審查前標示申請中。選擇參與方向不等於接受任何指定工作。
+   >    另依 members 的說明，在 R&R assignment 表自行選至少一個 R&R 當 Contributors，可選多個，連到自己的成員檔案；個人檔案的資格狀態先填申請中，建立 PR 後補上狀態依據連結。選擇參與方向不等於接受任何指定工作。
    >
    >    可以用 AI 協助整理，但**提交 PR 前，請務必由本人親自 review 全文**，確認內容真實、符合自己的想法，沒有 AI 代為編造的經歷或參與承諾，再提交。提交 PR 是提出申請，審查通過後才成為成員。
    >    https://github.com/AI-Native-Founders-TW/ai-native-founders-tw-mono/blob/main/members/README.md

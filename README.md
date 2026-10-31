@@ -56,7 +56,7 @@
 
 請讀 specs/02-R&R/README.md、相關 Role 與 members/r-and-r-assignment.md，幫我找到適合的分工、現任聯繫者及相關 SOP。人選待確認或職位空缺時請如實說明。
 
-若我要調整 Contributors，依 specs/03-SOP/憲政/ 中的加入退出或調整 Contributors 分工 SOP，同步準備我的兩表資料。若我想承接具體工作，先找既有 Issue 或 Plan，幫我整理可接續的工作與完成條件，再由我確認承接範圍。
+若我要調整 Contributors，依 specs/03-SOP/憲政/ 中的加入退出或調整 Contributors 分工 SOP，準備我的 assignment 修改。若我想承接具體工作，先找既有 Issue 或 Plan，幫我整理可接續的工作與完成條件，再由我確認承接範圍。
 ```
 
 ### 我有提議，想找人一起討論

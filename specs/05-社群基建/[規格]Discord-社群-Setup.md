@@ -166,7 +166,7 @@ Read the rules 是平台另提供的規則入口，對應 Community 的 rules �
 
 ### onboard SOP 與頻道說明的接合
 
-onboard 以[釘選 SOP](https://discord.com/channels/1563453138810306612/1563456791050977341/1564254596208271400)承接第一項導覽。訊息依序帶新人閱讀組織說明、寫自介與 Contributions、在獨立 assignment 表自行選擇至少一個 R&R 當 Contributors 並同步 members 總表、記得自行 Review 全文、提交自介 PR、等待審查並依意見補充。自介欄位與 GitHub 提交操作依 [members 的自介與 PR 說明](<../../members/README.md>)，資格判定依[申請制度](<../01-制度/[機制] 憲政制度.md>)，不在 Discord 建立第二套規則。
+onboard 以[釘選 SOP](https://discord.com/channels/1563453138810306612/1563456791050977341/1564254596208271400)承接第一項導覽。訊息依序帶新人閱讀組織說明、寫自介與 Contributions、在獨立 assignment 表自行選擇至少一個 R&R 當 Contributors ，由個人成員檔案維護目前資格與依據、記得自行 Review 全文、提交自介 PR、等待審查並依意見補充。自介欄位與 GitHub 提交操作依 [members 的自介與 PR 說明](<../../members/README.md>)，資格判定依[申請制度](<../01-制度/[機制] 憲政制度.md>)，不在 Discord 建立第二套規則。
 
 | 頻道 | 固定說明與接續 |
 |---|---|

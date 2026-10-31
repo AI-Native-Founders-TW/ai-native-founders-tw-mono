@@ -71,7 +71,7 @@ LINE 群有 500 人限制，也面臨詐騙與被動潛水的問題；但不是�
 
 一個 Mono Repo 放規格、計畫、所有人的自介與貢獻。衍生的程式碼另開獨立 Repo，以 submodule 掛進 Mono，讓大家可以從共同入口找到各自維護的內容。
 
-自介的 Contributions 保存能力與意願；[members 總表](<../../members/members.md>)連接自介與 [R&R assignment](<../../members/r-and-r-assignment.md>)，讓人可以按成員或分工查找。這些資料也作為向 AI 詢問「有誰會願意幫這個忙」的 context。AI 找到相關人選，不代表已取得對方同意，也不會代替成員認領事項。
+自介的 Contributions 保存能力與意願；由 [members README](<../../members/README.md>)找到個人成員檔案，或從 [R&R assignment](<../../members/r-and-r-assignment.md>)按分工找到人員。按人查分工時，以個人檔案連結或 Member ID 在 assignment 搜尋，不另抄名單。這些資料也作為向 AI 詢問「有誰會願意幫這個忙」的 context。AI 找到相關人選，不代表已取得對方同意，也不會代替成員認領事項。
 
 每個人做的事情應留下 credit；開源筆記如何附上資訊貢獻者，依[憲法第 2 條（公益非商業性）](<../01-制度/憲法.md#第-2-條公益與非商業性>)。其他貢獻的具體呈現與激勵方式仍待設計。
 
