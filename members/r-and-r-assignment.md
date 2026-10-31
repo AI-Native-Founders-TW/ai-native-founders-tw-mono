@@ -20,7 +20,7 @@
 
 ### Contributors
 
-- [水球](00-johnny850807-水球潘.md)
+- [水球](000000-johnny850807-水球潘.md)（Member ID：000000）
 
 <a id="networking"></a>
 
@@ -34,7 +34,7 @@
 
 ### Contributors
 
-- [水球](00-johnny850807-水球潘.md)
+- [水球](000000-johnny850807-水球潘.md)（Member ID：000000）
 
 <a id="onboard"></a>
 
@@ -48,7 +48,7 @@
 
 ### Contributors
 
-- [水球](00-johnny850807-水球潘.md)
+- [水球](000000-johnny850807-水球潘.md)（Member ID：000000）
 
 <a id="events"></a>
 
@@ -62,7 +62,7 @@
 
 ### Contributors
 
-- [水球](00-johnny850807-水球潘.md)
+- [水球](000000-johnny850807-水球潘.md)（Member ID：000000）
 
 <a id="repository"></a>
 
@@ -76,7 +76,7 @@
 
 ### Contributors
 
-- [水球](00-johnny850807-水球潘.md)
+- [水球](000000-johnny850807-水球潘.md)（Member ID：000000）
 
 <a id="vc"></a>
 
@@ -90,7 +90,7 @@
 
 ### Contributors
 
-- [水球](00-johnny850807-水球潘.md)
+- [水球](000000-johnny850807-水球潘.md)（Member ID：000000）
 
 <a id="domain-name"></a>
 
@@ -100,11 +100,11 @@
 
 ### Leader
 
-[水球](00-johnny850807-水球潘.md)（本人已指定並接受，待首屆共同生效）
+[水球](000000-johnny850807-水球潘.md)（本人已指定並接受，待首屆共同生效）
 
 ### Contributors
 
-- [水球](00-johnny850807-水球潘.md)
+- [水球](000000-johnny850807-水球潘.md)（Member ID：000000）
 
 <a id="experience-sharing"></a>
 
@@ -118,7 +118,7 @@
 
 ### Contributors
 
-- [水球](00-johnny850807-水球潘.md)
+- [水球](000000-johnny850807-水球潘.md)（Member ID：000000）
 
 <a id="knowledge"></a>
 
@@ -132,7 +132,7 @@
 
 ### Contributors
 
-- [水球](00-johnny850807-水球潘.md)
+- [水球](000000-johnny850807-水球潘.md)（Member ID：000000）
 
 <a id="copywriting"></a>
 
@@ -146,7 +146,7 @@
 
 ### Contributors
 
-- [水球](00-johnny850807-水球潘.md)
+- [水球](000000-johnny850807-水球潘.md)（Member ID：000000）
 
 <a id="review"></a>
 
@@ -156,11 +156,11 @@
 
 ### Leader
 
-[水球](00-johnny850807-水球潘.md)（本人已指定並接受，待首屆共同生效）
+[水球](000000-johnny850807-水球潘.md)（本人已指定並接受，待首屆共同生效）
 
 ### Contributors
 
-- [水球](00-johnny850807-水球潘.md)
+- [水球](000000-johnny850807-水球潘.md)（Member ID：000000）
 
 各 R&R 文件中的尚未訂定事項不因有人加入 assignment 而成為已採納規則；實際安排依 specs。Leader 待確認的項目尚未完成決策分工。
 
