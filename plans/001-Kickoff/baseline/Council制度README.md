@@ -8,7 +8,7 @@
 
 | 文件 | 主要資料 |
 |---|---|
-| [憲法](constitution.md) | 組織目的、非營利性質、基本原則、治理與規範效力。 |
+| [憲法](../../../specs/01-制度/憲法.md) | 組織目的、非營利性質、基本原則、治理與規範效力。 |
 | [申請制度]([機制]申請制度.md) | 自介申請、內容與提交位置、審查及成員資格取得。 |
 | [成員參與制度]([機制]成員參與制度.md) | 基本參與度、Leader／Contributors、routine／non-routine 與承接、交接的共通規則。 |
 | [R&R subpackage](role-and-responsibility/README.md) | 各項分工的責任範圍、決策界線、routine、non-routine 與 SOP 引用；每項一份文件。 |

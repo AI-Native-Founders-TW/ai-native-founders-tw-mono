@@ -39,7 +39,7 @@
 - 互動：主動拍板
 - 完整語意：Discord 相關 Problem、已確認安排、現況與候選設計集中在同一份混合文件，將原 Problem 檔更名為 [機制]Discord-社群-Setup.md。依 Problem、Specs、Note 分層；此裁決是內容組織與命名，不代表尚未確認的配置已採納或 Discord 已設定完成。
 - 推翻：無
-- 落點：[Discord 社群 Setup](../../specs/02-工作流/[機制]Discord-社群-Setup.md)、工作流 README、plan.md；歷史討論及舊決策保留。
+- 落點：[Discord 社群 Setup](<../../specs/05-社群基建/[規格]Discord-社群-Setup.md>)、工作流 README、plan.md；歷史討論及舊決策保留。
 
 ## 決策 005（明列頻道類型）
 
@@ -48,7 +48,7 @@
 - 互動：主動拍板
 - 完整語意：Discord 規格用表格明列 channel、type、描述，並以 clarify 釐清尚未決定的內容。此要求不等於採納目前候選頻道與權限配置。
 - 推翻：無
-- 落點：[Discord 社群 Setup](../../specs/02-工作流/[機制]Discord-社群-Setup.md)的頻道整體配置表；本輪對話提出待確認事項。
+- 落點：[Discord 社群 Setup](<../../specs/05-社群基建/[規格]Discord-社群-Setup.md>)的頻道整體配置表；本輪對話提出待確認事項。
 
 ## 決策 006（採納頻道配置）
 
@@ -61,7 +61,7 @@
   > 2. Others：指出要刪減、合併或調整的頻道。
 - 完整語意：使用者依序回答「1. 1」「2. 1」「3. 1」，本題選擇第一項。採用提問時的十一個頻道配置，包含 Category、Channel、Type 與描述；保留既有訊息與論壇串。其餘未確認的平台設定不因此獲採納。
 - 推翻：無
-- 落點：[Discord 社群 Setup](../../specs/02-工作流/[機制]Discord-社群-Setup.md#頻道整體配置)；plan.md 的規格差異、待辦與驗收。
+- 落點：[Discord 社群 Setup](<../../specs/05-社群基建/[規格]Discord-社群-Setup.md#頻道整體配置>)；plan.md 的規格差異、待辦與驗收。
 
 ## 決策 007（開放活動建立）
 
@@ -76,7 +76,7 @@
   > 4. Others：補充其他權限安排。
 - 完整語意：使用者依序回答「1. 1」「2. 1」「3. 1」，本題選擇第一項。所有 server 加入者均可自行建立自己的原生 Events 活動排程，管理全部活動仍限管理者；不以組織成員資格作為建立活動的條件。
 - 推翻：無
-- 落點：[Discord 社群 Setup](../../specs/02-工作流/[機制]Discord-社群-Setup.md#活動建立與管理權限)；plan.md 的規格差異、待辦與驗收。
+- 落點：[Discord 社群 Setup](<../../specs/05-社群基建/[規格]Discord-社群-Setup.md#活動建立與管理權限>)；plan.md 的規格差異、待辦與驗收。
 
 ## 決策 008（不新增管理授權）
 
@@ -90,7 +90,7 @@
   > 3. Others：補充其他分工方式。
 - 完整語意：使用者依序回答「1. 1」「2. 1」「3. 1」，本題選擇第一項。本次不新增管理者或公告發布者，維持既有管理權，公告先由既有管理者發布；不自行新增人選或擴張授權。
 - 推翻：無
-- 落點：[Discord 社群 Setup](../../specs/02-工作流/[機制]Discord-社群-Setup.md#管理與公告發布)；plan.md 的規格差異、待辦與驗收。
+- 落點：[Discord 社群 Setup](<../../specs/05-社群基建/[規格]Discord-社群-Setup.md#管理與公告發布>)；plan.md 的規格差異、待辦與驗收。
 
 ## 決策 009（直接執行設定）
 
@@ -104,7 +104,7 @@
   > 每個 channel 的描述都幫忙填
 - 完整語意：直接依已確認的 Discord 配置完成 server setup，填寫每個 channel 的描述，清除規格中的過時候選 Note。既有原話與提案演變保留為歷史，不新增管理者或公告發布者。
 - 推翻：無
-- 落點：[Discord 社群 Setup](../../specs/02-工作流/[機制]Discord-社群-Setup.md)；plan.md 設定驗證與驗收；目標 Discord server。
+- 落點：[Discord 社群 Setup](<../../specs/05-社群基建/[規格]Discord-社群-Setup.md>)；plan.md 設定驗證與驗收；目標 Discord server。
 
 ## 決策 010（同意社群啟用）
 
@@ -116,4 +116,4 @@
   > 選項：同意，完成 Community 啟用／先完成頻道與描述，不啟用 Community
 - 完整語意：使用者回答「同意，完成 Community 啟用」，明確同意在最後一步接受 Community Server Guidelines 並完成啟用；啟用後恢復所有加入者建立自己活動的權限。
 - 推翻：無
-- 落點：[Discord 社群 Setup](../../specs/02-工作流/[機制]Discord-社群-Setup.md)；plan.md 設定驗證與驗收；目標 Discord server。
+- 落點：[Discord 社群 Setup](<../../specs/05-社群基建/[規格]Discord-社群-Setup.md>)；plan.md 設定驗證與驗收；目標 Discord server。

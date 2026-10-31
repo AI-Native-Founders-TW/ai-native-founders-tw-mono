@@ -158,13 +158,13 @@ CEO 根目錄：`/Users/johnnypan/Projects/CEO`
 
 組織 mono：`/Users/johnnypan/Projects/CEO/Side-Projects/ai-native-founders-tw-mono`
 
-網站：`/Users/johnnypan/Projects/CEO/Side-Projects/ai-native-founders-tw-mono/ai-native-founders-tw-web`
+網站：`/Users/johnnypan/Projects/CEO/Side-Projects/ai-native-founders-tw-mono/modules/ai-native-founders-tw-web`
 
 網站遠端：[網站 repository](https://github.com/AI-Native-Founders-TW/ai-native-founders-tw-web)。另一台機器只 clone 遠端不一定拿到本輪未提交成果，必須先取得本輪工作樹變更或明確回報缺少的 context，不得默默用舊版覆蓋。
 
 本輪 Plan package：`plans/002-revise-LP-copywriting-by-水球/`（文案修改計畫），相對於組織 mono。先讀其 plan.md、需求原文.md、decisions.md 與 AI-Native文案與動畫提案.md。
 
-先讀 mono 與網站各自的 AGENTS.md、CLAUDE.md，以及 mono 的 specs/01-制度/constitution.md。定位檔案遵循 CEO 的 mono-map-query 路由規則；網站 AGENTS 有程式碼地圖，進入網站後循其地圖定位。
+先讀 mono 與網站各自的 AGENTS.md、CLAUDE.md，以及 mono 的 specs/01-制度/憲法.md。定位檔案遵循 CEO 的 mono-map-query 路由規則；網站 AGENTS 有程式碼地圖，進入網站後循其地圖定位。
 
 本機預覽先前運行於 http://127.0.0.1:4321/，先確認現況，不要無故開第二個 server。框架是 Astro、TypeScript、GSAP/ScrollTrigger、Lenis，既有網站也使用 Three.js。文案在 src/content/copy/zh-tw.yaml，相關欄位為 aiNative；章節在 src/experience/chapters/ 對應目錄。具體檔名依現況核對，不猜。
 
@@ -174,7 +174,7 @@ Node engine 需要至少 22.23.4。此機先前系統 Node 是 22.22.0，必要�
 
 ## 品質與可靠性要求
 
-- 所有正式文案在 YAML 維護，不寫死進元件。同步 mono 的 specs/04-landing-page/[文案]首頁.md 中本區內容，保留逐段文案格式，不轉成表格或「機制」。Plan 保存來源、摘要與實際驗證結果。
+- 所有正式文案在 YAML 維護，不寫死進元件。同步 mono 的 specs/03-Web/landing-page/[文案]首頁.md 中本區內容，保留逐段文案格式，不轉成表格或「機制」。Plan 保存來源、摘要與實際驗證結果。
 - 本次以繁體中文頁為主。若共用元件改動影響英文頁，英文也必須可用，不可因缺欄位而混出兩種不同場景或報錯；新增英文文案要明確列為翻譯，不假稱已拍板。
 - 重要文字可被選取、搜尋與輔助科技讀取。裝飾不重複朗讀，不能把全部內容燒進 canvas。
 - 無 JavaScript、減少動態、低效能模式，都保留完整三層與願景。靜態版本也是正式設計，不是壞掉動畫的截圖。
@@ -202,7 +202,7 @@ Node engine 需要至少 22.23.4。此機先前系統 Node 是 22.22.0，必要�
 - 快速跳到下一區、反向捲動、重新進入及「跳過 run」都正常。
 - 無杜撰成果、AGI 倒數、廣告、付費置入或特定公司推銷。
 
-執行網站既有 `pnpm check`、`pnpm test`、`pnpm lint`、`pnpm build`，使用符合 engine 的 Node。需要本機 mono 時使用 `MONO_PATH=..`。區分本次造成的錯誤與既有問題，不掩飾失敗，也不順手大改無關檔案。新增測試應針對新引入的實際狀態與風險，不寫只重複文案的測試。
+執行網站既有 `pnpm check`、`pnpm test`、`pnpm lint`、`pnpm build`，使用符合 engine 的 Node。需要本機 mono 時使用 `MONO_PATH=../..`。區分本次造成的錯誤與既有問題，不掩飾失敗，也不順手大改無關檔案。新增測試應針對新引入的實際狀態與風險，不寫只重複文案的測試。
 
 依 mono AGENTS，交付前請獨立 subagent 讀憲法全文、實際 diff 與修改檔全文，逐條檢查並記入 Plan。不要自行修改憲法以讓設計過關。
 

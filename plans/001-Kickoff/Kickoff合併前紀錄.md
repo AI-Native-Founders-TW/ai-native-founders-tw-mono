@@ -175,11 +175,11 @@
 | 工作範圍 | 現行內容 |
 |---|---|
 | 願景與問題 | [願景](../../specs/00-願景和問題/vision.md)承載目的、困難、方針與未決方向；[創辦人的話](../../specs/00-願景和問題/創辦人的話.md)保留創辦人原文 |
-| 組織核心與治理 | [憲法](../../specs/01-制度/constitution.md)規範組織目的、非營利性質、開放參與、協作與規範效力 |
+| 組織核心與治理 | [憲法](../../specs/01-制度/憲法.md)規範組織目的、非營利性質、開放參與、協作與規範效力 |
 | 申請與參與 | [申請制度](../../specs/01-制度/[機制]申請制度.md)與[成員參與制度](../../specs/01-制度/[機制]成員參與制度.md)維護具體安排及各自未決事項 |
-| 志工與開源知識 | [志工協作與開源知識](../../specs/02-SOP/[機制]志工協作與開源知識.md)承接交流、知識整理與工作認領 |
-| 招募客服 | [Threads 引流招募客服 SOP](../../specs/02-SOP/[機制]Threads引流招募客服SOP.md)以人可照做的步驟說明回覆、邀請、核對及交接 |
-| 行政資料 | [行政 package](../../specs/03-行政/README.md)提供行政文件入口；實際邀請經過記於[邀請日誌](../../logs/邀請日誌.md) |
+| 志工與開源知識 | [志工協作與開源知識](<../../specs/03-SOP/[SOP]志工協作與開源知識.md>)承接交流、知識整理與工作認領 |
+| 招募客服 | [Threads 引流招募客服 SOP](<../../specs/03-SOP/[SOP]Threads引流招募客服SOP.md>)以人可照做的步驟說明回覆、邀請、核對及交接 |
+| 行政資料 | [行政 package](../../logs/邀請日誌.md)提供行政文件入口；實際邀請經過記於[邀請日誌](../../logs/邀請日誌.md) |
 | 原始依據與協作規範 | [第一次核心會議記錄](../../logs/20261024-第一次核心會議-會議記錄.md)保留會議原話；[AGENTS.md](../../AGENTS.md)規定規格寫法與憲法檢查 |
 
 各次交付狀態與當時證據保留於歷史紀錄，不因合併全部改成完成或未完成。本 Plan 尚未宣告整個 Kickoff 已交付。
@@ -192,11 +192,11 @@
 
 ### 組織需要清楚的核心原則與具體制度
 
-核心原則與日常申請、參與安排必須分清楚，避免每次調整具體方式都變成修憲。規定分別由[憲法](../../specs/01-制度/constitution.md)、[申請制度](../../specs/01-制度/[機制]申請制度.md)與[成員參與制度](../../specs/01-制度/[機制]成員參與制度.md)維護。
+核心原則與日常申請、參與安排必須分清楚，避免每次調整具體方式都變成修憲。規定分別由[憲法](../../specs/01-制度/憲法.md)、[申請制度](../../specs/01-制度/[機制]申請制度.md)與[成員參與制度](../../specs/01-制度/[機制]成員參與制度.md)維護。
 
 ### 志工協作與招募需要可接續的工作流
 
-志工時間、協作資訊與知識取用有待處理；加入詢問散在留言與私訊，也需要避免漏回或重複邀請。詳細問題見[志工協作](../../specs/02-SOP/[機制]志工協作與開源知識.md#problem)及[招募客服](../../specs/02-SOP/[機制]Threads引流招募客服SOP.md#problem)。
+志工時間、協作資訊與知識取用有待處理；加入詢問散在留言與私訊，也需要避免漏回或重複邀請。詳細問題見[志工協作](<../../specs/03-SOP/[SOP]志工協作與開源知識.md#problem>)及[招募客服](<../../specs/03-SOP/[SOP]Threads引流招募客服SOP.md#problem>)。
 
 ### Plans 太多，啟動工作被拆散
 
@@ -205,8 +205,8 @@
 ## To-Be 目標
 
 1. 透過[願景](../../specs/00-願景和問題/vision.md)理解組織目的、問題與方針；規格直接陳述 truth，不轉述 speaker 脈絡。
-2. 由[憲法與制度](../../specs/01-制度/constitution.md)區分核心原則、申請及參與安排，規則各有唯一維護位置。
-3. 參與者能依[協作工作流](../../specs/02-SOP/[機制]志工協作與開源知識.md)與[客服 SOP](../../specs/02-SOP/[機制]Threads引流招募客服SOP.md)接續工作，並辨認尚未決定或未驗證的部分。
+2. 由[憲法與制度](../../specs/01-制度/憲法.md)區分核心原則、申請及參與安排，規則各有唯一維護位置。
+3. 參與者能依[協作工作流](<../../specs/03-SOP/[SOP]志工協作與開源知識.md>)與[客服 SOP](<../../specs/03-SOP/[SOP]Threads引流招募客服SOP.md>)接續工作，並辨認尚未決定或未驗證的部分。
 4. 從本 Plan 即可找到目前規格、待辦及歷史依據，不必逐份翻閱舊 Plan 才能知道下一步。
 
 ## 工程摘要
@@ -221,7 +221,7 @@
 
 既有專門修憲工作的需求、條文修訂理由及審查證據，集中保存在[憲法建立紀錄](./歷史紀錄.md#憲法的建立)及各次修訂紀錄；最近一次正式潤稿的前後文字仍見[凍結修訂對照](./憲法修訂對照.diff)。
 
-合併依本輪使用者指定執行，不代表重開憲法建立期間、不改變既有交付狀態，也不採納任何未決修憲建議。本輪不修改憲法或制度條文。後續修憲仍須遵守[憲法第二十條（修憲建議程序）](../../specs/01-制度/constitution.md#第-20-條修憲建議與修改)，記明條項、現行原文、建議文字及理由。
+合併依本輪使用者指定執行，不代表重開憲法建立期間、不改變既有交付狀態，也不採納任何未決修憲建議。本輪不修改憲法或制度條文。後續修憲仍須遵守[憲法第二十條（修憲建議程序）](../../specs/01-制度/憲法.md#第-20-條修憲建議與修改)，記明條項、現行原文、建議文字及理由。
 
 ### Plan 合併的規格差異
 
@@ -229,7 +229,7 @@ Plan 合併沒有 specs truth 變更。只合併 Plan、搬移歷史附件、更
 
 ### 招募客服流程通用化
 
-[客服 SOP](../../specs/02-SOP/[機制]Threads引流招募客服SOP.md)改為任何負責人都能參考，不綁定三篇既有貼文或 Johnny。說明新發起招募及接手對話的入口，改以本次帳號、處理範圍、最新制度與有效邀請接續；例子也使用一般負責人。本人意願、避免重複、發送前後核對與隱私規定不變。本組織目前使用 Discord 的安排不變，不將通用步驟誤寫成任意變更社群媒介的授權。
+[客服 SOP](<../../specs/03-SOP/[SOP]Threads引流招募客服SOP.md>)改為任何負責人都能參考，不綁定三篇既有貼文或 Johnny。說明新發起招募及接手對話的入口，改以本次帳號、處理範圍、最新制度與有效邀請接續；例子也使用一般負責人。本人意願、避免重複、發送前後核對與隱私規定不變。本組織目前使用 Discord 的安排不變，不將通用步驟誤寫成任意變更社群媒介的授權。
 
 ## 後續獨立工作
 
@@ -239,11 +239,11 @@ Discord server 的頻道、權限、新人引導及活動設定，改由 [discor
 
 | 接續工作 | 依據與目前界線 |
 |---|---|
-| 驗證自介審查與 org 邀請接續 | Council 審查與一人核准已確定，依[自介 PR 審查 SOP](../../specs/02-SOP/[機制]自介PR審查SOP.md)以真實申請驗證；尚未實際核准、合併或邀請 |
+| 驗證自介審查與 org 邀請接續 | Council 審查與一人核准已確定，依[自介 PR 審查 SOP](<../../specs/03-SOP/[SOP]自介PR審查SOP.md>)以真實申請驗證；尚未實際核准、合併或邀請 |
 | 確定基本參與度的具體標準 | 見[基本參與度 TODO](../../specs/01-制度/[機制]基本參與度.md#todo)，不自行增加出席、發言或工作指標 |
-| 核對可用的邀請、申請入口與私人證據保存位置 | 依[客服開始前的核對](../../specs/02-SOP/[機制]Threads引流招募客服SOP.md#開始前)處理，文件不證明外部設定已完成 |
+| 核對可用的邀請、申請入口與私人證據保存位置 | 依[客服開始前的核對](<../../specs/03-SOP/[SOP]Threads引流招募客服SOP.md#開始前>)處理，文件不證明外部設定已完成 |
 | 完成邀請、申請與審查的整段實測 | 先前只試到讀取 Threads 對話與私訊草稿；後續實際操作另依授權及制度執行，本輪未發送任何訊息或邀請 |
-| 接續知識整理、取用與協作安排 | 依[志工協作與開源知識](../../specs/02-SOP/[機制]志工協作與開源知識.md)，Note 中的候選方案不自動升格為規格 |
+| 接續知識整理、取用與協作安排 | 依[志工協作與開源知識](<../../specs/03-SOP/[SOP]志工協作與開源知識.md>)，Note 中的候選方案不自動升格為規格 |
 | 釐清修憲建議的核准人與程序 | 既有[正式潤稿紀錄](./歷史紀錄.md#憲法正式潤稿)已記錄尚未明定，不因合併新增權限 |
 
 ## 驗收
@@ -323,7 +323,7 @@ Discord server 的頻道、權限、新人引導及活動設定，改由 [discor
 
 ---
 
-公版訊息已移至[客服 SOP「提供邀請與加入說明」步驟的 payload](../../specs/02-SOP/[機制]Threads引流招募客服SOP.md#sop)，以該處為唯一維護位置。
+公版訊息已移至[客服 SOP「提供邀請與加入說明」步驟的 payload](<../../specs/03-SOP/[SOP]Threads引流招募客服SOP.md#sop>)，以該處為唯一維護位置。
 ---
 
 待確認：三份閱讀文件是否全部列為新朋友的閱讀內容、自介範例與提交說明、活動直達連結。Discord 邀請為本輪使用者提供，尚未實測有效性；沒有將 Star 或活動留言列為資格審查條件。
@@ -761,7 +761,7 @@ R&R 必須在提交前寫清楚，不能留待之後補充。寫得越清楚越�
 
 ### 行政 package 所屬 repo 修正
 
-前輪誤將組織行政 package 放在個人生活。依使用者更正，已移到本 repo 的 [行政 package](../../specs/03-行政/README.md)，接續既有 package 編號，README 保留主要資料範圍與文件入口，沒有分工章節。邀請帳號 truth 一起移入，SOP 直接引用該唯一帳號表；私人訊息、聯絡資料與截圖證據仍另外保存。帳號表目前空白，未匯入或發送任何邀請。CEO 側原 log 保留原話及修正過程，誤建的個人生活 specs package 與導覽已移除。
+前輪誤將組織行政 package 放在個人生活。依使用者更正，已移到本 repo 的 [行政 package](../../logs/邀請日誌.md)，接續既有 package 編號，README 保留主要資料範圍與文件入口，沒有分工章節。邀請帳號 truth 一起移入，SOP 直接引用該唯一帳號表；私人訊息、聯絡資料與截圖證據仍另外保存。帳號表目前空白，未匯入或發送任何邀請。CEO 側原 log 保留原話及修正過程，誤建的個人生活 specs package 與導覽已移除。
 
 ### 行政 package 所屬 repo 更正憲法檢查
 
@@ -1125,7 +1125,7 @@ Members 新增自介參考範例與實際 PR 提交說明；五段格式可自�
 
 ### 自介照片與資產位置
 
-依[申請制度](../../specs/01-制度/[機制]申請制度.md)，自介須附一張照片，照片資產放在 `members/assets/`。同步補上 [members 提交說明](../../members/README.md)的 Markdown 範例、照片上傳與本人 review，以及[邀請 SOP](../../specs/02-SOP/[機制]Threads引流招募客服SOP.md)公版。未增加照片風格、臉部或正式照條件，也未改加入審查的意圖原則。本次不暫存、不 commit、不 push、不切分支。
+依[申請制度](../../specs/01-制度/[機制]申請制度.md)，自介須附一張照片，照片資產放在 `members/assets/`。同步補上 [members 提交說明](../../members/README.md)的 Markdown 範例、照片上傳與本人 review，以及[邀請 SOP](<../../specs/03-SOP/[SOP]Threads引流招募客服SOP.md>)公版。未增加照片風格、臉部或正式照條件，也未改加入審查的意圖原則。本次不暫存、不 commit、不 push、不切分支。
 
 ### 自介照片憲法檢查
 
@@ -1179,9 +1179,9 @@ Members 新增自介參考範例與實際 PR 提交說明；五段格式可自�
 
 ### 規格差異與驗收
 
-本次沿用組織啟動工作，承接[找人幫忙時得逐一詢問的 Problem](../../specs/02-SOP/[機制]志工協作與開源知識.md#找人幫忙時得一個一個去問)。
+本次沿用組織啟動工作，承接[找人幫忙時得逐一詢問的 Problem](<../../specs/03-SOP/[SOP]志工協作與開源知識.md#找人幫忙時得一個一個去問>)。
 
-- [x] [申請制度](../../specs/01-制度/[機制]申請制度.md)與 [members 說明](../../members/README.md)將自介欄位命名為 Contributions；[邀請 SOP](../../specs/02-SOP/[機制]Threads引流招募客服SOP.md)同步用詞及提交步驟。歷史原話不改。
+- [x] [申請制度](../../specs/01-制度/[機制]申請制度.md)與 [members 說明](../../members/README.md)將自介欄位命名為 Contributions；[邀請 SOP](<../../specs/03-SOP/[SOP]Threads引流招募客服SOP.md>)同步用詞及提交步驟。歷史原話不改。
 - [x] [成員參與制度](../../specs/01-制度/[機制]成員參與制度.md#rr-assignment)定義每項 R&R 一位 Leader、每位成員自行選至少一項當 Contributors；可選多項，具體工作仍依本人意願認領。
 - [x] [R&R assignment](../../members/r-and-r-assignment.md)獨立成表，載入會議記錄的九項初始分工；尚未經本人確認的新身分如實標示待確認。
 - [x] [members 總表](../../members/members.md)提供成員、自介連結與 R&Rs 索引；申請中分表。沒有自介或審查通過證據的人不先列成成員。
@@ -1242,7 +1242,7 @@ Members 新增自介參考範例與實際 PR 提交說明；五段格式可自�
 
 ### 變更與驗收
 
-將工作流 package 更名為 `specs/02-SOP/`（SOP 規格目錄），文件內容與層級保留；[package README](../../specs/02-SOP/README.md)標題同步改為 SOP。現行規格、治理入口、Plan 與邀請日誌的連結同步更新。歷史紀錄、已追加的 decisions 與引用原話中的舊路徑保持原文，查找現行文件時以此新目錄為準。
+將工作流 package 更名為 `specs/02-SOP/`（SOP 規格目錄），文件內容與層級保留；[package README](<../../specs/03-SOP/README.md>)標題同步改為 SOP。現行規格、治理入口、Plan 與邀請日誌的連結同步更新。歷史紀錄、已追加的 decisions 與引用原話中的舊路徑保持原文，查找現行文件時以此新目錄為準。
 
 本輪只更名及修正引用，沒有制度或 SOP 行為變更。仍不暫存、不 commit、不 push。
 
@@ -1288,9 +1288,9 @@ Members 新增自介參考範例與實際 PR 提交說明；五段格式可自�
 本次承接[自介審查的 Problem](../../specs/01-制度/[機制]自介審查.md#problem)，由制度定義誰能裁決與通過條件，SOP 定義逐項核對、comments、PR 合併、平台邀請與中斷接續。GitHub org 的身分與權限集中於獨立設定規格，與 Discord 分開維護。
 
 - [x] [自介審查制度](../../specs/01-制度/[機制]自介審查.md)採 Council 人員裁決、AI 協助、一位核准；禁止自審，未解決異議不通過。
-- [x] [自介 PR 審查 SOP](../../specs/02-SOP/[機制]自介PR審查SOP.md)包含逐項標準，以及待補充、正式通過、正式未通過、邀請已送出、加入完成與邀請未完成的 comments。
+- [x] [自介 PR 審查 SOP](<../../specs/03-SOP/[SOP]自介PR審查SOP.md>)包含逐項標準，以及待補充、正式通過、正式未通過、邀請已送出、加入完成與邀請未完成的 comments。
 - [x] 補件保留 PR，不設定期催辦或逾期關閉；明確違反原則時說明理由、關閉並提供重新申請方式。
-- [x] [GitHub org Setup](../../specs/02-SOP/[機制]GitHub-Org-Setup.md)明定通過後只邀請 org Member，不加入 Members team，不另授 mono Write；保留既有 Team 配置與既有成員權限。
+- [x] [GitHub org Setup](<../../specs/05-社群基建/[規格]GitHub-Org-Setup.md>)明定通過後只邀請 org Member，不加入 Members team，不另授 mono Write；保留既有 Team 配置與既有成員權限。
 - [x] 申請制度、members 說明、制度與 SOP 入口同步，不保留審查人與核准數尚未決定的舊說明。
 - [ ] 以真實自介 PR 驗證完整審查、合併、邀請與接受流程；本輪未核准、合併、發 comment 或邀請。
 
@@ -1338,7 +1338,7 @@ GitHub 顯示名稱 AI-Native Founders Summit Taiwan 與憲法名稱不同，保
 
 ### 規格差異
 
-[自介 PR 審查 SOP](../../specs/02-SOP/[機制]自介PR審查SOP.md#歡迎正式加入-github-org-comment)改以完整歡迎文字說明已合併自介、已確認 org Member，以及 Contributions、R&R、Discord 與 Fork／PR 的參與方式；發布前須替換實際連結。本輪僅修訂規格，未發布 comment。
+[自介 PR 審查 SOP](<../../specs/03-SOP/[SOP]自介PR審查SOP.md#歡迎正式加入-github-org-comment>)改以完整歡迎文字說明已合併自介、已確認 org Member，以及 Contributions、R&R、Discord 與 Fork／PR 的參與方式；發布前須替換實際連結。本輪僅修訂規格，未發布 comment。
 
 ### 憲法檢查
 
@@ -1420,7 +1420,7 @@ GitHub 顯示名稱 AI-Native Founders Summit Taiwan 與憲法名稱不同，保
 
 ### 規格差異與驗收
 
-- [x] 在[制度的 R&R subpackage](../../specs/01-制度/role-and-responsibility/README.md)以九份獨立文件維護既有九項 R&R；沒有新設 Council、活動或 Discord R&R。
+- [x] 在[制度的 R&R subpackage](<../../specs/02-R&R/README.md>)以九份獨立文件維護既有九項 R&R；沒有新設 Council、活動或 Discord R&R。
 - [x] 各檔以 Problem／Specs 分層，定義責任範圍、決策界線、routine、non-routine、時間與 SOP；尚未訂定部分明列。
 - [x] [成員參與制度](../../specs/01-制度/[機制]成員參與制度.md#routine-與-non-routine-responsibilities)集中維護時間起算、本人接受、跨分工交接、失敗接續及規格修改界線。
 - [x] [assignment](../../members/r-and-r-assignment.md)改為人員表並連到各 R&R；原有九個錨點保留。members traceability matrix 與制度入口同步。
@@ -1510,7 +1510,7 @@ Onboard 自介審查與 Threads 招募已有 SOP；其他文件只引用已知�
 
 ### 變更與驗收
 
-將 [landing page（組織官方網站）](../../ai-native-founders-tw-web/README.md) 以 Git submodule 掛在 Mono 底下。只新增掛載設定與版本指向，不修改網站內容，沒有 specs truth 變更。原有未提交修改保留，未 push。
+將 [landing page（組織官方網站）](../../modules/ai-native-founders-tw-web/README.md) 以 Git submodule 掛在 Mono 底下。只新增掛載設定與版本指向，不修改網站內容，沒有 specs truth 變更。原有未提交修改保留，未 push。
 
 ### 憲法檢查
 
@@ -1552,13 +1552,13 @@ Onboard 自介審查與 Threads 招募已有 SOP；其他文件只引用已知�
 
 本次使用 formulation，從掛載的網站內容與實作回寫最下游 As-Is，再引用現行願景、憲法與制度。沒有從規劃文件的 roadmap 補造已提供的功能，也沒有用網站舊文案覆蓋現行制度。
 
-新增 [landing page（網站規格入口）](../../specs/04-landing-page/README.md)，三個 scope 各自維護；以下來源均以本次掛載版本為準。英文頁與繁中頁共用元件、語系文案各自維護，語系缺值行為已核對。
+新增 [landing page（網站規格入口）](<../../specs/04-Web/README.md>)，三個 scope 各自維護；以下來源均以本次掛載版本為準。英文頁與繁中頁共用元件、語系文案各自維護，語系缺值行為已核對。
 
 | 正式文件 | 已讀取的來源 | 與上游的關係 |
 |---|---|---|
-| [首頁與內容呈現](../../specs/04-landing-page/[文案]首頁.md) | 網站的 [首頁組裝](../../ai-native-founders-tw-web/src/experience/Home.astro)、[首頁文案](../../ai-native-founders-tw-web/src/content/copy/zh-tw.yaml)、[英文文案](../../ai-native-founders-tw-web/src/content/copy/en.yaml)、[關鍵字比對](../../ai-native-founders-tw-web/src/experience/chapters/06-ai-native/match.ts)。 | 回應願景中的出海與封閉感；保留流派整理中及本機示範界線。 |
-| [加入流程與自介產生器](../../specs/04-landing-page/[文案]加入頁.md) | 網站的 [加入頁](../../ai-native-founders-tw-web/src/components/join/JoinPage.astro)、[加入文案](../../ai-native-founders-tw-web/src/content/copy/join.zh-tw.yaml)、[產生器](../../ai-native-founders-tw-web/src/components/join/IntroBuilder.tsx)、[範本處理](../../ai-native-founders-tw-web/src/components/join/intro-template.ts)。 | 回應加入申請的處理成本；資格與完整申請要求仍引用現行制度。 |
-| [Credits與AI可讀輸出](../../specs/04-landing-page/[文案]Credits.md) | 網站的 [Credits 頁](../../ai-native-founders-tw-web/src/components/credits/CreditsPage.astro)、[內容圖譜](../../ai-native-founders-tw-web/src/graph/build-graph.ts)、[公開欄位](../../ai-native-founders-tw-web/src/graph/public.ts)、[非程式貢獻](../../ai-native-founders-tw-web/src/content/credits.yml)、[AI 摘要](../../ai-native-founders-tw-web/src/pages/llms.txt.ts)、[AI 全文](../../ai-native-founders-tw-web/src/pages/llms-full.txt.ts)。 | 回應留下 credit 與取得協作 context；不從署名或讀到自介推定成員資格。 |
+| [首頁與內容呈現](<../../specs/04-Web/landing-page/[文案]首頁.md>) | 網站的 [首頁組裝](../../modules/ai-native-founders-tw-web/src/experience/Home.astro)、[首頁文案](../../modules/ai-native-founders-tw-web/src/content/copy/zh-tw.yaml)、[英文文案](../../modules/ai-native-founders-tw-web/src/content/copy/en.yaml)、[關鍵字比對](../../modules/ai-native-founders-tw-web/src/experience/chapters/06-ai-native/match.ts)。 | 回應願景中的出海與封閉感；保留流派整理中及本機示範界線。 |
+| [加入流程與自介產生器](<../../specs/04-Web/landing-page/[文案]加入頁.md>) | 網站的 [加入頁](../../modules/ai-native-founders-tw-web/src/components/join/JoinPage.astro)、[加入文案](../../modules/ai-native-founders-tw-web/src/content/copy/join.zh-tw.yaml)、[產生器](../../modules/ai-native-founders-tw-web/src/components/join/IntroBuilder.tsx)、[範本處理](../../modules/ai-native-founders-tw-web/src/components/join/intro-template.ts)。 | 回應加入申請的處理成本；資格與完整申請要求仍引用現行制度。 |
+| [Credits與AI可讀輸出](<../../specs/04-Web/landing-page/[文案]Credits.md>) | 網站的 [Credits 頁](../../modules/ai-native-founders-tw-web/src/components/credits/CreditsPage.astro)、[內容圖譜](../../modules/ai-native-founders-tw-web/src/graph/build-graph.ts)、[公開欄位](../../modules/ai-native-founders-tw-web/src/graph/public.ts)、[非程式貢獻](../../modules/ai-native-founders-tw-web/src/content/credits.yml)、[AI 摘要](../../modules/ai-native-founders-tw-web/src/pages/llms.txt.ts)、[AI 全文](../../modules/ai-native-founders-tw-web/src/pages/llms-full.txt.ts)。 | 回應留下 credit 與取得協作 context；不從署名或讀到自介推定成員資格。 |
 
 網站規劃文件的部分路徑與階段已落後實作；自介產生器、英文加入頁及 AI 輸出已存在，按程式現況同步，不沿用舊 roadmap 的未開發狀態。網站提出但未實作的完整成員目錄、知識庫與配對等內容沒有升格。
 
@@ -1613,7 +1613,7 @@ Onboard 自介審查與 Threads 招募已有 SOP；其他文件只引用已知�
 
 ### 修正
 
-三份產出改為 [首頁文案](../../specs/04-landing-page/[文案]首頁.md)、[加入頁文案](../../specs/04-landing-page/[文案]加入頁.md)與 [Credits 文案](../../specs/04-landing-page/[文案]Credits.md)。直接取網站文案原文，依頁面順序排段落與標題；不混入機制、實作說明或表格。原被否決全文已逐字保存於 CEO 側失敗紀錄。
+三份產出改為 [首頁文案](<../../specs/04-Web/landing-page/[文案]首頁.md>)、[加入頁文案](<../../specs/04-Web/landing-page/[文案]加入頁.md>)與 [Credits 文案](<../../specs/04-Web/landing-page/[文案]Credits.md>)。直接取網站文案原文，依頁面順序排段落與標題；不混入機制、實作說明或表格。原被否決全文已逐字保存於 CEO 側失敗紀錄。
 
 本次萃取固定文案及互動提示；動態人數、計時、git 作者及自介名單不編造固定值。共用頁首、頁尾仍隨各頁保留。原始文案尚未修改；網站中的舊 FAQ 與 R&R 用詞作為原文保留，不代表推翻現行審查、照片、Contributions 與 assignment 要求。
 

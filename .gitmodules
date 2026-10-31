@@ -1,3 +1,3 @@
 [submodule "ai-native-founders-tw-web"]
-	path = ai-native-founders-tw-web
+	path = modules/ai-native-founders-tw-web
 	url = git@github.com:AI-Native-Founders-TW/ai-native-founders-tw-web.git

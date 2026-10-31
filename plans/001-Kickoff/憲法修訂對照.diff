@@ -1,5 +1,5 @@
---- a/specs/01-制度/constitution.md
-+++ b/specs/01-制度/constitution.md
+--- a/specs/01-制度/憲法.md
++++ b/specs/01-制度/憲法.md
 @@ -1,156 +1,148 @@
  ---
  document_type: Spec
