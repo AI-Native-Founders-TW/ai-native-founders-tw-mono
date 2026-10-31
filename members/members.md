@@ -15,7 +15,7 @@
 
 | Member ID | GitHub 帳號 | 申請者 | 自介檔案 | R&Rs（連至 assignment，標明 Contributors） | 自介 PR |
 |---|---|---|---|---|---|
-| 待配置 | SunZhi-Will | Sun（謝上智） | [pending-sunzhi-will.md](pending-sunzhi-will.md) | [Hacker](r-and-r-assignment.md#web)（Contributors）、[活動籌辦與協助](r-and-r-assignment.md#events)（Contributors） | 待建立 |
+| 待配置 | SunZhi-Will | Sun（謝上智） | [pending-sunzhi-will.md](pending-sunzhi-will.md) | [Hacker](r-and-r-assignment.md#web)（Contributors）、[活動籌辦與協助](r-and-r-assignment.md#events)（Contributors） | [#8](https://github.com/AI-Native-Global-Founders-Speedrun-TW/ai-native-founders-tw-mono/pull/8) |
 
 ## 維護
 
