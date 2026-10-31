@@ -15,6 +15,7 @@
 
 | Member ID | GitHub 帳號 | 申請者 | 自介檔案 | R&Rs（連至 assignment，標明 Contributors） | 自介 PR |
 |---|---|---|---|---|---|
+| 000005 | ping-yee | 品毅 | [品毅的自介](000005-ping-yee.md) | [Contributors：基建-Repository 維護](r-and-r-assignment.md#repository) | 待建立 |
 
 ## 維護
 
